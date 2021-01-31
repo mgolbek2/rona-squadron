@@ -1,0 +1,6 @@
+module Pods_ronaSquadron {
+  umbrella header "Pods-ronaSquadron-umbrella.h"
+
+  export *
+  module * { export * }
+}
