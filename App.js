@@ -1,114 +1,99 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- * @flow strict-local
- */
+import * as React from 'react';
+import { View, TouchableOpacity, StyleSheet } from 'react-native';
+import { TabView, SceneMap } from 'react-native-tab-view';
+import Animated from 'react-native-reanimated';
 
-import React from 'react';
-import {
-  SafeAreaView,
-  StyleSheet,
-  ScrollView,
-  View,
-  Text,
-  StatusBar,
-} from 'react-native';
+import HomePage from "./components/homePage";
+import CDCPage from "./components/cdcPage";
 
-import {
-  Header,
-  LearnMoreLinks,
-  Colors,
-  DebugInstructions,
-  ReloadInstructions,
-} from 'react-native/Libraries/NewAppScreen';
+export default class TabViewExample extends React.Component {
+    state = {
+        index: 0,
+        routes: [
+            { key: 'first', title: 'Home' },
+            { key: 'second', title: 'CDC' },
+        ],
+    };
 
-const App: () => React$Node = () => {
-  return (
-    <>
-      <StatusBar barStyle="dark-content" />
-      <SafeAreaView>
-        <ScrollView
-          contentInsetAdjustmentBehavior="automatic"
-          style={styles.scrollView}>
-          <Header />
-          {global.HermesInternal == null ? null : (
-            <View style={styles.engine}>
-              <Text style={styles.footer}>Engine: Hermes</Text>
+    _handleIndexChange = index => this.setState({ index });
+
+    _renderTabBar = props => {
+        const inputRange = props.navigationState.routes.map((x, i) => i);
+
+        return (
+            <View style={styles.tabBar}>
+                {props.navigationState.routes.map((route, i) => {
+                    const color = Animated.color(
+                        Animated.round(
+                            Animated.interpolate(props.position, {
+                                inputRange,
+                                outputRange: inputRange.map(inputIndex =>
+                                    inputIndex === i ? 255 : 179
+                                ),
+                            })
+                        ),
+                        Animated.round(
+                            Animated.interpolate(props.position, {
+                                inputRange,
+                                outputRange: inputRange.map(inputIndex =>
+                                    inputIndex === i ? 255 : 179
+                                ),
+                            })
+                        ),
+                        Animated.round(
+                            Animated.interpolate(props.position, {
+                                inputRange,
+                                outputRange: inputRange.map(inputIndex =>
+                                    inputIndex === i ? 255 : 179
+                                ),
+                            })
+                        ),
+                    );
+
+                    return (
+                        <TouchableOpacity
+                            style={styles.tabItem}
+                            onPress={() => this.setState({ index: i })}>
+                            <Animated.Text style={[{ color}, styles.tabText]}>{route.title}</Animated.Text>
+                        </TouchableOpacity>
+                    );
+                })}
             </View>
-          )}
-          <View style={styles.body}>
-            <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}>Step One</Text>
-              <Text style={styles.sectionDescription}>
-                Edit <Text style={styles.highlight}>App.js</Text> to change this
-                screen and then come back to see your edits.
-              </Text>
-            </View>
-            <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}>See Your Changes</Text>
-              <Text style={styles.sectionDescription}>
-                <ReloadInstructions />
-              </Text>
-            </View>
-            <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}>Debug</Text>
-              <Text style={styles.sectionDescription}>
-                <DebugInstructions />
-              </Text>
-            </View>
-            <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}>Learn More</Text>
-              <Text style={styles.sectionDescription}>
-                Read the docs to discover what to do next:
-              </Text>
-            </View>
-            <LearnMoreLinks />
-          </View>
-        </ScrollView>
-      </SafeAreaView>
-    </>
-  );
-};
+        );
+    };
+
+    _renderScene = SceneMap({
+        first: HomePage,
+        second: CDCPage,
+    });
+
+    render() {
+        return (
+            <TabView
+                navigationState={this.state}
+                renderScene={this._renderScene}
+                renderTabBar={this._renderTabBar}
+                onIndexChange={this._handleIndexChange}
+            />
+        );
+    }
+}
 
 const styles = StyleSheet.create({
-  scrollView: {
-    backgroundColor: Colors.lighter,
-  },
-  engine: {
-    position: 'absolute',
-    right: 0,
-  },
-  body: {
-    backgroundColor: Colors.white,
-  },
-  sectionContainer: {
-    marginTop: 32,
-    paddingHorizontal: 24,
-  },
-  sectionTitle: {
-    fontSize: 24,
-    fontWeight: '600',
-    color: Colors.black,
-  },
-  sectionDescription: {
-    marginTop: 8,
-    fontSize: 18,
-    fontWeight: '400',
-    color: Colors.dark,
-  },
-  highlight: {
-    fontWeight: '700',
-  },
-  footer: {
-    color: Colors.dark,
-    fontSize: 12,
-    fontWeight: '600',
-    padding: 4,
-    paddingRight: 12,
-    textAlign: 'right',
-  },
+    container: {
+        flex: 1,
+    },
+    tabBar: {
+        flexDirection: 'row',
+        paddingTop: 35,
+        backgroundColor: '#239e39'
+    },
+    tabText: {
+        fontSize: 20
+    },
+    tabItem: {
+        flex: 1,
+        alignItems: 'center',
+        padding: 16
+    },
 });
-
-export default App;
