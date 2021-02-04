@@ -7,9 +7,20 @@ import { buttons } from './commonStyles'
 const LoginPage = ({navigation}) => {
   const [value, onChangeText] = React.useState('');
   let pass = '';
+   const users = {
+    'Megan': {
+        'name': 'Megan',
+        'sdoh_flags': ['food_insecurity', 'loneliness']
+    },
+    'Fred': {
+        'name': 'Fred',
+        'sdoh_flags': ['financial_strain', 'housing_insecurity', 'transportation']
+    }
+   }
+
 
   const login = () => {
-    setStateForKey("userName", value)
+    setStateForKey("user", users[value])
     navigation.navigate('TabContainer');
   }
 

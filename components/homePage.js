@@ -2,17 +2,18 @@ import React from 'react'
 import { StyleSheet, Text, View, SafeAreaView } from 'react-native';
 import { getStateForKey } from "react-native-redux"
 
-import ServiceCard from './serviceCard'
+import ServiceCards from './serviceCards'
 
-const HomePage = ({}) => {
-    let name = getStateForKey("userName")
+const HomePage = () => {
+    let name = getStateForKey("user.name");
+
     return (
         <SafeAreaView style={[styles.scene]}>
             <View style={[styles.welcomeMessageView]}>
                 <Text style={[styles.welcomeText]}>{name}</Text>
             </View>
             <View style={[styles.cardListContainers]}>
-                <ServiceCard></ServiceCard>
+                <ServiceCards ></ServiceCards>
             </View>
         </SafeAreaView>
     )
