@@ -9,29 +9,51 @@ const ServiceCard = ({}) => {
   let pass = '';
 
   const services = [
-    {
-        img: {uri: '/Users/megangolbek/Documents/GitHub/ronaSquadron/images/ResturantMealProgram.jpg'},
-        name: 'Restaurant Meal Programs (RMP)',
-        url: 'https://www.sandiegocounty.gov/content/sdc/hhsa/programs/ssp/restaurant_meals_program.html',
-        phone: '858-695-9655',
-        'sdoh_flag': 'food_insecurity'
-    }
-  ]
+          {
+              "serviceName": "Restaurant Meal Programs (RMP)",
+              "url": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/ssp/restaurant_meals_program/owner_faqs.html",
+              "phone": "858-695-9655",
+              "sdoh_flag": "food_insecurity",
+              "img": {uri: '/Users/megangolbek/Documents/GitHub/ronaSquadron/images/RMP.jpg'}
+          },
+          {
+              "serviceName": "Seniors A Go Go",
+              "url": "https://my211.force.com/0014100000aV5GLAA0",
+              "phone": "619-284-9281",
+              "sdoh_flag": "transportation",
+              "img": {uri: '/Users/megangolbek/Documents/GitHub/ronaSquadron/images/Elderlogo.png'}
+          },
+          {
+              "serviceName": "Financial and Support Services Division",
+              "url": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/sd/financial_support_services.html",
+              "phone": "619-515-6712",
+              "sdoh_flag": "financial_strain",
+              "img": {uri: '/Users/megangolbek/Documents/GitHub/ronaSquadron/images/cosd-logo.png'}
+          },
+          {
+              "serviceName": "COVID-19 Emergency Rental Assistance Program",
+              "url": "https://www.sandiegocounty.gov/content/sdc/sdhcd.html",
+              "phone": "858-694-4807",
+              "sdoh_flag": "housing_insecurity",
+              "img": {uri: '/Users/megangolbek/Documents/GitHub/ronaSquadron/images/05-31-16-home-nav-rental-assistance.png'}
+          },
+          {
+              "serviceName": "Community Action Partnership",
+              "url": "https://www.livewellsd.org/content/livewell/home/about.html",
+              "phone": "619-228-2840",
+              "sdoh_flag": "loneliness",
+              "img": {uri: '/Users/megangolbek/Documents/GitHub/ronaSquadron/images/Rlogo.png'}
+          }
+      ];
 
-  const service = {
-    img: {uri: '/Users/megangolbek/Documents/GitHub/ronaSquadron/images/ResturantMealProgram.jpg'},
-    name: 'Restaurant Meals Program',
-    url: 'https://www.sandiegocounty.gov/content/sdc/hhsa/programs/ssp/restaurant_meals_program.html',
-    phone: '111-111-1111',
-    'sdoh_flag': 'food_insecurity'
-   }
+  const service = services[0];
 
 
     return (
         <View style={[styles.cardContainer]}>
             <View style={[styles.imageContainer]}>
                 <ImageBackground source={service.img} style={[styles.image]} imageStyle={[styles.imageStyle]}>
-                    <Text style={[styles.imageText]}>{service.name}</Text>
+                    <Text style={[styles.imageText]}>{service.serviceName}</Text>
                 </ImageBackground>
             </View>
             <View style={[styles.contactContainer]}>
