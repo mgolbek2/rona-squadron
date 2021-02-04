@@ -1,0 +1,5 @@
+Label	LabelName	Samples
+0	l_HomeAutomation	38
+1	l_Weather	26
+2	q_covid-19-qna	10213
+3	q_financial-qna	9789
