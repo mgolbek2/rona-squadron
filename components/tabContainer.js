@@ -3,8 +3,8 @@ import { View, TouchableOpacity, StyleSheet } from 'react-native';
 import { TabView, SceneMap } from 'react-native-tab-view';
 import Animated from 'react-native-reanimated';
 
-import HomePage from "./components/homePage";
-import CDCPage from "./components/cdcPage";
+import HomePage from "./homePage";
+import CDCPage from "./cdcPage";
 
 export default class TabContainer extends React.Component {
     state = {
@@ -85,8 +85,7 @@ const styles = StyleSheet.create({
     },
     tabBar: {
         flexDirection: 'row',
-        paddingTop: 35,
-        backgroundColor: '#239e39'
+        backgroundColor: '#4a7729'
     },
     tabText: {
         fontSize: 20

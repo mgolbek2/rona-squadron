@@ -1,14 +1,18 @@
 import React from 'react'
 import { StyleSheet, Text, View, SafeAreaView } from 'react-native';
+import { getStateForKey } from "react-native-redux"
+
+import ServiceCard from './serviceCard'
 
 const HomePage = ({}) => {
-
-    const welcomeMesage = 'Welcome to \'Rona Squadron'
+    let name = getStateForKey("userName")
     return (
         <SafeAreaView style={[styles.scene]}>
             <View style={[styles.welcomeMessageView]}>
-                <Text style={[styles.welcomeText]}>{welcomeMesage}</Text>
-                <Text>The App that...</Text>
+                <Text style={[styles.welcomeText]}>{name}</Text>
+            </View>
+            <View style={[styles.cardListContainers]}>
+                <ServiceCard></ServiceCard>
             </View>
         </SafeAreaView>
     )
@@ -27,5 +31,9 @@ const styles = StyleSheet.create({
     },
     welcomeText: {
         fontSize: 20
+    },
+    cardListContainers: {
+        marginLeft: 15,
+        marginRight: 15
     }
 });

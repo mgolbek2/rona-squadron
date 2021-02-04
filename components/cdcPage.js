@@ -1,10 +1,12 @@
 import React, { useState, useCallback, useEffect }  from 'react'
 import { StyleSheet, Text, View, SafeAreaView } from 'react-native';
 import { GiftedChat } from 'react-native-gifted-chat'
+import { getStateForKey } from "react-native-redux"
 
 const CDCPage = ({}) => {
-let num = 2;
-const [messages, setMessages] = useState([]);
+    let num = 2;
+    const [messages, setMessages] = useState([]);
+    let username = getStateForKey("userName")
 
   useEffect(() => {
     setMessages([
@@ -51,7 +53,7 @@ const [messages, setMessages] = useState([]);
   const setResponse = async (message) => {
       let responseMsg = await sendMessage(message);
       console.log(responseMsg);
-      let msgs = [{_id: num, createdAt: new Date(), "text": responseMsg, "user": {"_id": 2}}]
+      let msgs = [{_id: num, createdAt: new Date(), "text": responseMsg, "user": {"_id": 2, name: 'Sheldon'}}]
       num++;
       setMessages(previousMessages => GiftedChat.append(previousMessages, msgs))
   }
@@ -62,6 +64,7 @@ const [messages, setMessages] = useState([]);
       onSend={messages => onSend(messages)}
       user={{
         _id: 1,
+        name: username
       }}
     />
   )

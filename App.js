@@ -1,26 +1,49 @@
-import * as React from 'react';
-import { View, TouchableOpacity, StyleSheet } from 'react-native';
-import { TabView, SceneMap } from 'react-native-tab-view';
-import Animated from 'react-native-reanimated';
+import React from 'react';
+import { View } from 'react-native';
+import 'react-native-gesture-handler';
+import { Provider } from "react-native-redux"
+import { NavigationContainer } from '@react-navigation/native';
+import { createStackNavigator } from '@react-navigation/stack';
 
-import TabContainer from "./components/tabContainer";
+import TabContainer from './components/tabContainer'
+import LoginPage from './components/loginPage'
 
-export default class App extends React.Component {
+const App: () => React$Node = () => {
 
-    render() {
-        return (
-            <TabView
-                navigationState={this.state}
-                renderScene={this._renderScene}
-                renderTabBar={this._renderTabBar}
-                onIndexChange={this._handleIndexChange}
-            />
-        );
-    }
-}
+    const Stack = createStackNavigator();
+    const HeaderTitleStyle = {
+        fontSize: 30,
+        alignSelf: 'center'
+    };
+    const HeaderTitleContainerStyle = {
+        left: 0
+    };
+    const HomeButtonStyle = {
+        marginRight: 20
+    };
+    const myInitialState = {userName: ''}
 
-const styles = StyleSheet.create({
-    container: {
-        flex: 1,
-    },
-});
+    return (
+      <Provider
+       initialState={myInitialState}
+      >
+            <NavigationContainer>
+                <Stack.Navigator>
+                    <Stack.Screen name = "Login" component={LoginPage} options={({ navigation }) => ({
+                        title: '\'Rona Squadron',
+                        headerTitleStyle: HeaderTitleStyle,
+                        headerTitleContainerStyle: HeaderTitleContainerStyle,
+                    })}/>
+                    <Stack.Screen name="TabContainer" component={TabContainer} options={{
+                        title: '\'Rona Squadron',
+                        headerTitleStyle: HeaderTitleStyle,
+                        headerTitleContainerStyle: HeaderTitleContainerStyle
+                    }}/>
+                </Stack.Navigator>
+            </NavigationContainer>
+       </Provider>
+    );
+};
+
+
+export default App;
