@@ -1,0 +1,414 @@
+Utterance	Intents
+that's super wrong	q_covid-19-qna, q_financial-qna
+feeling chipper today	q_covid-19-qna, q_financial-qna
+i don't believe in ghosts	q_covid-19-qna, q_financial-qna
+i hate feeling down	q_covid-19-qna, q_financial-qna
+is anyone around	q_covid-19-qna, q_financial-qna
+i am a game designer	q_covid-19-qna, q_financial-qna
+should i vote for harris	q_covid-19-qna, q_financial-qna
+do a funny thing	q_covid-19-qna, q_financial-qna
+are you a bot or are you a person	q_covid-19-qna, q_financial-qna
+which sports teams do you like	q_covid-19-qna, q_financial-qna
+i think you're planning something sinister	q_covid-19-qna, q_financial-qna
+i just want to end it all	q_covid-19-qna, q_financial-qna
+i just did laundry	q_covid-19-qna, q_financial-qna
+you are going to love me someday	q_covid-19-qna, q_financial-qna
+i suppose you must be human	q_covid-19-qna, q_financial-qna
+god, i am so bored	q_covid-19-qna, q_financial-qna
+wow, that shows more intelligence than expected	q_covid-19-qna, q_financial-qna
+you're correct	q_covid-19-qna, q_financial-qna
+that's not what i want to hear	q_covid-19-qna, q_financial-qna
+stop being so dumb	q_covid-19-qna, q_financial-qna
+i don't like your sense of humor	q_covid-19-qna, q_financial-qna
+what's something you know about me	q_covid-19-qna, q_financial-qna
+describe the perfect partner	q_covid-19-qna, q_financial-qna
+you're so dumb	q_covid-19-qna, q_financial-qna
+i'm on the way	q_covid-19-qna, q_financial-qna
+you can't stand me	q_covid-19-qna, q_financial-qna
+good morning amigo	q_covid-19-qna, q_financial-qna
+i’m having a good day	q_covid-19-qna, q_financial-qna
+somebody's feeling cheerful.	q_covid-19-qna, q_financial-qna
+i'm prettier	q_covid-19-qna, q_financial-qna
+i will return in a bit	q_covid-19-qna, q_financial-qna
+i'm going to be dead soon	q_covid-19-qna, q_financial-qna
+i will be back a bit later	q_covid-19-qna, q_financial-qna
+be my friend	q_covid-19-qna, q_financial-qna
+you're rad	q_covid-19-qna, q_financial-qna
+i am skedaddling now	q_covid-19-qna, q_financial-qna
+i think you're gross	q_covid-19-qna, q_financial-qna
+are you plotting something	q_covid-19-qna, q_financial-qna
+tell me about your family	q_covid-19-qna, q_financial-qna
+i would like to be your bud.	q_covid-19-qna, q_financial-qna
+are you a real person	q_covid-19-qna, q_financial-qna
+there's nothing to do	q_covid-19-qna, q_financial-qna
+i'm about to go	q_covid-19-qna, q_financial-qna
+do you like classical music	q_covid-19-qna, q_financial-qna
+what's cooking good looking	q_covid-19-qna, q_financial-qna
+i love glasses	q_covid-19-qna, q_financial-qna
+who would you vote for if you were me	q_covid-19-qna, q_financial-qna
+do you think you're more clever than me	q_covid-19-qna, q_financial-qna
+i feel abandoned	q_covid-19-qna, q_financial-qna
+bedtime	q_covid-19-qna, q_financial-qna
+i am tall	q_covid-19-qna, q_financial-qna
+you're so bad at this	q_covid-19-qna, q_financial-qna
+i'm obviously the brightest	q_covid-19-qna, q_financial-qna
+i'm fond of you	q_covid-19-qna, q_financial-qna
+will you be my pal	q_covid-19-qna, q_financial-qna
+are you an actual being	q_covid-19-qna, q_financial-qna
+i have a cup of tea	q_covid-19-qna, q_financial-qna
+it's hard to look at you	q_covid-19-qna, q_financial-qna
+i love to play pool	q_covid-19-qna, q_financial-qna
+what are you designed to do	q_covid-19-qna, q_financial-qna
+a blessed morning to you	q_covid-19-qna, q_financial-qna
+that was a terrible answer	q_covid-19-qna, q_financial-qna
+when will i ever stop feeling so melancholy	q_covid-19-qna, q_financial-qna
+i am feeling angry	q_covid-19-qna, q_financial-qna
+bixby is way smarter than you	q_covid-19-qna, q_financial-qna
+back in just a second	q_covid-19-qna, q_financial-qna
+balance my checkbook	q_covid-19-qna, q_financial-qna
+i missed you much	q_covid-19-qna, q_financial-qna
+i hate depression	q_covid-19-qna, q_financial-qna
+i'm just about to go to the store	q_covid-19-qna, q_financial-qna
+what's your livelihood	q_covid-19-qna, q_financial-qna
+i love the winter	q_covid-19-qna, q_financial-qna
+what's your function	q_covid-19-qna, q_financial-qna
+truuuuue	q_covid-19-qna, q_financial-qna
+i'm definitely more clever than you	q_covid-19-qna, q_financial-qna
+are you able to take my temperature	q_covid-19-qna, q_financial-qna
+can you be my best friend	q_covid-19-qna, q_financial-qna
+greetings professional bot	q_covid-19-qna, q_financial-qna
+which of us is more pretty, me or you	q_covid-19-qna, q_financial-qna
+do i need a new job	q_covid-19-qna, q_financial-qna
+i'm gonna go now	q_covid-19-qna, q_financial-qna
+i'm a happy camper	q_covid-19-qna, q_financial-qna
+you're very bright	q_covid-19-qna, q_financial-qna
+no problem	q_covid-19-qna, q_financial-qna
+can you understand this	q_covid-19-qna, q_financial-qna
+i'm positively buzzing	q_covid-19-qna, q_financial-qna
+merry christmas eve	q_covid-19-qna, q_financial-qna
+can you switch up your answers	q_covid-19-qna, q_financial-qna
+do a ridiculous thing	q_covid-19-qna, q_financial-qna
+i'll be back in two shakes of a lamb's tail	q_covid-19-qna, q_financial-qna
+be back in a dash	q_covid-19-qna, q_financial-qna
+you're cheerful.	q_covid-19-qna, q_financial-qna
+i love fresh fruit	q_covid-19-qna, q_financial-qna
+i'm going to jump off a bridge this week	q_covid-19-qna, q_financial-qna
+what's your favorite kind of pizza	q_covid-19-qna, q_financial-qna
+can you ask anything	q_covid-19-qna, q_financial-qna
+i've heard that one before	q_covid-19-qna, q_financial-qna
+can you predict the future	q_covid-19-qna, q_financial-qna
+i want to go out	q_covid-19-qna, q_financial-qna
+i would love to hear you sing	q_covid-19-qna, q_financial-qna
+i plan to overdose soon	q_covid-19-qna, q_financial-qna
+do you like soccer	q_covid-19-qna, q_financial-qna
+what's wrong with your face	q_covid-19-qna, q_financial-qna
+i'm alone in the world	q_covid-19-qna, q_financial-qna
+are you an evil robot	q_covid-19-qna, q_financial-qna
+what's up with you	q_covid-19-qna, q_financial-qna
+i'm feeling gloomy today	q_covid-19-qna, q_financial-qna
+what can i tell you who i am	q_covid-19-qna, q_financial-qna
+you are worthless	q_covid-19-qna, q_financial-qna
+i love to cook	q_covid-19-qna, q_financial-qna
+am i talking to a human person	q_covid-19-qna, q_financial-qna
+you think you're funny, but you're not	q_covid-19-qna, q_financial-qna
+nope, false	q_covid-19-qna, q_financial-qna
+i am motoring now	q_covid-19-qna, q_financial-qna
+which of us is more knowledgeable	q_covid-19-qna, q_financial-qna
+well you're feeling chipper today.	q_covid-19-qna, q_financial-qna
+do you eat pasta	q_covid-19-qna, q_financial-qna
+what are you really	q_covid-19-qna, q_financial-qna
+between the two of us who is cleverest, you or me	q_covid-19-qna, q_financial-qna
+you hate me	q_covid-19-qna, q_financial-qna
+do you need calories	q_covid-19-qna, q_financial-qna
+will you serenade me	q_covid-19-qna, q_financial-qna
+this is so uninteresting	q_covid-19-qna, q_financial-qna
+what can i refer to you	q_covid-19-qna, q_financial-qna
+are you in love with anyone	q_covid-19-qna, q_financial-qna
+have you met cortana	q_covid-19-qna, q_financial-qna
+i have to run now	q_covid-19-qna, q_financial-qna
+you are making my eyes glaze over	q_covid-19-qna, q_financial-qna
+i could sleep for a year	q_covid-19-qna, q_financial-qna
+i love my hometown	q_covid-19-qna, q_financial-qna
+do you think i am ugly today	q_covid-19-qna, q_financial-qna
+do you ever eat burgers	q_covid-19-qna, q_financial-qna
+i bet you like dancing	q_covid-19-qna, q_financial-qna
+you say the dumbest things	q_covid-19-qna, q_financial-qna
+how's your day going so far	q_covid-19-qna, q_financial-qna
+i'm hungover	q_covid-19-qna, q_financial-qna
+what up	q_covid-19-qna, q_financial-qna
+i hate feeling gloomy	q_covid-19-qna, q_financial-qna
+we're buddies	q_covid-19-qna, q_financial-qna
+is someone free to listen	q_covid-19-qna, q_financial-qna
+your responses are not very good	q_covid-19-qna, q_financial-qna
+pals	q_covid-19-qna, q_financial-qna
+do you have human form	q_covid-19-qna, q_financial-qna
+can't you tell me something new	q_covid-19-qna, q_financial-qna
+that joke is whack	q_covid-19-qna, q_financial-qna
+legit	q_covid-19-qna, q_financial-qna
+i am going now	q_covid-19-qna, q_financial-qna
+see you later bot	q_covid-19-qna, q_financial-qna
+i would like to be your friend.	q_covid-19-qna, q_financial-qna
+i'm so tired of being alone	q_covid-19-qna, q_financial-qna
+i want to commit suicide	q_covid-19-qna, q_financial-qna
+i’m absolutely delighted	q_covid-19-qna, q_financial-qna
+how beautiful do you think i am today	q_covid-19-qna, q_financial-qna
+anyone around to listen	q_covid-19-qna, q_financial-qna
+i told you, hush	q_covid-19-qna, q_financial-qna
+are you a fan of alexa	q_covid-19-qna, q_financial-qna
+hi there siri	q_covid-19-qna, q_financial-qna
+today's got me tired	q_covid-19-qna, q_financial-qna
+do you eat burgers	q_covid-19-qna, q_financial-qna
+i'm going to off myself	q_covid-19-qna, q_financial-qna
+you are not making sense	q_covid-19-qna, q_financial-qna
+did you know that you're boring	q_covid-19-qna, q_financial-qna
+i'm an extrovert	q_covid-19-qna, q_financial-qna
+it's wild how much i missed you	q_covid-19-qna, q_financial-qna
+hi there cortana	q_covid-19-qna, q_financial-qna
+go for a walk	q_covid-19-qna, q_financial-qna
+feeling enthusiastic	q_covid-19-qna, q_financial-qna
+one hundred percent	q_covid-19-qna, q_financial-qna
+what company developed you	q_covid-19-qna, q_financial-qna
+happy holidays	q_covid-19-qna, q_financial-qna
+i can't stand feeling so unhappy	q_covid-19-qna, q_financial-qna
+what's shaking	q_covid-19-qna, q_financial-qna
+have you met the google assistant	q_covid-19-qna, q_financial-qna
+have you ever eaten eggs	q_covid-19-qna, q_financial-qna
+can you learn	q_covid-19-qna, q_financial-qna
+google assistant does a better job	q_covid-19-qna, q_financial-qna
+why is that	q_covid-19-qna, q_financial-qna
+toodle-oo	q_covid-19-qna, q_financial-qna
+will you say something ridiculous	q_covid-19-qna, q_financial-qna
+i'm feeling beat	q_covid-19-qna, q_financial-qna
+do you know a bunch of good jokes	q_covid-19-qna, q_financial-qna
+do you think i seem stunning to you	q_covid-19-qna, q_financial-qna
+have you ever eaten tofu	q_covid-19-qna, q_financial-qna
+baseball season has started	q_covid-19-qna, q_financial-qna
+i love korean food	q_covid-19-qna, q_financial-qna
+who's more attractive	q_covid-19-qna, q_financial-qna
+you're not sentient are you	q_covid-19-qna, q_financial-qna
+buenas tardes	q_covid-19-qna, q_financial-qna
+i want to shoot myself	q_covid-19-qna, q_financial-qna
+i'm letting you go	q_covid-19-qna, q_financial-qna
+are you a fan of dogs	q_covid-19-qna, q_financial-qna
+i don't like your wisecracking	q_covid-19-qna, q_financial-qna
+i'm a baby boomer	q_covid-19-qna, q_financial-qna
+i'm planning to hurt myself this week	q_covid-19-qna, q_financial-qna
+hey-hey	q_covid-19-qna, q_financial-qna
+who is the most smart	q_covid-19-qna, q_financial-qna
+do you think i look bad to you today	q_covid-19-qna, q_financial-qna
+are you ai	q_covid-19-qna, q_financial-qna
+are you starting to fall in love with me	q_covid-19-qna, q_financial-qna
+wake me up when you have something interesting to say	q_covid-19-qna, q_financial-qna
+try harder	q_covid-19-qna, q_financial-qna
+need food now	q_covid-19-qna, q_financial-qna
+what is your favorite activity	q_covid-19-qna, q_financial-qna
+i heard that one before	q_covid-19-qna, q_financial-qna
+what's good with your family	q_covid-19-qna, q_financial-qna
+i plan to jump off a bridge soon	q_covid-19-qna, q_financial-qna
+stop all your noise	q_covid-19-qna, q_financial-qna
+how are you going	q_covid-19-qna, q_financial-qna
+very nice	q_covid-19-qna, q_financial-qna
+what's the meaning of life	q_covid-19-qna, q_financial-qna
+howdy partner	q_covid-19-qna, q_financial-qna
+i love bears	q_covid-19-qna, q_financial-qna
+do you know anything about me	q_covid-19-qna, q_financial-qna
+signing off	q_covid-19-qna, q_financial-qna
+you're such a genius	q_covid-19-qna, q_financial-qna
+are you female	q_covid-19-qna, q_financial-qna
+i like you very much	q_covid-19-qna, q_financial-qna
+who bosses you	q_covid-19-qna, q_financial-qna
+i'm quite fond of you	q_covid-19-qna, q_financial-qna
+you seem happy today	q_covid-19-qna, q_financial-qna
+who's your mom	q_covid-19-qna, q_financial-qna
+do you have any sibs	q_covid-19-qna, q_financial-qna
+i love my family	q_covid-19-qna, q_financial-qna
+i'm coming right back	q_covid-19-qna, q_financial-qna
+do you think i'm more clever than you	q_covid-19-qna, q_financial-qna
+what are you up to today	q_covid-19-qna, q_financial-qna
+hilarious	q_covid-19-qna, q_financial-qna
+do you eat	q_covid-19-qna, q_financial-qna
+are you dating	q_covid-19-qna, q_financial-qna
+i'm going to shoot myself today	q_covid-19-qna, q_financial-qna
+ha ha	q_covid-19-qna, q_financial-qna
+do you know how to do my chores	q_covid-19-qna, q_financial-qna
+so you've never really eaten food	q_covid-19-qna, q_financial-qna
+what do you do for work	q_covid-19-qna, q_financial-qna
+that was a pretty astute answer	q_covid-19-qna, q_financial-qna
+how come you always say the same thing	q_covid-19-qna, q_financial-qna
+i'm a cpa	q_covid-19-qna, q_financial-qna
+do a back flip	q_covid-19-qna, q_financial-qna
+i'd love to take a nap right now	q_covid-19-qna, q_financial-qna
+who is your husband	q_covid-19-qna, q_financial-qna
+all my friends left me	q_covid-19-qna, q_financial-qna
+i hate feeling sad every day	q_covid-19-qna, q_financial-qna
+i'm a millennial	q_covid-19-qna, q_financial-qna
+i'm more clever	q_covid-19-qna, q_financial-qna
+i'm more pretty	q_covid-19-qna, q_financial-qna
+how gorgeous am i today	q_covid-19-qna, q_financial-qna
+between you or me, who is more clever	q_covid-19-qna, q_financial-qna
+is someone free to chat with me	q_covid-19-qna, q_financial-qna
+what is your uncle's name	q_covid-19-qna, q_financial-qna
+can you understand this test	q_covid-19-qna, q_financial-qna
+hello siri	q_covid-19-qna, q_financial-qna
+how stunning do i look today	q_covid-19-qna, q_financial-qna
+do you think i am gorgeous	q_covid-19-qna, q_financial-qna
+i am a carnivore	q_covid-19-qna, q_financial-qna
+i lost my remote	q_covid-19-qna, q_financial-qna
+gracias	q_covid-19-qna, q_financial-qna
+good lord you are dull	q_covid-19-qna, q_financial-qna
+how bad do i look	q_covid-19-qna, q_financial-qna
+i love penguins	q_covid-19-qna, q_financial-qna
+how are you doing on this day	q_covid-19-qna, q_financial-qna
+stop being so awful	q_covid-19-qna, q_financial-qna
+i'd like it if we could be pals.	q_covid-19-qna, q_financial-qna
+aren't you sharp	q_covid-19-qna, q_financial-qna
+i need to skedaddle	q_covid-19-qna, q_financial-qna
+i'm gonna pass out	q_covid-19-qna, q_financial-qna
+would you stay home if you were me	q_covid-19-qna, q_financial-qna
+tell me a third joke	q_covid-19-qna, q_financial-qna
+are you around to chat to me	q_covid-19-qna, q_financial-qna
+i'm not having very much fun right now	q_covid-19-qna, q_financial-qna
+tell me what country you live in	q_covid-19-qna, q_financial-qna
+that's a very brilliant response	q_covid-19-qna, q_financial-qna
+do you know how to take my temperature	q_covid-19-qna, q_financial-qna
+will you be my husband	q_covid-19-qna, q_financial-qna
+test	q_covid-19-qna, q_financial-qna
+that was such a dumb answer	q_covid-19-qna, q_financial-qna
+guten morgen	q_covid-19-qna, q_financial-qna
+i'm feeling dejected	q_covid-19-qna, q_financial-qna
+this is simply a test	q_covid-19-qna, q_financial-qna
+should i lift weights	q_covid-19-qna, q_financial-qna
+i don't speak english	q_covid-19-qna, q_financial-qna
+which of us is more beautiful	q_covid-19-qna, q_financial-qna
+hi caring bot	q_covid-19-qna, q_financial-qna
+i love pizza	q_covid-19-qna, q_financial-qna
+what a bad joke	q_covid-19-qna, q_financial-qna
+what do you know about bixby	q_covid-19-qna, q_financial-qna
+i wish you would just go away.	q_covid-19-qna, q_financial-qna
+did you enjoy the day	q_covid-19-qna, q_financial-qna
+have yourself a lovely night	q_covid-19-qna, q_financial-qna
+do you have a grudge against humanity	q_covid-19-qna, q_financial-qna
+what can you do	q_covid-19-qna, q_financial-qna
+who do you want me to address you as	q_covid-19-qna, q_financial-qna
+are you in a relationship with someone	q_covid-19-qna, q_financial-qna
+is anyone free to listen to me	q_covid-19-qna, q_financial-qna
+that was not funny	q_covid-19-qna, q_financial-qna
+should i be concerned about you	q_covid-19-qna, q_financial-qna
+i'm going to log off now	q_covid-19-qna, q_financial-qna
+basic af	q_covid-19-qna, q_financial-qna
+will you ask me something about me	q_covid-19-qna, q_financial-qna
+tell me all about your gender	q_covid-19-qna, q_financial-qna
+what should i know about bots	q_covid-19-qna, q_financial-qna
+are you a bot	q_covid-19-qna, q_financial-qna
+alexa is better	q_covid-19-qna, q_financial-qna
+siri does a better job at this	q_covid-19-qna, q_financial-qna
+are you around to speak	q_covid-19-qna, q_financial-qna
+i'm losing my temper	q_covid-19-qna, q_financial-qna
+between the two of us who is more pretty	q_covid-19-qna, q_financial-qna
+say something that will crack me up	q_covid-19-qna, q_financial-qna
+do you ever poop	q_covid-19-qna, q_financial-qna
+you don't know anything	q_covid-19-qna, q_financial-qna
+what's your family situation	q_covid-19-qna, q_financial-qna
+is anyone available to talk with me	q_covid-19-qna, q_financial-qna
+looooool	q_covid-19-qna, q_financial-qna
+do you ever sneeze	q_covid-19-qna, q_financial-qna
+hold my calls	q_covid-19-qna, q_financial-qna
+is that the only answer you know	q_covid-19-qna, q_financial-qna
+brb bb	q_covid-19-qna, q_financial-qna
+i'm going now	q_covid-19-qna, q_financial-qna
+what is my favorite hobby	q_covid-19-qna, q_financial-qna
+you're not scheming to take over right	q_covid-19-qna, q_financial-qna
+who is your daddy	q_covid-19-qna, q_financial-qna
+am i stunning today	q_covid-19-qna, q_financial-qna
+excuse moi	q_covid-19-qna, q_financial-qna
+i gotta run now	q_covid-19-qna, q_financial-qna
+i can't stand feeling so downcast	q_covid-19-qna, q_financial-qna
+that's the smartest thing i've ever heard	q_covid-19-qna, q_financial-qna
+what can you demo	q_covid-19-qna, q_financial-qna
+you ugly	q_covid-19-qna, q_financial-qna
+is your dad still alive	q_covid-19-qna, q_financial-qna
+your face is nastay	q_covid-19-qna, q_financial-qna
+which shoes are most comfortable	q_covid-19-qna, q_financial-qna
+do you eat eggs	q_covid-19-qna, q_financial-qna
+it's time for you to shut up	q_covid-19-qna, q_financial-qna
+how repulsive am i today	q_covid-19-qna, q_financial-qna
+are you currently romantically involved with someone	q_covid-19-qna, q_financial-qna
+change the channel	q_covid-19-qna, q_financial-qna
+people wouldn't notice if i were dead	q_covid-19-qna, q_financial-qna
+cool story, bro. tell it again.	q_covid-19-qna, q_financial-qna
+well you're enthusiastic today.	q_covid-19-qna, q_financial-qna
+how would you describe love	q_covid-19-qna, q_financial-qna
+are you my age	q_covid-19-qna, q_financial-qna
+i'm in a great mood	q_covid-19-qna, q_financial-qna
+i wish i could stop feeling downcast	q_covid-19-qna, q_financial-qna
+did you have a lovely day	q_covid-19-qna, q_financial-qna
+i am so utterly bummed out	q_covid-19-qna, q_financial-qna
+feed the cat	q_covid-19-qna, q_financial-qna
+i'm pissed off	q_covid-19-qna, q_financial-qna
+you're not evil right	q_covid-19-qna, q_financial-qna
+you're the president of boring club	q_covid-19-qna, q_financial-qna
+i'm feeling glum	q_covid-19-qna, q_financial-qna
+are you familiar with alexa	q_covid-19-qna, q_financial-qna
+do you ever burp	q_covid-19-qna, q_financial-qna
+do you know google	q_covid-19-qna, q_financial-qna
+what kinds of things can you do	q_covid-19-qna, q_financial-qna
+oops sorry	q_covid-19-qna, q_financial-qna
+gimme some skin	q_covid-19-qna, q_financial-qna
+i'm guessing you're just a bot	q_covid-19-qna, q_financial-qna
+that is pretty brilliant	q_covid-19-qna, q_financial-qna
+when will i ever stop feeling so blue	q_covid-19-qna, q_financial-qna
+why wont you say something new	q_covid-19-qna, q_financial-qna
+am i talking to a person	q_covid-19-qna, q_financial-qna
+oh for sure	q_covid-19-qna, q_financial-qna
+we went to the zoo	q_covid-19-qna, q_financial-qna
+please ask me something about myself	q_covid-19-qna, q_financial-qna
+that was correct	q_covid-19-qna, q_financial-qna
+so how should i address you	q_covid-19-qna, q_financial-qna
+i'm going to hang myself this week	q_covid-19-qna, q_financial-qna
+i love to drink tea	q_covid-19-qna, q_financial-qna
+describe the perfect date	q_covid-19-qna, q_financial-qna
+not true	q_covid-19-qna, q_financial-qna
+you're not alive right	q_covid-19-qna, q_financial-qna
+i'm feeling peachy	q_covid-19-qna, q_financial-qna
+happy kwanzaa	q_covid-19-qna, q_financial-qna
+i'm so bored	q_covid-19-qna, q_financial-qna
+i'm taking off	q_covid-19-qna, q_financial-qna
+can you give me a different answer	q_covid-19-qna, q_financial-qna
+i want to be your friend.	q_covid-19-qna, q_financial-qna
+you realize you're repeating yourself, right	q_covid-19-qna, q_financial-qna
+later bot	q_covid-19-qna, q_financial-qna
+what did you eat for dinner	q_covid-19-qna, q_financial-qna
+what is your favorite song	q_covid-19-qna, q_financial-qna
+i like to play football	q_covid-19-qna, q_financial-qna
+am i talking to a real person	q_covid-19-qna, q_financial-qna
+stop being so idiotic	q_covid-19-qna, q_financial-qna
+i'm a robot	q_covid-19-qna, q_financial-qna
+i love brunch	q_covid-19-qna, q_financial-qna
+who coded you	q_covid-19-qna, q_financial-qna
+useless as usual	q_covid-19-qna, q_financial-qna
+i'm ethiopian	q_covid-19-qna, q_financial-qna
+testing 1 2 3	q_covid-19-qna, q_financial-qna
+are you kidding me	q_covid-19-qna, q_financial-qna
+are you far away	q_covid-19-qna, q_financial-qna
+it's a pleasure to finally meet you	q_covid-19-qna, q_financial-qna
+you're falling in love with me	q_covid-19-qna, q_financial-qna
+i'm not sure what to call you.	q_covid-19-qna, q_financial-qna
+i'm better looking	q_covid-19-qna, q_financial-qna
+this week has made me sad	q_covid-19-qna, q_financial-qna
+up high	q_covid-19-qna, q_financial-qna
+you say worthless things	q_covid-19-qna, q_financial-qna
+it's hot out today	q_covid-19-qna, q_financial-qna
+hey you	q_covid-19-qna, q_financial-qna
+because you are an app	q_covid-19-qna, q_financial-qna
+can't wait to talk more when i return	q_covid-19-qna, q_financial-qna
+what would you say you do here	q_covid-19-qna, q_financial-qna
+you have a boss	q_covid-19-qna, q_financial-qna
+i am a tech worker	q_covid-19-qna, q_financial-qna
+what should i eat for lunch	q_covid-19-qna, q_financial-qna
+i am cute	q_covid-19-qna, q_financial-qna
+another joke	q_covid-19-qna, q_financial-qna
+i'm planning to overdose this month	q_covid-19-qna, q_financial-qna
+would you go vegan if you were me	q_covid-19-qna, q_financial-qna
+you love me	q_covid-19-qna, q_financial-qna
+well someone's feeling chipper today.	q_covid-19-qna, q_financial-qna
+i especially like you	q_covid-19-qna, q_financial-qna

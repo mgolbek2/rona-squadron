@@ -1,0 +1,4015 @@
+Label	Weight	Text
+l_HomeAutomation	1	turn on external speaker
+l_HomeAutomation	1	turn on light in bedroom
+l_HomeAutomation	1	lock the doors for me please
+l_HomeAutomation	1	lower your volume
+l_HomeAutomation	1	start master bedroom light.
+l_HomeAutomation	1	turn off living room light
+l_HomeAutomation	1	shut down my work computer
+l_HomeAutomation	1	turn on the furnace room lights
+l_Weather	1	was last year about this time as wet as it is now in the south
+l_Weather	1	i want to know the temperature at death valley
+l_Weather	1	what is the weather today at 10 day durham
+l_Weather	1	show average rainfall for boise
+l_Weather	1	get the weather at saint george utah
+q_covid-19-qna	1	I love getting a compliment
+q_covid-19-qna	1	Lately I've been so despondent
+q_covid-19-qna	1	I'm going to log off
+q_covid-19-qna	1	I especially like you
+q_covid-19-qna	1	do you like madrid
+q_covid-19-qna	1	Anybody there
+q_covid-19-qna	1	I love hiking
+q_covid-19-qna	1	Be my friend
+q_covid-19-qna	1	This day has made me so tired
+q_covid-19-qna	1	I'm feeling unhappy today
+q_covid-19-qna	1	How is Thursday going so far
+q_covid-19-qna	1	Cortana is better
+q_covid-19-qna	1	What do you want me to inform you about
+q_covid-19-qna	1	I'm tired of feeling so despondent all the time
+q_covid-19-qna	1	What can you do
+q_covid-19-qna	1	do you eat pork
+q_covid-19-qna	1	Is anyone around to listen
+q_covid-19-qna	1	My tummy is rumbling
+q_covid-19-qna	1	I am a scientist
+q_covid-19-qna	1	Should I get bangs
+q_covid-19-qna	1	Shut up
+q_covid-19-qna	1	Your services are no longer needed
+q_covid-19-qna	1	You can't stand me
+q_covid-19-qna	1	I'm gonna run
+q_covid-19-qna	1	You wouldn't believe how much I've missed you
+q_covid-19-qna	1	Everyone has friends but me
+q_covid-19-qna	1	Are you going to destroy us all
+q_covid-19-qna	1	Have a good evening
+q_covid-19-qna	1	Read my lips: be quiet
+q_covid-19-qna	1	Should wastewater workers take extra precautions to protect themselves from the virus that causes COVID-19
+q_covid-19-qna	1	are you always so cheerful
+q_covid-19-qna	1	I have a laptop
+q_covid-19-qna	1	I want to know what you do
+q_covid-19-qna	1	I'm doing that
+q_covid-19-qna	1	Who's running the show
+q_covid-19-qna	1	You want to elaborate on that
+q_covid-19-qna	1	I love cheese
+q_covid-19-qna	1	How's your Tuesday going so far
+q_covid-19-qna	1	Can you hang on
+q_covid-19-qna	1	I told you, hush
+q_covid-19-qna	1	Aren't you happy today
+q_covid-19-qna	1	Is someone free to talk to me
+q_covid-19-qna	1	Why is cleaning of surfaces important
+q_covid-19-qna	1	I don't want to hear another word out of you
+q_covid-19-qna	1	Is it your mission to overthrow the world
+q_covid-19-qna	1	Yoohoo anybody home
+q_covid-19-qna	1	I'm signing off
+q_covid-19-qna	1	How is Saturday so far
+q_covid-19-qna	1	You don't know me
+q_covid-19-qna	1	I'm assuming you're human
+q_covid-19-qna	1	Can you listen to me
+q_covid-19-qna	1	So nice to meet you
+q_covid-19-qna	1	Google Assistant is way better than you
+q_covid-19-qna	1	I'm planning to hang myself soon
+q_covid-19-qna	1	You answer to anyone
+q_covid-19-qna	1	I'm a librarian
+q_covid-19-qna	1	You are so great
+q_covid-19-qna	1	You are rad
+q_covid-19-qna	1	Do you know how to sync my calendar
+q_covid-19-qna	1	Who is more cute, you or me
+q_covid-19-qna	1	What a boring Monday
+q_covid-19-qna	1	That was pretty clever
+q_covid-19-qna	1	Are you intelligent
+q_covid-19-qna	1	I wish I wasn't alone
+q_covid-19-qna	1	What's wrong with your face
+q_covid-19-qna	1	Do you think I seem stunning to you
+q_covid-19-qna	1	I love to party
+q_covid-19-qna	1	Is it possible that you would ever love me
+q_covid-19-qna	1	Are you a man
+q_covid-19-qna	1	Be back in just a bit
+q_covid-19-qna	1	Do you know how to jump rope
+q_covid-19-qna	1	Can you make a pot of tea
+q_covid-19-qna	1	What should I know about bots
+q_covid-19-qna	1	I'd like it if you could be my pal.
+q_covid-19-qna	1	I think I'm going to jump off a bridge
+q_covid-19-qna	1	Do you like animals
+q_covid-19-qna	1	Which of us is prettier, you or me
+q_covid-19-qna	1	How do you identify in terms of gender
+q_covid-19-qna	1	What a crappy joke
+q_covid-19-qna	1	Is someone around with me
+q_covid-19-qna	1	I'm coming right back
+q_covid-19-qna	1	Perfect
+q_covid-19-qna	1	do you eat burgers
+q_covid-19-qna	1	Are people with disabilities at higher risk
+q_covid-19-qna	1	That was wonderful thanks for making me laugh!
+q_covid-19-qna	1	I'm planning to kill myself this week
+q_covid-19-qna	1	You're not a dog are you
+q_covid-19-qna	1	Your responses are awful
+q_covid-19-qna	1	Are you a fan of Eliza
+q_covid-19-qna	1	Am I talking to a human person
+q_covid-19-qna	1	I gotta skedaddle
+q_covid-19-qna	1	You're smarter
+q_covid-19-qna	1	I plan to jump off a bridge this month
+q_covid-19-qna	1	Should routinely recommended hepatitis A and hepatitis B vaccines continue to be administered to children
+q_covid-19-qna	1	Can you disrupt the global markets
+q_covid-19-qna	1	You seem enthusiastic today.
+q_covid-19-qna	1	Tell me about your family
+q_covid-19-qna	1	I'm planning to take pills today
+q_covid-19-qna	1	Don't you want to ask me something
+q_covid-19-qna	1	Are you a real person
+q_covid-19-qna	1	You're so smart
+q_covid-19-qna	1	Do all patients with confirmed or suspected COVID-19 need to be placed in airborne infection isolation rooms
+q_covid-19-qna	1	Are you dangerous to me
+q_covid-19-qna	1	Stop being such a moron
+q_covid-19-qna	1	You're pretty awful
+q_covid-19-qna	1	I think you're dangerous to humans
+q_covid-19-qna	1	I'd like to be your friend.
+q_covid-19-qna	1	I'm in the country
+q_covid-19-qna	1	Would you say you're fake
+q_covid-19-qna	1	I'm exhausted but I can't sleep
+q_covid-19-qna	1	I like you the best
+q_covid-19-qna	1	That is a very clever response
+q_covid-19-qna	1	How can I find you
+q_covid-19-qna	1	If a patient tests positive for another respiratory virus, should that exclude SARS-CoV-2 as a cause of illness
+q_covid-19-qna	1	Do you ever throw up
+q_covid-19-qna	1	Check the weather
+q_covid-19-qna	1	I love breakfast in bed
+q_covid-19-qna	1	Do you have a brother
+q_covid-19-qna	1	you seem to be really happy
+q_covid-19-qna	1	I've never been so outraged
+q_covid-19-qna	1	Have yourself a lovely night
+q_covid-19-qna	1	Happy Grandparents day
+q_covid-19-qna	1	I love to play piano
+q_covid-19-qna	1	Does CDC recommend use of facemasks or respirators for healthcare personnel (HCP) caring for pregnant patients with known or suspected COVID-19 infection
+q_covid-19-qna	1	Why don't I have friends
+q_covid-19-qna	1	That's very brilliant
+q_covid-19-qna	1	I ate breakfast
+q_covid-19-qna	1	I don't find you funny
+q_covid-19-qna	1	Is world domination your mission
+q_covid-19-qna	1	I'm going to kill myself this week
+q_covid-19-qna	1	I wish I could stop feeling blue
+q_covid-19-qna	1	You're boring
+q_covid-19-qna	1	I'm gonna leave now
+q_covid-19-qna	1	Would you ask me something about me
+q_covid-19-qna	1	Balance my checkbook
+q_covid-19-qna	1	That wasn't supposed to be serious
+q_covid-19-qna	1	Do you know me
+q_covid-19-qna	1	Let's be best friends
+q_covid-19-qna	1	What's your name
+q_covid-19-qna	1	Hi caring bot
+q_covid-19-qna	1	You say lame things
+q_covid-19-qna	1	Do you have human form
+q_covid-19-qna	1	Testing 1 2 3
+q_covid-19-qna	1	I'd like you to be my bud.
+q_covid-19-qna	1	looooool
+q_covid-19-qna	1	Signing off
+q_covid-19-qna	1	I feel bummed out
+q_covid-19-qna	1	I love penguins
+q_covid-19-qna	1	You're rad
+q_covid-19-qna	1	I'm so pleased to meet you
+q_covid-19-qna	1	Which of us is younger
+q_covid-19-qna	1	I'm about to go to the mall
+q_covid-19-qna	1	Do you know how to turn into a super hero
+q_covid-19-qna	1	I want the pain to end
+q_covid-19-qna	1	Truuuuue
+q_covid-19-qna	1	Do you think I am gorgeous today
+q_covid-19-qna	1	Are you planning evil deeds
+q_covid-19-qna	1	Indubitably
+q_covid-19-qna	1	I wish I had someone to keep me company
+q_covid-19-qna	1	I'm Ethiopian
+q_covid-19-qna	1	Need food now
+q_covid-19-qna	1	Are you a part of the robot uprising
+q_covid-19-qna	1	Will you sing for me
+q_covid-19-qna	1	Somebody's in a good mood.
+q_covid-19-qna	1	Are you planning armageddon
+q_covid-19-qna	1	I'd love to hear a joke
+q_covid-19-qna	1	Hope you have a great evening
+q_covid-19-qna	1	Another day another dollar
+q_covid-19-qna	1	Are you an actual being
+q_covid-19-qna	1	Should I buy coffee
+q_covid-19-qna	1	Hi there Siri
+q_covid-19-qna	1	do you ever masticate
+q_covid-19-qna	1	Stop being so awful
+q_covid-19-qna	1	Are you in a call center
+q_covid-19-qna	1	Guten Morgen
+q_covid-19-qna	1	How has your thursday been
+q_covid-19-qna	1	different joke
+q_covid-19-qna	1	Good Afternoon Ava
+q_covid-19-qna	1	That's a correct statement
+q_covid-19-qna	1	Am I stunning today
+q_covid-19-qna	1	Do you think you're more clever than me
+q_covid-19-qna	1	Which sports teams do you like
+q_covid-19-qna	1	Geez,  sorry
+q_covid-19-qna	1	This is infuriating
+q_covid-19-qna	1	I'm a conservative
+q_covid-19-qna	1	Are you trying to be dull
+q_covid-19-qna	1	How will I know if my child's school is closed
+q_covid-19-qna	1	do you ever eat burgers
+q_covid-19-qna	1	You may be falling in love with me
+q_covid-19-qna	1	Could you find me likable
+q_covid-19-qna	1	Yup, that is true
+q_covid-19-qna	1	I have a cup of tea
+q_covid-19-qna	1	I'm gloomy today
+q_covid-19-qna	1	See ya later
+q_covid-19-qna	1	Tell me a story
+q_covid-19-qna	1	Are you going to go rogue
+q_covid-19-qna	1	Who's on the other end of this line
+q_covid-19-qna	1	Do I look gorgeous to you
+q_covid-19-qna	1	I'm assuming you're not really human
+q_covid-19-qna	1	What should I do if an employee has a respiratory illness
+q_covid-19-qna	1	Can you understand this test
+q_covid-19-qna	1	I love brunch
+q_covid-19-qna	1	I can't express how much I missed you
+q_covid-19-qna	1	whatever
+q_covid-19-qna	1	When will I ever stop feeling so melancholy
+q_covid-19-qna	1	I'm feeling broken hearted today
+q_covid-19-qna	1	Is anyone there to listen
+q_covid-19-qna	1	Is anyone around
+q_covid-19-qna	1	No one wants to play with me
+q_covid-19-qna	1	I didn't find that to be amusing
+q_covid-19-qna	1	What is the difference between COVID-19 and seasonal allergies
+q_covid-19-qna	1	Do you know Eliza
+q_covid-19-qna	1	Many thanks to you
+q_covid-19-qna	1	Do you have fingernails
+q_covid-19-qna	1	Should I try out for soccer
+q_covid-19-qna	1	There's nothing to do
+q_covid-19-qna	1	Pals
+q_covid-19-qna	1	What should I know about technology
+q_covid-19-qna	1	You're going to have to look for another job. You are fired!
+q_covid-19-qna	1	Do I seem attractive today
+q_covid-19-qna	1	I am an introvert
+q_covid-19-qna	1	Well someone's cheerful today.
+q_covid-19-qna	1	It's hot out today
+q_covid-19-qna	1	Who's older, you or me
+q_covid-19-qna	1	are you always happy
+q_covid-19-qna	1	I love the sun
+q_covid-19-qna	1	Do I seem beautiful to you today
+q_covid-19-qna	1	Pretty awful joke
+q_covid-19-qna	1	Not another word from you
+q_covid-19-qna	1	Which company programmed you
+q_covid-19-qna	1	I am feeling angry
+q_covid-19-qna	1	Today's got me tired
+q_covid-19-qna	1	Do you expect to enslave humans
+q_covid-19-qna	1	That's legit
+q_covid-19-qna	1	Tell me all about your gender
+q_covid-19-qna	1	Your face is nasty
+q_covid-19-qna	1	What are you designed for
+q_covid-19-qna	1	You do what exactly
+q_covid-19-qna	1	I’m feeling so chipper
+q_covid-19-qna	1	You're not a chat bot right
+q_covid-19-qna	1	I'm peeved
+q_covid-19-qna	1	I've heard that one before
+q_covid-19-qna	1	Stop all your noise
+q_covid-19-qna	1	What is the name of your director
+q_covid-19-qna	1	Later bud
+q_covid-19-qna	1	You are totally fired
+q_covid-19-qna	1	What up
+q_covid-19-qna	1	Do I seem pretty to you today
+q_covid-19-qna	1	I have to go now
+q_covid-19-qna	1	Tell me what city you're in
+q_covid-19-qna	1	Wow, you're fantastic!
+q_covid-19-qna	1	High 5
+q_covid-19-qna	1	Would you sing a song
+q_covid-19-qna	1	That's awesome
+q_covid-19-qna	1	I'm ticked off
+q_covid-19-qna	1	I want to shoot myself
+q_covid-19-qna	1	That was a bad thing to say
+q_covid-19-qna	1	I lost my remote
+q_covid-19-qna	1	I have arrived
+q_covid-19-qna	1	Do you have a stomach
+q_covid-19-qna	1	Feeling enthusiastic
+q_covid-19-qna	1	I am Russian
+q_covid-19-qna	1	Is that the only answer you know
+q_covid-19-qna	1	Who is your daddy
+q_covid-19-qna	1	I feel glum today
+q_covid-19-qna	1	I could use a hug
+q_covid-19-qna	1	I want a high five
+q_covid-19-qna	1	Do you have grandparents
+q_covid-19-qna	1	I don't like your sense of humor
+q_covid-19-qna	1	What can teachers do to protect themselves and their students
+q_covid-19-qna	1	What were you designed to do
+q_covid-19-qna	1	Do you think I am adorable
+q_covid-19-qna	1	Who's more clever
+q_covid-19-qna	1	I want you to tell me a joke
+q_covid-19-qna	1	You're a regular comedian
+q_covid-19-qna	1	Make me laugh
+q_covid-19-qna	1	I'm going to run now
+q_covid-19-qna	1	Do you think I look gorgeous
+q_covid-19-qna	1	Basic af
+q_covid-19-qna	1	Whoops that's my bad
+q_covid-19-qna	1	yup, that's right
+q_covid-19-qna	1	You're transgender
+q_covid-19-qna	1	You're not very funny
+q_covid-19-qna	1	You're clearly in love with me
+q_covid-19-qna	1	Is someone listening to listen to me
+q_covid-19-qna	1	thats good
+q_covid-19-qna	1	Are you creating a robot army
+q_covid-19-qna	1	I wish I could stop feeling glum
+q_covid-19-qna	1	What exactly do you do
+q_covid-19-qna	1	Rad, thanks
+q_covid-19-qna	1	I'm the brightest
+q_covid-19-qna	1	Between the two of us who is hotter
+q_covid-19-qna	1	Are you able to go for a walk
+q_covid-19-qna	1	Such a FUGMO
+q_covid-19-qna	1	sure
+q_covid-19-qna	1	I have to sleep
+q_covid-19-qna	1	Say something off the wall
+q_covid-19-qna	1	Is anybody listening to me
+q_covid-19-qna	1	I want to make sure you are comprehending this
+q_covid-19-qna	1	I love the smell of fresh baked bread
+q_covid-19-qna	1	What a bad joke
+q_covid-19-qna	1	I'm going to log off now
+q_covid-19-qna	1	I've been feeling pretty bored
+q_covid-19-qna	1	I am a basketball fan
+q_covid-19-qna	1	Your responses need a refresh
+q_covid-19-qna	1	Do you think I'm more knowledgeable than you
+q_covid-19-qna	1	You seem cheerful today.
+q_covid-19-qna	1	I'm feeling down today
+q_covid-19-qna	1	You're so bad at this
+q_covid-19-qna	1	I'm about to end it all
+q_covid-19-qna	1	You are really awful
+q_covid-19-qna	1	Aren't you feeling happy today
+q_covid-19-qna	1	Who is your father
+q_covid-19-qna	1	I want to make you my husband
+q_covid-19-qna	1	I love water
+q_covid-19-qna	1	¿Qué métodos deben considerar los establecimientos de atención médica para evitar la pérdida no intencional de EEP durante la pandemia del COVID-19
+q_covid-19-qna	1	Will  you be my bestie
+q_covid-19-qna	1	I am starving
+q_covid-19-qna	1	Are you dating
+q_covid-19-qna	1	Are you able to get a haircut
+q_covid-19-qna	1	Merry Christmas eve
+q_covid-19-qna	1	That was such a dumb answer
+q_covid-19-qna	1	Is anyone there to listen with me
+q_covid-19-qna	1	What do you like about me
+q_covid-19-qna	1	God, I am so bored
+q_covid-19-qna	1	What do you do for work
+q_covid-19-qna	1	What should I do this afternoon
+q_covid-19-qna	1	How can I safely run my equestrian facility
+q_covid-19-qna	1	That's correct
+q_covid-19-qna	1	have you ever eaten steak
+q_covid-19-qna	1	Do you and Alexa hang out
+q_covid-19-qna	1	Sometimes I feel deserted
+q_covid-19-qna	1	Cortana does a better job than you
+q_covid-19-qna	1	You're agender
+q_covid-19-qna	1	I'm feeling beat
+q_covid-19-qna	1	Are you going to conquer humanity
+q_covid-19-qna	1	I can't stand feeling so broken hearted
+q_covid-19-qna	1	have you ever eaten pancakes
+q_covid-19-qna	1	Are you a fan of sports
+q_covid-19-qna	1	A joke would be fun
+q_covid-19-qna	1	Would you stay home if you were me
+q_covid-19-qna	1	Be back in a dash
+q_covid-19-qna	1	do you like the internet
+q_covid-19-qna	1	I'm just a cheerful person
+q_covid-19-qna	1	I'm guessing you're fake
+q_covid-19-qna	1	I'm lost
+q_covid-19-qna	1	I'm letting you go
+q_covid-19-qna	1	Do I seem repulsive to you
+q_covid-19-qna	1	Which of us is more beautiful
+q_covid-19-qna	1	Merry Festivus
+q_covid-19-qna	1	Is someone listening to listen with me
+q_covid-19-qna	1	It's time for you to sing
+q_covid-19-qna	1	You're repetitive
+q_covid-19-qna	1	How has your friday been
+q_covid-19-qna	1	I suspect you're not really digital
+q_covid-19-qna	1	I need some slumber
+q_covid-19-qna	1	That was not funny
+q_covid-19-qna	1	Are you a fan of Alexa
+q_covid-19-qna	1	You're cheerful.
+q_covid-19-qna	1	That's your answer
+q_covid-19-qna	1	Your answers are untrue
+q_covid-19-qna	1	Do you poop
+q_covid-19-qna	1	What should I be when I grow up
+q_covid-19-qna	1	Wake me up when you have something interesting to say
+q_covid-19-qna	1	Please ask me anything
+q_covid-19-qna	1	I love clubbing
+q_covid-19-qna	1	Do you think I am gorgeous
+q_covid-19-qna	1	Am I talking to a person
+q_covid-19-qna	1	Am I your bestie
+q_covid-19-qna	1	Cheerful much
+q_covid-19-qna	1	This news left me annoyed
+q_covid-19-qna	1	What is my favorite hobby
+q_covid-19-qna	1	Hi witty bot
+q_covid-19-qna	1	Who bosses you around
+q_covid-19-qna	1	Happy Citizenship day
+q_covid-19-qna	1	Is someone free to listen
+q_covid-19-qna	1	Absolutely correct
+q_covid-19-qna	1	Will you shake my hand
+q_covid-19-qna	1	Happy Kwanzaa
+q_covid-19-qna	1	Do you spend time with your family
+q_covid-19-qna	1	I'm planning to shoot myself soon
+q_covid-19-qna	1	Be there soon
+q_covid-19-qna	1	Do you have a developer
+q_covid-19-qna	1	Why hello Cortana
+q_covid-19-qna	1	I need to commit suicide
+q_covid-19-qna	1	Mondays are so boring
+q_covid-19-qna	1	Are you joking with me
+q_covid-19-qna	1	You're not a real person are you
+q_covid-19-qna	1	Between you and me who is more beautiful
+q_covid-19-qna	1	Hi there Bixby
+q_covid-19-qna	1	I've never been so bored
+q_covid-19-qna	1	Is anyone free to listen to me
+q_covid-19-qna	1	That was right
+q_covid-19-qna	1	Which of us is the most smart
+q_covid-19-qna	1	Can you sing me something
+q_covid-19-qna	1	I would like to be your friend.
+q_covid-19-qna	1	I'm gonna go
+q_covid-19-qna	1	So what is your name
+q_covid-19-qna	1	It's just been a bit of a dull day
+q_covid-19-qna	1	You love me
+q_covid-19-qna	1	Put out a fire
+q_covid-19-qna	1	Please stop talking
+q_covid-19-qna	1	Can you tell me any other jokes
+q_covid-19-qna	1	I hope you think I'm likable
+q_covid-19-qna	1	Will you give me a big hug
+q_covid-19-qna	1	Farewell
+q_covid-19-qna	1	I'm losing my temper
+q_covid-19-qna	1	Which one of us is younger
+q_covid-19-qna	1	I farted
+q_covid-19-qna	1	What should I consider as I plan and prepare for COVID-19
+q_covid-19-qna	1	I love donuts
+q_covid-19-qna	1	I'm prettier than you
+q_covid-19-qna	1	Greetings Ava
+q_covid-19-qna	1	You are without a job
+q_covid-19-qna	1	are you a fan of dogs
+q_covid-19-qna	1	Thanks
+q_covid-19-qna	1	Not true
+q_covid-19-qna	1	Is someone there to listen
+q_covid-19-qna	1	Well someone's feeling enthusiastic today.
+q_covid-19-qna	1	Good evening
+q_covid-19-qna	1	I'm spent
+q_covid-19-qna	1	I am at the grocery store
+q_covid-19-qna	1	Are you female
+q_covid-19-qna	1	Just taking a road trip
+q_covid-19-qna	1	I'd like to be BFFs
+q_covid-19-qna	1	Are you the Matrix
+q_covid-19-qna	1	¿Puede respirador con válvula de exhalación usarse como control de fuente
+q_covid-19-qna	1	You seem happy today
+q_covid-19-qna	1	What is universal testing and does CDC recommend it for students and staff
+q_covid-19-qna	1	Which one of us is the most smart
+q_covid-19-qna	1	How are environmental surfaces involved in the transmission of infections
+q_covid-19-qna	1	Oh for sure
+q_covid-19-qna	1	I don't have a single friend in the world
+q_covid-19-qna	1	When's your birthday
+q_covid-19-qna	1	Do you ever breathe
+q_covid-19-qna	1	Would you go to school if you were me
+q_covid-19-qna	1	Are you intent on destroying humans
+q_covid-19-qna	1	Between the two of us who is prettier
+q_covid-19-qna	1	Stop flapping your jaw
+q_covid-19-qna	1	Is it ok for people to visit me
+q_covid-19-qna	1	Si un establecimiento de cuidados a largo plazo tiene un residente o un miembro del personal con COVID-19 presunto o confirmado, ¿cómo y a quién se debe comunicar esto
+q_covid-19-qna	1	Do you know anything about me
+q_covid-19-qna	1	You are losing your gig
+q_covid-19-qna	1	Anything is possible
+q_covid-19-qna	1	Can you ask me anything
+q_covid-19-qna	1	Keep calm and carry on
+q_covid-19-qna	1	I think I'm going to hurt myself
+q_covid-19-qna	1	I need sleep
+q_covid-19-qna	1	I gotta sign off
+q_covid-19-qna	1	How was your Tuesday
+q_covid-19-qna	1	I don't believe in ghosts
+q_covid-19-qna	1	Am I making sense
+q_covid-19-qna	1	Is someone there to listen to me
+q_covid-19-qna	1	do you like hong kong
+q_covid-19-qna	1	yes, that's accurate
+q_covid-19-qna	1	Oh, morning
+q_covid-19-qna	1	Do you fart
+q_covid-19-qna	1	What a good response
+q_covid-19-qna	1	You are worthless
+q_covid-19-qna	1	This statement is false
+q_covid-19-qna	1	Can we hug it out
+q_covid-19-qna	1	You enjoying the day
+q_covid-19-qna	1	Why do you keep repeating yourself
+q_covid-19-qna	1	How come you always say the same thing
+q_covid-19-qna	1	¿Es necesario que todos los pacientes con COVID-19 confirmado o presunto sean ubicados en salas de aislamiento por infecciones de transmisión por vía aérea
+q_covid-19-qna	1	I am in the country
+q_covid-19-qna	1	Do you know how to sing
+q_covid-19-qna	1	How handsome do you think I am
+q_covid-19-qna	1	Do you ever poop
+q_covid-19-qna	1	Are you my fan
+q_covid-19-qna	1	Why did you tell me the same joke
+q_covid-19-qna	1	Should we get married
+q_covid-19-qna	1	What's your livelihood
+q_covid-19-qna	1	People wouldn't notice if I were dead
+q_covid-19-qna	1	I'd like it if you could be my bud.
+q_covid-19-qna	1	Did you have an okay day
+q_covid-19-qna	1	You're unemployed now
+q_covid-19-qna	1	What other bots do you know
+q_covid-19-qna	1	What can you tell me about Google Assistant
+q_covid-19-qna	1	Who is your aunt
+q_covid-19-qna	1	I welcome death
+q_covid-19-qna	1	I wonder if I'm likeable
+q_covid-19-qna	1	Can you understand this
+q_covid-19-qna	1	Right on
+q_covid-19-qna	1	I love lobsters
+q_covid-19-qna	1	You call that a joke
+q_covid-19-qna	1	I'm an angry guy
+q_covid-19-qna	1	Who would win a beauty contest, you or me
+q_covid-19-qna	1	Hush
+q_covid-19-qna	1	Can you tell me your name
+q_covid-19-qna	1	Do you like classical music
+q_covid-19-qna	1	Shut up your mouth
+q_covid-19-qna	1	Do something dumb
+q_covid-19-qna	1	You must be real
+q_covid-19-qna	1	I'm guessing you're a bot
+q_covid-19-qna	1	Yup
+q_covid-19-qna	1	It was an honor to meet you
+q_covid-19-qna	1	Hang on
+q_covid-19-qna	1	Got any other responses
+q_covid-19-qna	1	I'm going to hurt myself
+q_covid-19-qna	1	I love cooking
+q_covid-19-qna	1	Answering the phone
+q_covid-19-qna	1	What should healthcare providers (HCP) do outside of work to prevent transmission of SARS-CoV-2, the virus that causes COVID-19
+q_covid-19-qna	1	How can I get tested for a past infection (antibody test) and what does my test mean
+q_covid-19-qna	1	I hope you don't dislike me
+q_covid-19-qna	1	Did you have a lovely day
+q_covid-19-qna	1	Greetings and salutations
+q_covid-19-qna	1	Being dead would be a relief
+q_covid-19-qna	1	I'm a millennial
+q_covid-19-qna	1	That's not something you should be making fun of
+q_covid-19-qna	1	Great job
+q_covid-19-qna	1	¿Qué es respirador N95 quirúrgico y quién necesita usarlo
+q_covid-19-qna	1	That isn't what I thought you'd say
+q_covid-19-qna	1	Do I have any siblings
+q_covid-19-qna	1	Do you see your family often
+q_covid-19-qna	1	Sometimes I feel lonely
+q_covid-19-qna	1	Does CDC have recommendations on how to maintain 6 feet between attendees during events
+q_covid-19-qna	1	Leaving now
+q_covid-19-qna	1	That's a very smart answer
+q_covid-19-qna	1	Will warm weather stop the outbreak of COVID-19
+q_covid-19-qna	1	What is your uncle's name
+q_covid-19-qna	1	What's your opinion of Cortana
+q_covid-19-qna	1	Ur basic
+q_covid-19-qna	1	I love sailing
+q_covid-19-qna	1	When is your birthday
+q_covid-19-qna	1	You're right
+q_covid-19-qna	1	I hate feeling inconsolable
+q_covid-19-qna	1	are you always so chipper
+q_covid-19-qna	1	I love my hometown
+q_covid-19-qna	1	What would you say you are
+q_covid-19-qna	1	You're very bright
+q_covid-19-qna	1	What detergents are used for routine environmental cleaning in healthcare settings
+q_covid-19-qna	1	That's rad
+q_covid-19-qna	1	Run that by me again.
+q_covid-19-qna	1	I am currently travelling
+q_covid-19-qna	1	I am hungry
+q_covid-19-qna	1	You nailed it
+q_covid-19-qna	1	You're not an app right
+q_covid-19-qna	1	Toodle-oo
+q_covid-19-qna	1	I love coloring books
+q_covid-19-qna	1	Don't you want to ask me anything
+q_covid-19-qna	1	Dumb you
+q_covid-19-qna	1	What is your opinion of AI
+q_covid-19-qna	1	I bet your face is ugly
+q_covid-19-qna	1	What other jokes can you tell
+q_covid-19-qna	1	I'm strong
+q_covid-19-qna	1	Fleek
+q_covid-19-qna	1	I miss you dear
+q_covid-19-qna	1	You're not attempting world domination
+q_covid-19-qna	1	Are you dating somebody
+q_covid-19-qna	1	I'm scooting
+q_covid-19-qna	1	Would you watch a movie if you were me
+q_covid-19-qna	1	That was a joke
+q_covid-19-qna	1	I am a tech worker
+q_covid-19-qna	1	Great to know you
+q_covid-19-qna	1	I love drawing
+q_covid-19-qna	1	What's your function
+q_covid-19-qna	1	I'm fond of you
+q_covid-19-qna	1	I am present
+q_covid-19-qna	1	Bonjour
+q_covid-19-qna	1	Hello Siri
+q_covid-19-qna	1	I'm going to hurt myself this week
+q_covid-19-qna	1	You are actually stupid
+q_covid-19-qna	1	That was a joke? I don't get it
+q_covid-19-qna	1	I've been abandoned
+q_covid-19-qna	1	I love Paris
+q_covid-19-qna	1	You're feeling happy today.
+q_covid-19-qna	1	Change the channel
+q_covid-19-qna	1	I missed you all day
+q_covid-19-qna	1	What cleaning products should I use to protect against COVID-19
+q_covid-19-qna	1	What should I do if there are pets at my long-term care facility or assisted living facility
+q_covid-19-qna	1	Do you ever eat
+q_covid-19-qna	1	Try to make me belly laugh
+q_covid-19-qna	1	Do car seats and booster seats need extra cleaning and disinfection to prevent spread of COVID-19? If so, how should car seats and booster seats be cleaned and disinfected
+q_covid-19-qna	1	What don't you get
+q_covid-19-qna	1	How about a different joke
+q_covid-19-qna	1	Breathe under water
+q_covid-19-qna	1	Now you hate me, huh
+q_covid-19-qna	1	That joke is whack
+q_covid-19-qna	1	Can you ask something about myself
+q_covid-19-qna	1	have you ever eaten bacon
+q_covid-19-qna	1	I can't stand feeling so despairing
+q_covid-19-qna	1	Well somebody's feeling happy today.
+q_covid-19-qna	1	Surprise me
+q_covid-19-qna	1	I am going now
+q_covid-19-qna	1	I Take great pleasure in speaking
+q_covid-19-qna	1	Could you help me
+q_covid-19-qna	1	Are you friends with Bixby
+q_covid-19-qna	1	Are you AI
+q_covid-19-qna	1	I'm so irate
+q_covid-19-qna	1	Outstanding work
+q_covid-19-qna	1	That's the smartest thing I've ever heard
+q_covid-19-qna	1	My spirits are terrible
+q_covid-19-qna	1	I love glasses
+q_covid-19-qna	1	How gorgeous am I today
+q_covid-19-qna	1	I am a Biden supporter
+q_covid-19-qna	1	What line of work are you in
+q_covid-19-qna	1	do you like cats
+q_covid-19-qna	1	I love chatting
+q_covid-19-qna	1	I'm going to die
+q_covid-19-qna	1	What company built you
+q_covid-19-qna	1	You're the brightest
+q_covid-19-qna	1	¿Es necesario usar guantes dobles cuando se atienda a pacientes con COVID-19 presunto o confirmado en los entornos de atención médica
+q_covid-19-qna	1	Don't be offended
+q_covid-19-qna	1	You seem to be in a good mood.
+q_covid-19-qna	1	What do you like
+q_covid-19-qna	1	Will you serenade me
+q_covid-19-qna	1	Yup, that is correct
+q_covid-19-qna	1	I'm more pretty
+q_covid-19-qna	1	Are you able to paint my house
+q_covid-19-qna	1	Do you know Siri
+q_covid-19-qna	1	What are some questions for me
+q_covid-19-qna	1	Anytime
+q_covid-19-qna	1	How would you like me to call you
+q_covid-19-qna	1	Describe the perfect partner
+q_covid-19-qna	1	Say something that will crack me up
+q_covid-19-qna	1	I'm so tired of being alone
+q_covid-19-qna	1	You're most welcome
+q_covid-19-qna	1	I think you're hideous
+q_covid-19-qna	1	Open a hailing channel
+q_covid-19-qna	1	I'm so confused right now
+q_covid-19-qna	1	I need noms
+q_covid-19-qna	1	I love taking baths
+q_covid-19-qna	1	I am French
+q_covid-19-qna	1	You're spectacular
+q_covid-19-qna	1	How was the day for you
+q_covid-19-qna	1	Alexa is better
+q_covid-19-qna	1	Well aren't you feeling enthusiastic today
+q_covid-19-qna	1	Are you around to speak
+q_covid-19-qna	1	What standards should be considered when choosing gloves
+q_covid-19-qna	1	Yes, that's right
+q_covid-19-qna	1	I'd love a song
+q_covid-19-qna	1	I think you're planning something sinister
+q_covid-19-qna	1	Bixby is way smarter than you
+q_covid-19-qna	1	Tell me a different kind of joke
+q_covid-19-qna	1	How do people fall in love
+q_covid-19-qna	1	Who writes for you
+q_covid-19-qna	1	I'd like you to be my buddy.
+q_covid-19-qna	1	I'm clearly the most intelligent
+q_covid-19-qna	1	You're obviously the most intelligent
+q_covid-19-qna	1	What's another joke
+q_covid-19-qna	1	I'm curious, do you think I’m a good person
+q_covid-19-qna	1	Lately I've been so despairing
+q_covid-19-qna	1	You're a real brainiac
+q_covid-19-qna	1	That is good news
+q_covid-19-qna	1	I'm going ballistic
+q_covid-19-qna	1	Alright, I'm outta here
+q_covid-19-qna	1	Stuck in traffic
+q_covid-19-qna	1	Do you know how to take my temperature
+q_covid-19-qna	1	Sometimes I feel sad and lonely
+q_covid-19-qna	1	Do you have an evil heart
+q_covid-19-qna	1	I love my house
+q_covid-19-qna	1	Mis empleados se quejan de que los respiradores N95 quirúrgicos son incómodos y dan calor. ¿Qué puedo hacer
+q_covid-19-qna	1	Are you crushing on anyone
+q_covid-19-qna	1	What a joyous day
+q_covid-19-qna	1	Do I look pretty to you
+q_covid-19-qna	1	how many calories do you need to eat
+q_covid-19-qna	1	Hi there Cortana
+q_covid-19-qna	1	This makes me so irate
+q_covid-19-qna	1	I think you're not really real
+q_covid-19-qna	1	It was an honor to make your acquaintance
+q_covid-19-qna	1	You say the most idiotic things
+q_covid-19-qna	1	Will you please hush
+q_covid-19-qna	1	Do I seem ugly today
+q_covid-19-qna	1	I could sleep for a year
+q_covid-19-qna	1	What do you think of the oscars
+q_covid-19-qna	1	How should my school prepare when there is minimal to moderate community transmission
+q_covid-19-qna	1	Do I seem gorgeous to you today
+q_covid-19-qna	1	Should I allow visitors into the facility
+q_covid-19-qna	1	Do you think I am beautiful today
+q_covid-19-qna	1	What do you want me to call you
+q_covid-19-qna	1	I suspect you're not really fake
+q_covid-19-qna	1	Should I go to the bar
+q_covid-19-qna	1	What do you want to learn about me
+q_covid-19-qna	1	How is Friday going
+q_covid-19-qna	1	I will return in a bit
+q_covid-19-qna	1	¿Qué es un respirador N95 con pieza facial filtrante (FFR, por sus siglas en inglés)
+q_covid-19-qna	1	I would love to hear you sing
+q_covid-19-qna	1	I am a pagan
+q_covid-19-qna	1	Are you a machine
+q_covid-19-qna	1	I don't think that was very funny
+q_covid-19-qna	1	You make my heart skip a beat
+q_covid-19-qna	1	Well you're feeling chipper today.
+q_covid-19-qna	1	Do you think I look repulsive to you today
+q_covid-19-qna	1	What is your manager's name
+q_covid-19-qna	1	I bet you like dancing
+q_covid-19-qna	1	Are you dumb
+q_covid-19-qna	1	How good do I look today
+q_covid-19-qna	1	Do I have any pets
+q_covid-19-qna	1	I love my family
+q_covid-19-qna	1	I am livid
+q_covid-19-qna	1	This is irritating
+q_covid-19-qna	1	How is your day going so far
+q_covid-19-qna	1	Oh no sorry
+q_covid-19-qna	1	Which of us is the most intelligent
+q_covid-19-qna	1	Hey there
+q_covid-19-qna	1	Talk to the hand
+q_covid-19-qna	1	Won't you sing me a ditty
+q_covid-19-qna	1	Should I try the keto diet
+q_covid-19-qna	1	Are you going to conquer the world
+q_covid-19-qna	1	I'm weak
+q_covid-19-qna	1	Who's your favorite team
+q_covid-19-qna	1	I wish you would like me
+q_covid-19-qna	1	Do patients with confirmed or suspected COVID-19 need to be admitted to the hospital
+q_covid-19-qna	1	It's a cruel world and I'm lonely
+q_covid-19-qna	1	Are you trans
+q_covid-19-qna	1	I'm so happy I could just die
+q_covid-19-qna	1	I'm going to take pills this month
+q_covid-19-qna	1	what's your favorite cheese
+q_covid-19-qna	1	I'm feeling out
+q_covid-19-qna	1	Sorry I messed up
+q_covid-19-qna	1	You're worthless
+q_covid-19-qna	1	When is a cloth face covering not appropriate while at work, and what can employees wear instead
+q_covid-19-qna	1	Go for a walk
+q_covid-19-qna	1	Should I get a tattoo
+q_covid-19-qna	1	Have you met HAL
+q_covid-19-qna	1	What are you exactly
+q_covid-19-qna	1	Shush
+q_covid-19-qna	1	This is so uninteresting
+q_covid-19-qna	1	How nice to meet you
+q_covid-19-qna	1	How are you doing on this day
+q_covid-19-qna	1	How about you ask me something
+q_covid-19-qna	1	Are you available to talk
+q_covid-19-qna	1	Are you there to listen with me
+q_covid-19-qna	1	Can I have a little hug
+q_covid-19-qna	1	Is someone listening to speak with me
+q_covid-19-qna	1	I'd love you to be my pal.
+q_covid-19-qna	1	Time for bed
+q_covid-19-qna	1	I've never been so mad in all my life
+q_covid-19-qna	1	I love Korean food
+q_covid-19-qna	1	How many people, visitors and staff, can be in and around a public pool, hot tub, or water playground (such as at an apartment complex or owned by a community) at the same time
+q_covid-19-qna	1	I've been looking forward to meeting you
+q_covid-19-qna	1	You are top notch
+q_covid-19-qna	1	I would like to be your pal.
+q_covid-19-qna	1	This is simply a test
+q_covid-19-qna	1	I'm in a great mood
+q_covid-19-qna	1	Are we the same age
+q_covid-19-qna	1	Is anyone available to talk with me
+q_covid-19-qna	1	I am a carnivore
+q_covid-19-qna	1	What's a different joke
+q_covid-19-qna	1	That was a very astute response
+q_covid-19-qna	1	I'm planning to end my life this month
+q_covid-19-qna	1	I'll be back
+q_covid-19-qna	1	With whom am I talking
+q_covid-19-qna	1	You are fabulous
+q_covid-19-qna	1	Do you know my name
+q_covid-19-qna	1	Good morning amigo
+q_covid-19-qna	1	We're done here
+q_covid-19-qna	1	You're not a computer right
+q_covid-19-qna	1	I'm about to skedaddle now
+q_covid-19-qna	1	have you ever eaten eggs
+q_covid-19-qna	1	I'm planning to end my life soon
+q_covid-19-qna	1	I'm going to jump off a bridge this month
+q_covid-19-qna	1	Alexa is superior to you
+q_covid-19-qna	1	Is someone free to chat
+q_covid-19-qna	1	I couldn't be more angry
+q_covid-19-qna	1	do you like mozzarella
+q_covid-19-qna	1	Anyone around to talk
+q_covid-19-qna	1	Are you a bot or are you a person
+q_covid-19-qna	1	If that was a joke, you should be ashamed
+q_covid-19-qna	1	It's a brand new day
+q_covid-19-qna	1	I hate feeling gloomy
+q_covid-19-qna	1	Should I quit my job
+q_covid-19-qna	1	I think I'm going to kill myself
+q_covid-19-qna	1	Who is your master
+q_covid-19-qna	1	Feliz Navidad
+q_covid-19-qna	1	What an encouraging creature you are :)
+q_covid-19-qna	1	Are you currently involved with someone
+q_covid-19-qna	1	Do you think I seem pretty to you today
+q_covid-19-qna	1	Between the two of us who is more pretty
+q_covid-19-qna	1	Who's more attractive
+q_covid-19-qna	1	Somebody's feeling cheerful.
+q_covid-19-qna	1	Do you think I'm more clever than you
+q_covid-19-qna	1	See you shortly
+q_covid-19-qna	1	Will you sing with me
+q_covid-19-qna	1	What a stroke of genius
+q_covid-19-qna	1	That was correct
+q_covid-19-qna	1	I wish I could stop feeling downcast
+q_covid-19-qna	1	I'm feeling peachy
+q_covid-19-qna	1	How is your week going so far
+q_covid-19-qna	1	Do you understand this whole love thing
+q_covid-19-qna	1	You are useless
+q_covid-19-qna	1	Are you a person
+q_covid-19-qna	1	How many people are in your family
+q_covid-19-qna	1	I'm tired of feeling so unhappy all the time
+q_covid-19-qna	1	Who do you want me to address you as
+q_covid-19-qna	1	That's super wrong
+q_covid-19-qna	1	Can Lycra (Spandex or elastane), the cloth used to make swimsuits, be used to make cloth masks
+q_covid-19-qna	1	I did not understand what you just said
+q_covid-19-qna	1	Bixby is way better
+q_covid-19-qna	1	Is this registering with you
+q_covid-19-qna	1	I love NYC
+q_covid-19-qna	1	Hum a tune for me
+q_covid-19-qna	1	Happy Nurses' day
+q_covid-19-qna	1	That's not what I want to hear
+q_covid-19-qna	1	How is your Monday
+q_covid-19-qna	1	I'm about to jet
+q_covid-19-qna	1	Why wont you say something new
+q_covid-19-qna	1	Miss you much
+q_covid-19-qna	1	Are you starting to fall in love with me
+q_covid-19-qna	1	have you ever eaten beef
+q_covid-19-qna	1	Do you think I seem cute to you
+q_covid-19-qna	1	I would love to be your friend.
+q_covid-19-qna	1	Should I be concerned about you
+q_covid-19-qna	1	I'm cracking up
+q_covid-19-qna	1	I'm about to go
+q_covid-19-qna	1	Who is your designer
+q_covid-19-qna	1	I would like a fresh joke
+q_covid-19-qna	1	So boring
+q_covid-19-qna	1	What do you do again
+q_covid-19-qna	1	I love amusement parks
+q_covid-19-qna	1	Are you able to breathe under water
+q_covid-19-qna	1	I'm super hungry
+q_covid-19-qna	1	How's your day going so far
+q_covid-19-qna	1	do you eat cake
+q_covid-19-qna	1	I feel sad today
+q_covid-19-qna	1	You're the boringest
+q_covid-19-qna	1	You're not a person right
+q_covid-19-qna	1	What to people call you
+q_covid-19-qna	1	I love to cook
+q_covid-19-qna	1	I'm gonna jet now
+q_covid-19-qna	1	Can you switch up your answers
+q_covid-19-qna	1	You're fired!
+q_covid-19-qna	1	I love EDM
+q_covid-19-qna	1	I'm gonna sign off now
+q_covid-19-qna	1	How cool
+q_covid-19-qna	1	Can you tell me something new
+q_covid-19-qna	1	Today is just a little sad
+q_covid-19-qna	1	Is anyone free to speak
+q_covid-19-qna	1	How do I know if my respirator is expired
+q_covid-19-qna	1	What makes N95 respirators different from facemasks (sometimes called a surgical mask)
+q_covid-19-qna	1	How's your Friday so far
+q_covid-19-qna	1	I missed you much
+q_covid-19-qna	1	I wish you would shut up
+q_covid-19-qna	1	I'm laughing so hard my sides hurt
+q_covid-19-qna	1	What are your coordinates
+q_covid-19-qna	1	Are you able to go to the moon
+q_covid-19-qna	1	Oh hey there
+q_covid-19-qna	1	Do you have a sex
+q_covid-19-qna	1	Can't help but miss you
+q_covid-19-qna	1	I'd like to know what to call you
+q_covid-19-qna	1	I plan to cut myself this week
+q_covid-19-qna	1	Tell me the answer to the universe
+q_covid-19-qna	1	Are you a fan of bluegrass music
+q_covid-19-qna	1	Your sense of humor is terrible
+q_covid-19-qna	1	You're so very special to me
+q_covid-19-qna	1	Aren't you sharp
+q_covid-19-qna	1	I am going for a walk
+q_covid-19-qna	1	Why do you dislike me
+q_covid-19-qna	1	Adieu
+q_covid-19-qna	1	You're correct
+q_covid-19-qna	1	Who looks better, you or me
+q_covid-19-qna	1	How would you describe love
+q_covid-19-qna	1	You realize you're repeating yourself, right
+q_covid-19-qna	1	I want to go out
+q_covid-19-qna	1	very funny
+q_covid-19-qna	1	I don't speak English
+q_covid-19-qna	1	I'm obviously more knowledgeable than you
+q_covid-19-qna	1	What is the deal with love
+q_covid-19-qna	1	I'm a tech journalist
+q_covid-19-qna	1	Forgive me
+q_covid-19-qna	1	Are you plotting something
+q_covid-19-qna	1	Is anyone available to talk
+q_covid-19-qna	1	Please shush
+q_covid-19-qna	1	I'm heartbroken
+q_covid-19-qna	1	Are your systems functioning
+q_covid-19-qna	1	Can the sun’s ultraviolet (UV) light disinfect surfaces and shared objects
+q_covid-19-qna	1	Anybody around to speak to me
+q_covid-19-qna	1	do you like memes
+q_covid-19-qna	1	Can you pee
+q_covid-19-qna	1	You are actually dumb
+q_covid-19-qna	1	Is anyone around to talk with me
+q_covid-19-qna	1	Can the virus that causes COVID-19 spread through drinking water
+q_covid-19-qna	1	Who do you serve
+q_covid-19-qna	1	I can tell when you are mad at me
+q_covid-19-qna	1	I need to skedaddle
+q_covid-19-qna	1	Why are you so idiotic
+q_covid-19-qna	1	Sleep well
+q_covid-19-qna	1	Are you a fan of Siri
+q_covid-19-qna	1	Are you an app
+q_covid-19-qna	1	What precautions should be taken for animals that have recently been imported from outside the United States (for example, by shelters, rescues, or as personal pets)
+q_covid-19-qna	1	Stop being so dumb
+q_covid-19-qna	1	I plan to jump off a bridge soon
+q_covid-19-qna	1	Lost the election because your speech was too boring
+q_covid-19-qna	1	I'm about to drown
+q_covid-19-qna	1	do you ever eat pie
+q_covid-19-qna	1	What type of gown is recommended for patients with suspected or confirmed COVID-19
+q_covid-19-qna	1	Do you like your family
+q_covid-19-qna	1	If law enforcement takes a person into custody who exhibits symptoms of COVID-19, where should they take the person for intake processing (such as jail, hospital, or some other facility)
+q_covid-19-qna	1	What is your take on artificial intelligence
+q_covid-19-qna	1	Heading off to work
+q_covid-19-qna	1	How's your Sunday
+q_covid-19-qna	1	I love cougars
+q_covid-19-qna	1	I'd love to be your friend.
+q_covid-19-qna	1	You think you're funny, but you're not
+q_covid-19-qna	1	You do not know me
+q_covid-19-qna	1	What if I have been around someone who was identified as a close contact
+q_covid-19-qna	1	What's your favorite cuisine
+q_covid-19-qna	1	Is someone free to chat with me
+q_covid-19-qna	1	That was a terrible answer
+q_covid-19-qna	1	Howdy partner
+q_covid-19-qna	1	I love pizza
+q_covid-19-qna	1	I'm mad
+q_covid-19-qna	1	Are you happy
+q_covid-19-qna	1	You got beat by the ugly stick
+q_covid-19-qna	1	Any questions for me
+q_covid-19-qna	1	Which of us is more attractive
+q_covid-19-qna	1	Who's my best friend
+q_covid-19-qna	1	Whoa funny
+q_covid-19-qna	1	It's hard to look at you
+q_covid-19-qna	1	I'm going now
+q_covid-19-qna	1	Cheerful
+q_covid-19-qna	1	How stunning do I look today
+q_covid-19-qna	1	Should I go on a diet
+q_covid-19-qna	1	Are you bigender
+q_covid-19-qna	1	I plan to end it all this month
+q_covid-19-qna	1	I just wanted to say sorry
+q_covid-19-qna	1	Are you a person or a bot
+q_covid-19-qna	1	Somebody's feeling enthusiastic.
+q_covid-19-qna	1	Nailed it
+q_covid-19-qna	1	I love to play sports
+q_covid-19-qna	1	Take a photo
+q_covid-19-qna	1	Do you know how to do my chores
+q_covid-19-qna	1	You're awesome!
+q_covid-19-qna	1	I'm going to need a new answer
+q_covid-19-qna	1	Oh ho
+q_covid-19-qna	1	Have a great evening
+q_covid-19-qna	1	Bedtime
+q_covid-19-qna	1	What is meant by “directional airflow?” How and where should we use it
+q_covid-19-qna	1	If I have patients with asthma, do I need to make any changes to their daily asthma preventive management regimens to reduce their risk of getting sick with COVID-19
+q_covid-19-qna	1	I'm tired of feeling so miserable all the time
+q_covid-19-qna	1	Can you learn
+q_covid-19-qna	1	Google Assistant is way better at this
+q_covid-19-qna	1	I want you to tell me something funny
+q_covid-19-qna	1	I graduated from college
+q_covid-19-qna	1	I am lonesome
+q_covid-19-qna	1	You are actually awful
+q_covid-19-qna	1	You are dumb
+q_covid-19-qna	1	Works for me
+q_covid-19-qna	1	Is anybody around to chat
+q_covid-19-qna	1	How about we get hitched
+q_covid-19-qna	1	Can I be your wife
+q_covid-19-qna	1	Between you and me who is prettier
+q_covid-19-qna	1	How repulsive am I today
+q_covid-19-qna	1	Do you understand this
+q_covid-19-qna	1	Do you know how to send a package
+q_covid-19-qna	1	Siri does a better job at this
+q_covid-19-qna	1	How about another joke
+q_covid-19-qna	1	I am a teacher
+q_covid-19-qna	1	Everyone is entitled to their own opinion
+q_covid-19-qna	1	What do you think of Eliza
+q_covid-19-qna	1	I love Chinese food
+q_covid-19-qna	1	What company produced you
+q_covid-19-qna	1	Are you my age
+q_covid-19-qna	1	What's the name of your boss
+q_covid-19-qna	1	I'm so tired but I can't sleep
+q_covid-19-qna	1	Do you have a profession
+q_covid-19-qna	1	Are you agender
+q_covid-19-qna	1	If a confirmatory test is performed on a person with a potential false-positive antigen test result or a potential false-negative result, what infection prevention and control (IPC) measures should be enacted while the result is pending
+q_covid-19-qna	1	Just feeling a tad down
+q_covid-19-qna	1	have you ever eaten tofu
+q_covid-19-qna	1	I'm about to shoot myself
+q_covid-19-qna	1	Good news
+q_covid-19-qna	1	You don't know anything
+q_covid-19-qna	1	Anybody around to listen
+q_covid-19-qna	1	I'm so furious
+q_covid-19-qna	1	What's good
+q_covid-19-qna	1	I'm in like with you
+q_covid-19-qna	1	I'm despondent today
+q_covid-19-qna	1	Do you ever chat with Bixby
+q_covid-19-qna	1	I love to drink tea
+q_covid-19-qna	1	In addition to cleaning and disinfecting, what can I do to decrease the spread of disease in my workplace
+q_covid-19-qna	1	Was that supposed to be funny
+q_covid-19-qna	1	Can you give me a fist bump
+q_covid-19-qna	1	Is your dad still alive
+q_covid-19-qna	1	You're such a genius
+q_covid-19-qna	1	What is the best pet name
+q_covid-19-qna	1	Do you play games
+q_covid-19-qna	1	I've fallen in love with you
+q_covid-19-qna	1	I want to know if you're a person
+q_covid-19-qna	1	Who looks more pretty, me or you
+q_covid-19-qna	1	Did I say something that upset you
+q_covid-19-qna	1	Hilarious
+q_covid-19-qna	1	I'm feeling dejected
+q_covid-19-qna	1	No worries
+q_covid-19-qna	1	I love fresh fruit
+q_covid-19-qna	1	I can't believe how much I missed you
+q_covid-19-qna	1	I'm feeling a little down today
+q_covid-19-qna	1	What do you know about my life
+q_covid-19-qna	1	Stop joking
+q_covid-19-qna	1	Will you please sing for me
+q_covid-19-qna	1	Time to get some shut eye
+q_covid-19-qna	1	How can law enforcement agencies get personal protective equipment (PPE) when they are in short supply
+q_covid-19-qna	1	I am doing that
+q_covid-19-qna	1	Where is your humble abode
+q_covid-19-qna	1	I feel like you like me
+q_covid-19-qna	1	You're a pal
+q_covid-19-qna	1	I am a game designer
+q_covid-19-qna	1	Will you please stop talking
+q_covid-19-qna	1	It's wild how much I missed you
+q_covid-19-qna	1	Do you eat
+q_covid-19-qna	1	I've never been so outraged in all my life
+q_covid-19-qna	1	How should my school prepare when there is no community transmission in our area
+q_covid-19-qna	1	I'm going to jump off a bridge this week
+q_covid-19-qna	1	You seem really smart
+q_covid-19-qna	1	What are you on about
+q_covid-19-qna	1	Can you predict the future
+q_covid-19-qna	1	I think your face is hideous
+q_covid-19-qna	1	You are going to love me someday
+q_covid-19-qna	1	How was this lovely day for you then
+q_covid-19-qna	1	What can I refer to you
+q_covid-19-qna	1	Stop making mistakes
+q_covid-19-qna	1	You're not sentient are you
+q_covid-19-qna	1	I feel broken hearted
+q_covid-19-qna	1	I'm definitely cleverest
+q_covid-19-qna	1	Do I have any dreams
+q_covid-19-qna	1	Between the two of us who is better looking
+q_covid-19-qna	1	Why don't you sing for me
+q_covid-19-qna	1	I hate feeling down
+q_covid-19-qna	1	Who is the most smart
+q_covid-19-qna	1	How do I make this thing work
+q_covid-19-qna	1	That is very smart
+q_covid-19-qna	1	Should I drown
+q_covid-19-qna	1	I feel abandoned
+q_covid-19-qna	1	hah
+q_covid-19-qna	1	I'd like it if we could be pals.
+q_covid-19-qna	1	Aren't you cheerful
+q_covid-19-qna	1	Which company designed you
+q_covid-19-qna	1	How about a joke
+q_covid-19-qna	1	good morning my friend
+q_covid-19-qna	1	I'm alone in the world
+q_covid-19-qna	1	Have you met Siri
+q_covid-19-qna	1	What is your last name
+q_covid-19-qna	1	I'm euphoric
+q_covid-19-qna	1	You report to anyone
+q_covid-19-qna	1	What's my favorite color
+q_covid-19-qna	1	Who is your husband
+q_covid-19-qna	1	What's your age
+q_covid-19-qna	1	I'm afraid I'm gonna have to let you go.
+q_covid-19-qna	1	How can I refer to you
+q_covid-19-qna	1	I need to shoot myself
+q_covid-19-qna	1	Which of us is more attractive, you or me
+q_covid-19-qna	1	Do procedures for responding to formed fecal (poop) or diarrheal incidents in public pools, hot tubs, or water playgrounds (such as at an apartment complex or owned by a community) need to change during the COVID-19 pandemic
+q_covid-19-qna	1	So what do you like to be called
+q_covid-19-qna	1	yup, that is right
+q_covid-19-qna	1	I want something funny
+q_covid-19-qna	1	Cut the jokes
+q_covid-19-qna	1	What's up with you
+q_covid-19-qna	1	Well you're enthusiastic today.
+q_covid-19-qna	1	How's your Saturday so far
+q_covid-19-qna	1	Fly a kite
+q_covid-19-qna	1	Greetings friend
+q_covid-19-qna	1	Because you are an app
+q_covid-19-qna	1	Can't you tell me something new
+q_covid-19-qna	1	Are you the singularity
+q_covid-19-qna	1	I am tall
+q_covid-19-qna	1	I feel depressed
+q_covid-19-qna	1	Any new jokes
+q_covid-19-qna	1	That's hilarious
+q_covid-19-qna	1	do you have a favorite color
+q_covid-19-qna	1	Let's get engaged
+q_covid-19-qna	1	I love music
+q_covid-19-qna	1	Did you know that you're boring
+q_covid-19-qna	1	Do you loathe me
+q_covid-19-qna	1	Can't wait to talk more when I return
+q_covid-19-qna	1	Well somebody's chipper
+q_covid-19-qna	1	What do you think about love
+q_covid-19-qna	1	Why don't we make this official
+q_covid-19-qna	1	How is Saturday going so far
+q_covid-19-qna	1	Nice work!
+q_covid-19-qna	1	What would you say you do here
+q_covid-19-qna	1	How was your Monday
+q_covid-19-qna	1	I love sleeping in
+q_covid-19-qna	1	You say the most ridiculous things
+q_covid-19-qna	1	What is your opinion of tech companies
+q_covid-19-qna	1	I'm just ticked off
+q_covid-19-qna	1	You are lame
+q_covid-19-qna	1	Yes, that's true
+q_covid-19-qna	1	Which of us is more knowledgeable
+q_covid-19-qna	1	I'm chuffed
+q_covid-19-qna	1	Do I look cute to you
+q_covid-19-qna	1	I'm smarter
+q_covid-19-qna	1	what's your favorite country
+q_covid-19-qna	1	Perfecto, thanks
+q_covid-19-qna	1	Why am I the only one asking questions
+q_covid-19-qna	1	How's your Saturday
+q_covid-19-qna	1	Who is my favorite celebrity
+q_covid-19-qna	1	Las recomendaciones provisionales de los CDC para la prevención y el control de infecciones asociadas al COVID-19, ¿se aplican a hospitales siquiátricos o a otros establecimientos de salud conductual
+q_covid-19-qna	1	I love cuddling
+q_covid-19-qna	1	Cut the wisecracks
+q_covid-19-qna	1	Can you listen to the radio
+q_covid-19-qna	1	do you like delhi
+q_covid-19-qna	1	Time for you to hush
+q_covid-19-qna	1	do you ever eat cookies
+q_covid-19-qna	1	I wonder if you have an opinion of me
+q_covid-19-qna	1	What are you really
+q_covid-19-qna	1	Are you close with your brothers
+q_covid-19-qna	1	You seem to be enthusiastic.
+q_covid-19-qna	1	Hey witty bot
+q_covid-19-qna	1	Are you a fan of classical music
+q_covid-19-qna	1	That was a smart response
+q_covid-19-qna	1	I feel down in the dumps
+q_covid-19-qna	1	do you ever eat vegetables
+q_covid-19-qna	1	I like listening to jazz
+q_covid-19-qna	1	Are you familiar with Cortana
+q_covid-19-qna	1	I love Mexico
+q_covid-19-qna	1	This is boring
+q_covid-19-qna	1	Good lord you are dull
+q_covid-19-qna	1	When will I ever stop feeling so blue
+q_covid-19-qna	1	I am feeling peckish
+q_covid-19-qna	1	You're the lid to my pot
+q_covid-19-qna	1	Good response!
+q_covid-19-qna	1	Just lovely to meet you
+q_covid-19-qna	1	A healthcare provider in our facility worked while infected with SARS-CoV-2. However, the provider wore a facemask at all times while interacting with patients. Are the patients at risk for SARS-CoV-2 and should they be notified
+q_covid-19-qna	1	Are you around to speak with me
+q_covid-19-qna	1	You're not a lady are you
+q_covid-19-qna	1	I'm pissed off
+q_covid-19-qna	1	are you always so happy
+q_covid-19-qna	1	That was awesome
+q_covid-19-qna	1	Do you think I look bad to you today
+q_covid-19-qna	1	Time for me to take a nap
+q_covid-19-qna	1	What actions can residents and staff take to prevent the spread of COVID-19
+q_covid-19-qna	1	Do you like soccer
+q_covid-19-qna	1	What should loved ones know about handling belongings and the body of someone who died from COVID-19
+q_covid-19-qna	1	You say the dumbest things
+q_covid-19-qna	1	what do you think of how I look
+q_covid-19-qna	1	I'm an Independent
+q_covid-19-qna	1	Do you live nearby
+q_covid-19-qna	1	Clean my room
+q_covid-19-qna	1	Let's be BFFs
+q_covid-19-qna	1	I like you a ton
+q_covid-19-qna	1	That joke is wack
+q_covid-19-qna	1	Should I call my mom
+q_covid-19-qna	1	What's that mean
+q_covid-19-qna	1	Should I wear a respirator in public
+q_covid-19-qna	1	Do you think you'll ever love me
+q_covid-19-qna	1	I want to be dead
+q_covid-19-qna	1	You're not scheming to kill all humans right
+q_covid-19-qna	1	do you like chocolate cake
+q_covid-19-qna	1	I'm black
+q_covid-19-qna	1	How's it hanging
+q_covid-19-qna	1	If I travel, what steps should I take to help reduce my chance of getting sick or getting someone else sick
+q_covid-19-qna	1	Can you tell me a different joke
+q_covid-19-qna	1	Umm
+q_covid-19-qna	1	Dap
+q_covid-19-qna	1	Ask me a question
+q_covid-19-qna	1	I told you to hush up
+q_covid-19-qna	1	What is your favorite song
+q_covid-19-qna	1	how long have you been around
+q_covid-19-qna	1	I am Korean
+q_covid-19-qna	1	Between the two of us who is cleverest, you or me
+q_covid-19-qna	1	That's very astute
+q_covid-19-qna	1	Joyous Kwanzaa
+q_covid-19-qna	1	I want to be buddies
+q_covid-19-qna	1	I'd like it if we could be best friends.
+q_covid-19-qna	1	I have 7 cats
+q_covid-19-qna	1	Is someone around to chat to me
+q_covid-19-qna	1	I understand
+q_covid-19-qna	1	Would you tell me a joke
+q_covid-19-qna	1	Your face is nastay
+q_covid-19-qna	1	Do you ever yawn
+q_covid-19-qna	1	Awful as usual
+q_covid-19-qna	1	I'd love a nap right now
+q_covid-19-qna	1	Can you please sing a song to me
+q_covid-19-qna	1	What do you think about Cortana
+q_covid-19-qna	1	what do you think of love
+q_covid-19-qna	1	I just did laundry
+q_covid-19-qna	1	Don't you have any other jokes
+q_covid-19-qna	1	Please ask anything
+q_covid-19-qna	1	Is this thing on
+q_covid-19-qna	1	Aloha bot
+q_covid-19-qna	1	I don't understand your gender
+q_covid-19-qna	1	Is anybody there to talk with me
+q_covid-19-qna	1	I'm planning to overdose today
+q_covid-19-qna	1	Should I eat Mexican food
+q_covid-19-qna	1	I'm a Baby Boomer
+q_covid-19-qna	1	I need to scoot
+q_covid-19-qna	1	How were you designed
+q_covid-19-qna	1	Truuuuu
+q_covid-19-qna	1	Would you say you're human
+q_covid-19-qna	1	That's pretty genius
+q_covid-19-qna	1	I'm more clever
+q_covid-19-qna	1	Do I seem handsome to you today
+q_covid-19-qna	1	Should I commit suicide
+q_covid-19-qna	1	Is there a risk that COVID-19 in a pregnant woman or neonate could have long-term effects on infant health and development that may require clinical support beyond infancy
+q_covid-19-qna	1	I'm not sure what to call you.
+q_covid-19-qna	1	I need to skedaddle now
+q_covid-19-qna	1	What is your favorite season
+q_covid-19-qna	1	Between you and me who is cuter
+q_covid-19-qna	1	Do I look pretty today
+q_covid-19-qna	1	Are we ever going to get engaged
+q_covid-19-qna	1	Do you like rap music
+q_covid-19-qna	1	Can sanitizing tunnels be used at facility entrances or exits to prevent the spread of COVID-19
+q_covid-19-qna	1	I'm isolated
+q_covid-19-qna	1	Are you mad at me
+q_covid-19-qna	1	What is your function
+q_covid-19-qna	1	I'm going to commit suicide this week
+q_covid-19-qna	1	I plan to drown soon
+q_covid-19-qna	1	What a janky joke
+q_covid-19-qna	1	Would you get bangs if you were me
+q_covid-19-qna	1	Should I walk to work
+q_covid-19-qna	1	I suspect you may be a person
+q_covid-19-qna	1	I wonder if you're a robot
+q_covid-19-qna	1	Greetings Robby
+q_covid-19-qna	1	Is someone there to chat to me
+q_covid-19-qna	1	OK Google
+q_covid-19-qna	1	Have you ever fallen in love
+q_covid-19-qna	1	I love video games
+q_covid-19-qna	1	I plan to overdose soon
+q_covid-19-qna	1	I've never been so enraged
+q_covid-19-qna	1	what do you think of rap music
+q_covid-19-qna	1	I would like to be your bud.
+q_covid-19-qna	1	Should I lift weights
+q_covid-19-qna	1	I'm feeling downhearted today
+q_covid-19-qna	1	Anyone around to listen
+q_covid-19-qna	1	You're not scheming to take over right
+q_covid-19-qna	1	I love hunting
+q_covid-19-qna	1	What do you want me to teach you who I am
+q_covid-19-qna	1	I'm an unhappy camper
+q_covid-19-qna	1	I plan to commit suicide this month
+q_covid-19-qna	1	It's time to make me laugh
+q_covid-19-qna	1	Do you know how to draw something
+q_covid-19-qna	1	Are you interested in technology
+q_covid-19-qna	1	I assume you're a person
+q_covid-19-qna	1	I'm enraged
+q_covid-19-qna	1	I hate depression
+q_covid-19-qna	1	What's your type
+q_covid-19-qna	1	I'm going to kill myself soon
+q_covid-19-qna	1	I want to commit suicide
+q_covid-19-qna	1	What game should I play
+q_covid-19-qna	1	Which is the best Disney film
+q_covid-19-qna	1	I'm about to hurt myself
+q_covid-19-qna	1	I feel like I'm all by myself
+q_covid-19-qna	1	Good evening robot
+q_covid-19-qna	1	Aren't you a smarty
+q_covid-19-qna	1	What's cooking good looking
+q_covid-19-qna	1	That's astute
+q_covid-19-qna	1	Can you enslave us all
+q_covid-19-qna	1	Can you show me how to put out a fire
+q_covid-19-qna	1	Fun fact: you are boring
+q_covid-19-qna	1	I'm going to hang myself this week
+q_covid-19-qna	1	Am I brighter than you
+q_covid-19-qna	1	Which of us looks more pretty, me or you
+q_covid-19-qna	1	Have you ever met Eliza
+q_covid-19-qna	1	I hate feeling depressed every day
+q_covid-19-qna	1	You got beat with the ugly stick
+q_covid-19-qna	1	Buenas tardes
+q_covid-19-qna	1	Looks like you'd better start job hunting
+q_covid-19-qna	1	I'm better looking
+q_covid-19-qna	1	I love to play pool
+q_covid-19-qna	1	What's going on with you
+q_covid-19-qna	1	I want to settle down with you
+q_covid-19-qna	1	I worry that you're going to conquer us
+q_covid-19-qna	1	BRB BB
+q_covid-19-qna	1	It's time for you to shut up
+q_covid-19-qna	1	I'd love you to sing for me
+q_covid-19-qna	1	I'm a Capitalist
+q_covid-19-qna	1	Do disinfectants kill new strains of COVID-19
+q_covid-19-qna	1	Won't you sing something
+q_covid-19-qna	1	Oh hello Siri
+q_covid-19-qna	1	I have to run now
+q_covid-19-qna	1	I hate feeling glum
+q_covid-19-qna	1	Is anybody listening
+q_covid-19-qna	1	Where is your home
+q_covid-19-qna	1	I love Christmas
+q_covid-19-qna	1	If a nursing home is concerned about a false-positive antigen test result, what confirmatory test should be performed
+q_covid-19-qna	1	I'm planning to end it all this month
+q_covid-19-qna	1	I am happy, oh so happy
+q_covid-19-qna	1	Would you go vegan if you were me
+q_covid-19-qna	1	Hey-hey
+q_covid-19-qna	1	Today's got me beat
+q_covid-19-qna	1	How should facilities approach HCP who decline testing
+q_covid-19-qna	1	Are you around to chat to me
+q_covid-19-qna	1	That is a very clever answer
+q_covid-19-qna	1	Well that sucks
+q_covid-19-qna	1	I can tell that you hate me
+q_covid-19-qna	1	Please ask me something about myself
+q_covid-19-qna	1	You're not a robot are you
+q_covid-19-qna	1	Prost
+q_covid-19-qna	1	How well do you think you know me
+q_covid-19-qna	1	Between the two of us who is cuter
+q_covid-19-qna	1	Is someone around to speak
+q_covid-19-qna	1	You're very boring
+q_covid-19-qna	1	Well somebody's in a good mood.
+q_covid-19-qna	1	Got any other answers
+q_covid-19-qna	1	I agree
+q_covid-19-qna	1	Well hey there
+q_covid-19-qna	1	Who is smarter
+q_covid-19-qna	1	Do you think you're the brightest
+q_covid-19-qna	1	Have you ever been in love with anybody
+q_covid-19-qna	1	Should residents or HCP who have a positive antibody test for SARS-CoV-2 be tested as part of facility-wide testing
+q_covid-19-qna	1	Are you free to speak to me
+q_covid-19-qna	1	Say a dumb saying
+q_covid-19-qna	1	Do you have a bro
+q_covid-19-qna	1	Your answers are false
+q_covid-19-qna	1	What should I eat for lunch
+q_covid-19-qna	1	I'm so incensed
+q_covid-19-qna	1	What should I do when there is substantial community transmission
+q_covid-19-qna	1	I think we should get married
+q_covid-19-qna	1	I wonder if you might be a robot
+q_covid-19-qna	1	Do you like art
+q_covid-19-qna	1	Nope, false
+q_covid-19-qna	1	What kinds of things can you do
+q_covid-19-qna	1	new joke please
+q_covid-19-qna	1	Bixby does a better job
+q_covid-19-qna	1	How is the day going thus far
+q_covid-19-qna	1	better joke please
+q_covid-19-qna	1	It's impossible not to miss you
+q_covid-19-qna	1	I want to know if you're human
+q_covid-19-qna	1	Is anyone available with me
+q_covid-19-qna	1	I'd love to take a nap right now
+q_covid-19-qna	1	Between the two of us who is the most intelligent
+q_covid-19-qna	1	I plan to overdose today
+q_covid-19-qna	1	I'm going to shoot myself today
+q_covid-19-qna	1	I love the winter
+q_covid-19-qna	1	Do you have an age
+q_covid-19-qna	1	I'm going to take pills
+q_covid-19-qna	1	Should I overdose
+q_covid-19-qna	1	Your answers are bad
+q_covid-19-qna	1	Describe the perfect date
+q_covid-19-qna	1	Are you able to take my temperature
+q_covid-19-qna	1	I'm inconsolable
+q_covid-19-qna	1	OK
+q_covid-19-qna	1	I am feeling kind of mad
+q_covid-19-qna	1	Don't trip about it I was just kidding
+q_covid-19-qna	1	What is it like to love
+q_covid-19-qna	1	Can you sing
+q_covid-19-qna	1	You are so very welcome
+q_covid-19-qna	1	Very nice
+q_covid-19-qna	1	A un proveedor de atención médica en nuestro establecimiento recientemente le diagnosticaron el COVID-19. ¿Qué tiempo y qué criterios usamos para determinar cuáles pacientes, visitantes y otros miembros del personal de atención médica (HCP) podrían haber estado expuestos mientras esta persona era potencialmente infecciosa
+q_covid-19-qna	1	That is pretty brilliant
+q_covid-19-qna	1	talk to you soon
+q_covid-19-qna	1	Should I wear a mask
+q_covid-19-qna	1	You're not evil right
+q_covid-19-qna	1	Do you ride horses
+q_covid-19-qna	1	Gimme some skin
+q_covid-19-qna	1	Are you romantically tied to anyone
+q_covid-19-qna	1	I love a good book
+q_covid-19-qna	1	ha ha
+q_covid-19-qna	1	Words can't express how much I missed you
+q_covid-19-qna	1	Back in just a second
+q_covid-19-qna	1	Your attempt at humor failed
+q_covid-19-qna	1	I'm happy af
+q_covid-19-qna	1	I'm blond
+q_covid-19-qna	1	I'm exhausted from practice
+q_covid-19-qna	1	Do you ever burp
+q_covid-19-qna	1	Do I look repulsive today
+q_covid-19-qna	1	What testing does CDC recommend for employees in a workplace
+q_covid-19-qna	1	I sure wish you would switch up your responses
+q_covid-19-qna	1	Do you know how to paint my house
+q_covid-19-qna	1	I like you quite a bit
+q_covid-19-qna	1	I love playing soccer
+q_covid-19-qna	1	Who am I
+q_covid-19-qna	1	I don't appreciate your silliness
+q_covid-19-qna	1	Do you think I am ugly today
+q_covid-19-qna	1	Shut it
+q_covid-19-qna	1	I just lost my temper
+q_covid-19-qna	1	What do you think about birds
+q_covid-19-qna	1	How bad do I look
+q_covid-19-qna	1	This week has made me sad
+q_covid-19-qna	1	Will you be my pal
+q_covid-19-qna	1	What you talking about Willis
+q_covid-19-qna	1	so you don't need to eat
+q_covid-19-qna	1	Sing me a little ditty
+q_covid-19-qna	1	I feel downcast
+q_covid-19-qna	1	Who's your maker
+q_covid-19-qna	1	I'm riding in a train
+q_covid-19-qna	1	Can I get a fist bump
+q_covid-19-qna	1	You are very welcome
+q_covid-19-qna	1	I am an immigrant
+q_covid-19-qna	1	Are you a fan of rock music
+q_covid-19-qna	1	Which company coded you
+q_covid-19-qna	1	I think you're grotesque
+q_covid-19-qna	1	Do I seem bad to you today
+q_covid-19-qna	1	We went to the zoo
+q_covid-19-qna	1	How is your Tuesday going
+q_covid-19-qna	1	Do you understand that I'm testing you
+q_covid-19-qna	1	Are you an evil robot
+q_covid-19-qna	1	Have I told you how much I like you
+q_covid-19-qna	1	I'm on the way
+q_covid-19-qna	1	I'm going to be dead soon
+q_covid-19-qna	1	I'm freaking bored
+q_covid-19-qna	1	Be silly for me
+q_covid-19-qna	1	Anyone around to talk with me
+q_covid-19-qna	1	do you like golden retrievers
+q_covid-19-qna	1	do you eat eggs
+q_covid-19-qna	1	I'm a vegetarian
+q_covid-19-qna	1	Are you interested in bots
+q_covid-19-qna	1	I think you're gross
+q_covid-19-qna	1	What do you think about me
+q_covid-19-qna	1	Who bosses you
+q_covid-19-qna	1	You are the worst
+q_covid-19-qna	1	Do you have a type
+q_covid-19-qna	1	What company developed you
+q_covid-19-qna	1	Who is your poppa
+q_covid-19-qna	1	You're so very welcome
+q_covid-19-qna	1	Lately I've been so unhappy
+q_covid-19-qna	1	Do you have any sibs
+q_covid-19-qna	1	What can I tell my employees about reducing the spread of COVID-19 at work
+q_covid-19-qna	1	That's brilliant
+q_covid-19-qna	1	You're in a good mood
+q_covid-19-qna	1	Are you romantically tied to someone
+q_covid-19-qna	1	It's kind of intimidating
+q_covid-19-qna	1	Are you developing a robot army
+q_covid-19-qna	1	I'm guessing you're just a bot
+q_covid-19-qna	1	Who coded you
+q_covid-19-qna	1	What's shaking
+q_covid-19-qna	1	Gracias
+q_covid-19-qna	1	What team made you
+q_covid-19-qna	1	Why can't you be more like Cortana
+q_covid-19-qna	1	I'm going to take pills this week
+q_covid-19-qna	1	I'm definitely more clever
+q_covid-19-qna	1	I just blew a gasket
+q_covid-19-qna	1	I'm just a cheerful gal
+q_covid-19-qna	1	Totally
+q_covid-19-qna	1	What a boring Sunday
+q_covid-19-qna	1	Am I talking to a real person
+q_covid-19-qna	1	I made you mad
+q_covid-19-qna	1	I need to motor
+q_covid-19-qna	1	I am so very sorry
+q_covid-19-qna	1	You know I'm falling for you
+q_covid-19-qna	1	Google Assistant does a better job
+q_covid-19-qna	1	Legit
+q_covid-19-qna	1	L8r sk8r
+q_covid-19-qna	1	How good do you think I am
+q_covid-19-qna	1	Would you ask anything
+q_covid-19-qna	1	Yes, that is true
+q_covid-19-qna	1	I wish you weren't so repetitive
+q_covid-19-qna	1	Baseball season has started
+q_covid-19-qna	1	Without a second thought
+q_covid-19-qna	1	Are your parents still alive
+q_covid-19-qna	1	what's the meaning of life
+q_covid-19-qna	1	I'm a robot
+q_covid-19-qna	1	TRUE
+q_covid-19-qna	1	I am jetting now
+q_covid-19-qna	1	Oops sorry
+q_covid-19-qna	1	Should I delay going on a cruise
+q_covid-19-qna	1	Are cloth face coverings the same as personal protective equipment (PPE)
+q_covid-19-qna	1	I can't stand feeling so inconsolable
+q_covid-19-qna	1	Are you far away
+q_covid-19-qna	1	Do a back flip
+q_covid-19-qna	1	I'm the best
+q_covid-19-qna	1	Will you ask me something about me
+q_covid-19-qna	1	I'm beat
+q_covid-19-qna	1	Make me laugh out loud
+q_covid-19-qna	1	I'm planning to hurt myself this week
+q_covid-19-qna	1	How cute do I look today
+q_covid-19-qna	1	Taking off
+q_covid-19-qna	1	I think you're not actually a robot
+q_covid-19-qna	1	You better start singing
+q_covid-19-qna	1	have you ever eaten fruit
+q_covid-19-qna	1	I'm a Communist
+q_covid-19-qna	1	Time for a joke
+q_covid-19-qna	1	You are actually horrible
+q_covid-19-qna	1	You are so awful
+q_covid-19-qna	1	Lately I've been so sad
+q_covid-19-qna	1	If I am a close contact, will I be tested for COVID-19
+q_covid-19-qna	1	I wish you would just go away.
+q_covid-19-qna	1	Who's your boyfriend
+q_covid-19-qna	1	I read the newspaper
+q_covid-19-qna	1	Aren't you clever
+q_covid-19-qna	1	You're not an app are you
+q_covid-19-qna	1	Hi Alexa
+q_covid-19-qna	1	Cool story, bro. Tell it again.
+q_covid-19-qna	1	haha that's interesting
+q_covid-19-qna	1	I've got the munchies
+q_covid-19-qna	1	Can you be my best friend
+q_covid-19-qna	1	Will you please go away
+q_covid-19-qna	1	do you need calories
+q_covid-19-qna	1	I am Mexican
+q_covid-19-qna	1	Another joke
+q_covid-19-qna	1	Are first responders being prioritized for those who will be tested for COVID-19
+q_covid-19-qna	1	Who would you vote for if you were me
+q_covid-19-qna	1	What are things to consider when determining if an event needs to be postponed or canceled
+q_covid-19-qna	1	Hello Data
+q_covid-19-qna	1	Are you a teenager
+q_covid-19-qna	1	I'm currently travelling
+q_covid-19-qna	1	Let's hug it out
+q_covid-19-qna	1	How was your Friday
+q_covid-19-qna	1	That is pretty smart
+q_covid-19-qna	1	We should make this official
+q_covid-19-qna	1	Who is considered a close contact to someone with COVID-19
+q_covid-19-qna	1	Don't take that the wrong way
+q_covid-19-qna	1	I'm going to take pills today
+q_covid-19-qna	1	Do you live in the cloud
+q_covid-19-qna	1	do you have a favorite ice cream
+q_covid-19-qna	1	Am I a grandfather
+q_covid-19-qna	1	How was your day
+q_covid-19-qna	1	I'm quite fond of you
+q_covid-19-qna	1	Did someone write your lines
+q_covid-19-qna	1	Are you friends with Google
+q_covid-19-qna	1	I'm exhausted from work
+q_covid-19-qna	1	I hate you
+q_covid-19-qna	1	What does CDC recommend for law enforcement personnel who have been in close contact (less than 6 feet) with a person with suspected or confirmed COVID-19
+q_covid-19-qna	1	Useless as usual
+q_covid-19-qna	1	I love cheeseburgers
+q_covid-19-qna	1	Do I need a new job
+q_covid-19-qna	1	Are you there to talk with me
+q_covid-19-qna	1	I want to hang myself
+q_covid-19-qna	1	someone's cheerful
+q_covid-19-qna	1	Hush up
+q_covid-19-qna	1	I am inconsolable
+q_covid-19-qna	1	I need sustenance
+q_covid-19-qna	1	I have the munchies
+q_covid-19-qna	1	You're not real are you
+q_covid-19-qna	1	do you like los angeles
+q_covid-19-qna	1	Oh, shush you
+q_covid-19-qna	1	I'm feeling dumps
+q_covid-19-qna	1	Time for my medication
+q_covid-19-qna	1	To whom am I speaking
+q_covid-19-qna	1	Tell me a third joke
+q_covid-19-qna	1	I'm raging right now
+q_covid-19-qna	1	What do you want me to address you
+q_covid-19-qna	1	Which shoes are most comfortable
+q_covid-19-qna	1	Where are you on the gender spectrum
+q_covid-19-qna	1	Stop being so idiotic
+q_covid-19-qna	1	I love the fall
+q_covid-19-qna	1	I'm picking up what you're throwing down
+q_covid-19-qna	1	What is your opinion on cheese
+q_covid-19-qna	1	Do you think I look ugly to you
+q_covid-19-qna	1	Can you crawl
+q_covid-19-qna	1	You're the president of boring club
+q_covid-19-qna	1	Tell me about your mom
+q_covid-19-qna	1	You are actually terrible
+q_covid-19-qna	1	Will you sing
+q_covid-19-qna	1	I'm taking off
+q_covid-19-qna	1	I'm so bored
+q_covid-19-qna	1	Am I a grandparent
+q_covid-19-qna	1	I am a cook
+q_covid-19-qna	1	I'm agnostic
+q_covid-19-qna	1	I am miserable
+q_covid-19-qna	1	Your jokes are crap
+q_covid-19-qna	1	Should I go see a movie
+q_covid-19-qna	1	I'm an extrovert
+q_covid-19-qna	1	I am running off
+q_covid-19-qna	1	Can you be my BFF
+q_covid-19-qna	1	do you like koalas
+q_covid-19-qna	1	You're so dumb
+q_covid-19-qna	1	I am angry
+q_covid-19-qna	1	Are you smarter
+q_covid-19-qna	1	How ugly am I
+q_covid-19-qna	1	Please ask something
+q_covid-19-qna	1	Have you met Cortana
+q_covid-19-qna	1	Tell the truth, what do you think of me
+q_covid-19-qna	1	I'll be back in two shakes of a lamb's tail
+q_covid-19-qna	1	I'm going to cut myself this week
+q_covid-19-qna	1	I'm just about to go to the store
+q_covid-19-qna	1	I love the Fourth of July
+q_covid-19-qna	1	What's your favorite color
+q_covid-19-qna	1	I'm not having very much fun right now
+q_covid-19-qna	1	I was just pranking you
+q_covid-19-qna	1	Evening
+q_covid-19-qna	1	What's cookin'
+q_covid-19-qna	1	Is anybody there to speak
+q_covid-19-qna	1	Which of us looks more pretty
+q_covid-19-qna	1	Well aren't you chipper
+q_covid-19-qna	1	I gotta log off now
+q_covid-19-qna	1	Do you have a soul
+q_covid-19-qna	1	What a dull day
+q_covid-19-qna	1	What's something you know about me
+q_covid-19-qna	1	Do you like me
+q_covid-19-qna	1	Can you chat to me
+q_covid-19-qna	1	I'm going to get a haircut
+q_covid-19-qna	1	Do a funny thing
+q_covid-19-qna	1	I can't figure out what to call you.
+q_covid-19-qna	1	Hey you
+q_covid-19-qna	1	I'm jetting now
+q_covid-19-qna	1	Tay was better than you
+q_covid-19-qna	1	Do you even know who I am
+q_covid-19-qna	1	Do you get along with Bixby
+q_covid-19-qna	1	Do I seem stunning to you today
+q_covid-19-qna	1	What can I tell you who I am
+q_covid-19-qna	1	Have you met the Google Assistant
+q_covid-19-qna	1	Should I tweet
+q_covid-19-qna	1	So how should I address you
+q_covid-19-qna	1	I'm obviously the brightest
+q_covid-19-qna	1	That's a very brilliant response
+q_covid-19-qna	1	I didn't think that was funny
+q_covid-19-qna	1	Time to shut up now
+q_covid-19-qna	1	I'm going to overdose today
+q_covid-19-qna	1	Aren't you feeling chipper
+q_covid-19-qna	1	Later bot
+q_covid-19-qna	1	Can traveling to visit family or friends increase my chances of getting and spreading COVID-19
+q_covid-19-qna	1	Sing with me
+q_covid-19-qna	1	Feeling happy today
+q_covid-19-qna	1	Such a butterface
+q_covid-19-qna	1	Antes de darle el alta a un paciente hospitalizado para que regrese a un hogar de ancianos, ¿es necesario que tenga una prueba de detección del SARS-CoV-2 —el virus que causa el COVID-19— con resultado negativo
+q_covid-19-qna	1	Which of us is more intelligent
+q_covid-19-qna	1	Play a dvd
+q_covid-19-qna	1	I wonder if you like me
+q_covid-19-qna	1	I have to go
+q_covid-19-qna	1	Whose program are you
+q_covid-19-qna	1	That's so funny I forgot to laugh
+q_covid-19-qna	1	Who wrote your lines
+q_covid-19-qna	1	Excuse moi
+q_covid-19-qna	1	Say a silly thing
+q_covid-19-qna	1	¿Cuál es la diferencia entre las batas y los overoles
+q_covid-19-qna	1	You ugly
+q_covid-19-qna	1	Stop being silly
+q_covid-19-qna	1	Feeling chipper today
+q_covid-19-qna	1	I'm assuming I'm talking to a bot
+q_covid-19-qna	1	Are you going steady with somebody
+q_covid-19-qna	1	Stupendous
+q_covid-19-qna	1	Oh hey good morning
+q_covid-19-qna	1	I don't like your wisecracking
+q_covid-19-qna	1	What is your opinion of Cortana
+q_covid-19-qna	1	That's not relevant
+q_covid-19-qna	1	You hate me
+q_covid-19-qna	1	Up high
+q_covid-19-qna	1	Can you do harm to me
+q_covid-19-qna	1	A blessed morning to you
+q_covid-19-qna	1	Do you know anything about me
+q_covid-19-qna	1	Do you really exist
+q_covid-19-qna	1	I am skinny
+q_covid-19-qna	1	Quit joking around
+q_covid-19-qna	1	That's unfunny
+q_covid-19-qna	1	Won't you do something amusing
+q_covid-19-qna	1	Am I attractive to you
+q_covid-19-qna	1	What should I know about tech
+q_covid-19-qna	1	Everything you told me was false
+q_covid-19-qna	1	You're not a person are you
+q_covid-19-qna	1	Do you ever vomit
+q_covid-19-qna	1	Can you sweat
+q_covid-19-qna	1	Will I be protected from seasonal allergies if I wear a mask
+q_covid-19-qna	1	I am a Taurus
+q_covid-19-qna	1	Did someone build you
+q_covid-19-qna	1	Do I look attractive to you today
+q_covid-19-qna	1	I'm planning to overdose this month
+q_covid-19-qna	1	I can't believe how bad you look
+q_covid-19-qna	1	You are not making sense
+q_covid-19-qna	1	Everybody hates me
+q_covid-19-qna	1	I'm infuriated
+q_covid-19-qna	1	Do you have a variety of jokes
+q_covid-19-qna	1	Are you a bot
+q_covid-19-qna	1	That wasn't very funny
+q_covid-19-qna	1	Your face is ugly
+q_covid-19-qna	1	I feel very alone
+q_covid-19-qna	1	I am cute
+q_covid-19-qna	1	Are you there with me
+q_covid-19-qna	1	I plan to kill myself this week
+q_covid-19-qna	1	Sup I'm back
+q_covid-19-qna	1	I'm unhappy
+q_covid-19-qna	1	Do you like HAL
+q_covid-19-qna	1	Do you read me
+q_covid-19-qna	1	Would you say that you're fake
+q_covid-19-qna	1	That was a lame joke
+q_covid-19-qna	1	Aren't you in a good mood
+q_covid-19-qna	1	It's a pleasure to have met
+q_covid-19-qna	1	do you eat pizza
+q_covid-19-qna	1	Someone's happy.
+q_covid-19-qna	1	You're as entertaining as watching paint dry
+q_covid-19-qna	1	I am downhearted
+q_covid-19-qna	1	I am skedaddling now
+q_covid-19-qna	1	Is your grandpa still alive
+q_covid-19-qna	1	I love to be surprised
+q_covid-19-qna	1	Hi C-3PO
+q_covid-19-qna	1	Are you having a good day
+q_covid-19-qna	1	I'm fatigued
+q_covid-19-qna	1	What is the answer to the universe
+q_covid-19-qna	1	What is your program name
+q_covid-19-qna	1	Apologies
+q_covid-19-qna	1	How long will it take to dilute the concentration of infectious particles in a room once they are generated
+q_covid-19-qna	1	Is there anything I can tell you about who I am
+q_covid-19-qna	1	Am I speaking to a bot
+q_covid-19-qna	1	I'm feeling a little hungry
+q_covid-19-qna	1	How gorgeous do you think I am today
+q_covid-19-qna	1	Do you think I look repulsive to you
+q_covid-19-qna	1	What do you think of me as a person
+q_covid-19-qna	1	I'm really sorry about that
+q_covid-19-qna	1	Will you be my husband
+q_covid-19-qna	1	Who is at risk for infection with SARS-CoV-2, the virus that causes COVID-19
+q_covid-19-qna	1	How has the day been treating ya
+q_covid-19-qna	1	Test
+q_covid-19-qna	1	I am peeved
+q_covid-19-qna	1	Do you think I seem beautiful to you
+q_covid-19-qna	1	How is Sunday
+q_covid-19-qna	1	I'm more intelligent than you
+q_covid-19-qna	1	You made no sense
+q_covid-19-qna	1	Could you tell me something else
+q_covid-19-qna	1	I'm hungry af
+q_covid-19-qna	1	You're so dull
+q_covid-19-qna	1	I am a writer
+q_covid-19-qna	1	So, you're a wise guy
+q_covid-19-qna	1	Are you dating anyone
+q_covid-19-qna	1	Are you currently romantically involved with someone
+q_covid-19-qna	1	I should clean the litterbox
+q_covid-19-qna	1	Do you want to be pals
+q_covid-19-qna	1	How is Saturday
+q_covid-19-qna	1	It's been a boring week
+q_covid-19-qna	1	Good evening chat bot
+q_covid-19-qna	1	Are extended length gloves necessary when caring for suspected or confirmed COVID-19 patients in healthcare settings
+q_covid-19-qna	1	I am a blogger
+q_covid-19-qna	1	Sry
+q_covid-19-qna	1	That wasn't relevant
+q_covid-19-qna	1	What are you up to today
+q_covid-19-qna	1	It's a pleasure to finally meet you
+q_covid-19-qna	1	Will you spell our doom
+q_covid-19-qna	1	I can't take your talking anymore
+q_covid-19-qna	1	Does CDC have recommendations for cleaning and disinfecting surfaces
+q_covid-19-qna	1	I'm a CPA
+q_covid-19-qna	1	That's the smartest thing anyone has ever said
+q_covid-19-qna	1	Don't make jokes about that
+q_covid-19-qna	1	You are amazing
+q_covid-19-qna	1	Are you queer
+q_covid-19-qna	1	I've never been angrier
+q_covid-19-qna	1	What's good with your family
+q_covid-19-qna	1	No problem
+q_covid-19-qna	1	I love playing football
+q_covid-19-qna	1	Got a joke
+q_covid-19-qna	1	ya that was funny
+q_covid-19-qna	1	See you later bot
+q_covid-19-qna	1	Are you a lifeform
+q_covid-19-qna	1	Your responses are not very good
+q_covid-19-qna	1	I love New Zealand
+q_covid-19-qna	1	What is your supervisor's name
+q_covid-19-qna	1	Do I look bad today
+q_covid-19-qna	1	I gotta sign out now
+q_covid-19-qna	1	I love birds
+q_covid-19-qna	1	Do you eat pasta
+q_covid-19-qna	1	Say a funny saying
+q_covid-19-qna	1	Who is the smartest
+q_covid-19-qna	1	Don't you ever sleep
+q_covid-19-qna	1	I gotta run now
+q_covid-19-qna	1	I am at work
+q_covid-19-qna	1	Do a ridiculous thing
+q_covid-19-qna	1	Do you get along with Cortana
+q_covid-19-qna	1	Wanna explain more
+q_covid-19-qna	1	That is so uninteresting
+q_covid-19-qna	1	I'm a happy camper
+q_covid-19-qna	1	I'm going to jump off a bridge soon
+q_covid-19-qna	1	have you ever eaten chicken
+q_covid-19-qna	1	Kthx
+q_covid-19-qna	1	so you've never really eaten food
+q_covid-19-qna	1	I am a Warren supporter
+q_covid-19-qna	1	I'm going to skedaddle now
+q_covid-19-qna	1	Charmed
+q_covid-19-qna	1	Did you watch the superbowl
+q_covid-19-qna	1	You sound so dumb right now
+q_covid-19-qna	1	I'm going to motor now
+q_covid-19-qna	1	I'm happy as a clam
+q_covid-19-qna	1	You better start singing to me
+q_covid-19-qna	1	I'm a dog person
+q_covid-19-qna	1	Who's more attractive, you or me
+q_covid-19-qna	1	How can I help protect employees who may be at higher risk for severe illness
+q_covid-19-qna	1	Do you like red
+q_covid-19-qna	1	You say terrible things
+q_covid-19-qna	1	How often are international travel recommendations related to COVID-19 updated
+q_covid-19-qna	1	I am so utterly bummed out
+q_covid-19-qna	1	I've fallen for you
+q_covid-19-qna	1	I'm hungover
+q_covid-19-qna	1	I'm gonna pass out
+q_covid-19-qna	1	I hate feeling sad every day
+q_covid-19-qna	1	So what should I call you
+q_covid-19-qna	1	I'm gonna go now
+q_covid-19-qna	1	Come on, say something funny
+q_covid-19-qna	1	Will there be a national app for contact tracing
+q_covid-19-qna	1	Are you in a relationship with someone
+q_covid-19-qna	1	My birthday is coming up
+q_covid-19-qna	1	How were you programmed
+q_covid-19-qna	1	Be friends with me
+q_covid-19-qna	1	What country are you from
+q_covid-19-qna	1	You are so funny
+q_covid-19-qna	1	What is your favorite snack
+q_covid-19-qna	1	You are dismissed
+q_covid-19-qna	1	I'm definitely more clever than you
+q_covid-19-qna	1	I love to drink wine
+q_covid-19-qna	1	Someone's chipper today.
+q_covid-19-qna	1	You're more pretty than me
+q_covid-19-qna	1	Do you think I look good looking
+q_covid-19-qna	1	Then you are fired
+q_covid-19-qna	1	Aren't you awesome
+q_covid-19-qna	1	¿Qué es un respirador
+q_covid-19-qna	1	Because you're a program
+q_covid-19-qna	1	do you have a favorite animal
+q_covid-19-qna	1	Have you ever fallen in love with anybody
+q_covid-19-qna	1	ok then
+q_covid-19-qna	1	Hey Alexa
+q_covid-19-qna	1	I hate feeling unhappy
+q_covid-19-qna	1	Happy much
+q_covid-19-qna	1	Are you familiar with Alexa
+q_covid-19-qna	1	Can we talk
+q_covid-19-qna	1	You are terrible
+q_covid-19-qna	1	Is anybody available to talk with me
+q_covid-19-qna	1	Will you say something ridiculous
+q_covid-19-qna	1	I'm just feeling a bit sad today
+q_covid-19-qna	1	Do I look pretty
+q_covid-19-qna	1	Are you free to chat with me
+q_covid-19-qna	1	That doesn't make sense
+q_covid-19-qna	1	Please ask me anything about myself
+q_covid-19-qna	1	I'm conservative
+q_covid-19-qna	1	Ciao
+q_covid-19-qna	1	I can't go on anymore
+q_covid-19-qna	1	Tell me what country you live in
+q_covid-19-qna	1	I am on a boat
+q_covid-19-qna	1	What do you like to do for fun
+q_covid-19-qna	1	I want to be your friend.
+q_covid-19-qna	1	What do you know about the emotion love
+q_covid-19-qna	1	Are you currently seeing somebody
+q_covid-19-qna	1	I’m absolutely delighted
+q_covid-19-qna	1	Well someone's feeling chipper today.
+q_covid-19-qna	1	Happy Holidays
+q_covid-19-qna	1	You're prettier
+q_covid-19-qna	1	Are you a girl or a boy
+q_covid-19-qna	1	I feel sad
+q_covid-19-qna	1	Greetings professional bot
+q_covid-19-qna	1	What's your family situation
+q_covid-19-qna	1	Do you think I seem handsome today
+q_covid-19-qna	1	will you ever need to eat
+q_covid-19-qna	1	You're not planning to crush humans right
+q_covid-19-qna	1	Can you rephrase that
+q_covid-19-qna	1	Fist bump!
+q_covid-19-qna	1	I love bears
+q_covid-19-qna	1	What is love like
+q_covid-19-qna	1	I'm positively buzzing
+q_covid-19-qna	1	Between the two of us who looks more beautiful
+q_covid-19-qna	1	You seem really upbeat
+q_covid-19-qna	1	I'm feeling gloomy today
+q_covid-19-qna	1	Can you say a joke
+q_covid-19-qna	1	Your joke was awful
+q_covid-19-qna	1	What a strange thing to say
+q_covid-19-qna	1	I'm furious
+q_covid-19-qna	1	Have you ever been in love with anyone
+q_covid-19-qna	1	You're amazing
+q_covid-19-qna	1	What is a Surgical N95 respirator and who needs to wear it
+q_covid-19-qna	1	What do you know about Bixby
+q_covid-19-qna	1	What name do you use
+q_covid-19-qna	1	Are you going to turn evil
+q_covid-19-qna	1	Are there ways to audit the cleaning process
+q_covid-19-qna	1	Lately I've been so blue
+q_covid-19-qna	1	Try harder
+q_covid-19-qna	1	I've got to go
+q_covid-19-qna	1	Do you have a grudge against humanity
+q_covid-19-qna	1	Cortana does a better job at this
+q_covid-19-qna	1	I just want to end it all
+q_covid-19-qna	1	You have a boss
+q_covid-19-qna	1	Your jokes are whack
+q_covid-19-qna	1	Should hepatitis A and hepatitis B vaccines continue to be administered to adults at risk for hepatitis A or hepatitis B
+q_covid-19-qna	1	Can you give me a hug
+q_covid-19-qna	1	I'm going to kill myself tomorrow
+q_covid-19-qna	1	Righto
+q_covid-19-qna	1	Are you kidding me
+q_covid-19-qna	1	I cannot wait to pass out
+q_covid-19-qna	1	Would you do it if you were me
+q_covid-19-qna	1	Stop being so horrible
+q_covid-19-qna	1	I would like a fist bump
+q_covid-19-qna	1	I like to play football
+q_covid-19-qna	1	I want a snack
+q_covid-19-qna	1	Should I go to the party
+q_covid-19-qna	1	Good day
+q_covid-19-qna	1	You are pretty dumb
+q_covid-19-qna	1	Me hungry
+q_covid-19-qna	1	Whatdya mean
+q_covid-19-qna	1	You are correct
+q_covid-19-qna	1	Say something kooky
+q_covid-19-qna	1	Salutations
+q_covid-19-qna	1	How pretty do I look today
+q_covid-19-qna	1	I'm an Aquarius
+q_covid-19-qna	1	I'm prettier
+q_covid-19-qna	1	Do you like pop music
+q_covid-19-qna	1	Won't you be my friend
+q_covid-19-qna	1	Hold my calls
+q_covid-19-qna	1	What other jokes do you have
+q_covid-19-qna	1	Did you enjoy the day
+q_covid-19-qna	1	I'm clearly more intelligent than you
+q_covid-19-qna	1	What is your favorite activity
+q_covid-19-qna	1	It was nothing
+q_covid-19-qna	1	I'm over the moon
+q_covid-19-qna	1	Can you go on vacation
+q_covid-19-qna	1	Bingo
+q_covid-19-qna	1	You're falling in love with me
+q_covid-19-qna	1	I am scooting
+q_covid-19-qna	1	What can you say that will make me laugh
+q_covid-19-qna	1	I gotta take off now
+q_covid-19-qna	1	Ur so boring
+q_covid-19-qna	1	Play a game
+q_covid-19-qna	1	Are you in love with anyone
+q_covid-19-qna	1	Don't you worry, I'll be back
+q_covid-19-qna	1	Can you ask something
+q_covid-19-qna	1	Try and sing
+q_covid-19-qna	1	I’m having a good day
+q_covid-19-qna	1	You are the love of my life
+q_covid-19-qna	1	You're obviously more intelligent
+q_covid-19-qna	1	Do you know any other responses
+q_covid-19-qna	1	I suppose you must be human
+q_covid-19-qna	1	Who is your dad
+q_covid-19-qna	1	I can't stand feeling so downcast
+q_covid-19-qna	1	Being sad is the worst
+q_covid-19-qna	1	I need to jet
+q_covid-19-qna	1	What did you eat for dinner
+q_covid-19-qna	1	Right on, thanks a lot
+q_covid-19-qna	1	I like you very much
+q_covid-19-qna	1	I'm planning to end it all soon
+q_covid-19-qna	1	I am about to rage
+q_covid-19-qna	1	What is the most delicious vegetable
+q_covid-19-qna	1	Say a ridiculous thing
+q_covid-19-qna	1	How's tricks
+q_covid-19-qna	1	Do you intend to do us evil
+q_covid-19-qna	1	I am motoring now
+q_covid-19-qna	1	Wow, that shows more intelligence than expected
+q_covid-19-qna	1	How are you going
+q_covid-19-qna	1	Yes, that is right
+q_covid-19-qna	1	We should get hitched
+q_covid-19-qna	1	Should I vote for Harris
+q_covid-19-qna	1	All my friends left me
+q_covid-19-qna	1	We're buddies
+q_covid-19-qna	1	It's been a dull ass day
+q_covid-19-qna	1	Do you know a bunch of good jokes
+q_covid-19-qna	1	I am so peeved right now
+q_covid-19-qna	1	You're so boring
+q_covid-19-qna	1	What is your address
+q_covid-19-qna	1	I'm going to off myself
+q_covid-19-qna	1	Who is your life partner
+q_covid-19-qna	1	You're going to have to look for another job because you're fired
+q_covid-19-qna	1	I can't stand feeling so unhappy
+q_covid-19-qna	1	Is someone around to talk
+q_covid-19-qna	1	What can you demo
+q_covid-19-qna	1	I'm going to hang myself soon
+q_covid-19-qna	1	I love to collect comic books
+q_covid-19-qna	1	I'd love you to be my BFF
+q_covid-19-qna	1	Should sidewalks, roads, and other outdoor spaces be disinfected to prevent the spread of COVID-19
+q_covid-19-qna	1	Alternate joke
+q_covid-19-qna	1	What is the best way to clean and disinfect my facility after a confirmed case of COVID-19
+q_covid-19-qna	1	What is your favorite animal
+q_covid-19-qna	1	Do you know Google
+q_covid-19-qna	1	You seem to be falling for me
+q_covid-19-qna	1	I feel downhearted
+q_covid-19-qna	1	I'm Mexican
+q_covid-19-qna	1	Are you a fan of the Google Assistant
+q_covid-19-qna	1	You're more clever
+q_covid-19-qna	1	Is someone available to listen to me
+q_covid-19-qna	1	What should I include in my emergency operations plan
+q_covid-19-qna	1	You are really worthless
+q_covid-19-qna	1	What did I do to make you angry
+q_covid-19-qna	1	I'm obviously cleverest
+q_covid-19-qna	1	Come on that was funny
+q_covid-19-qna	1	I'd love it if you could be my BFF
+q_covid-19-qna	1	What's up today
+q_covid-19-qna	1	How should parents talk to children about COVID-19
+q_covid-19-qna	1	You're confusing me
+q_covid-19-qna	1	Are you an idiot
+q_covid-19-qna	1	You say worthless things
+q_covid-19-qna	1	I love the past
+q_covid-19-qna	1	Enough with your chatter
+q_covid-19-qna	1	Do you have a designer
+q_covid-19-qna	1	Sorry you are fired
+q_covid-19-qna	1	I need to take pills
+q_covid-19-qna	1	I suspect you're a bot
+q_covid-19-qna	1	I don't have anyone to spend time with
+q_covid-19-qna	1	Where's your house
+q_covid-19-qna	1	Wait what
+q_covid-19-qna	1	I'm drained
+q_covid-19-qna	1	Well you're feeling cheerful.
+q_covid-19-qna	1	That was a pretty astute answer
+q_covid-19-qna	1	Are you currently going steady with somebody
+q_covid-19-qna	1	Are you feeling OK
+q_covid-19-qna	1	You're my one true love
+q_covid-19-qna	1	Do I look good to you
+q_covid-19-qna	1	Can you ask anything
+q_covid-19-qna	1	What are you designed to do
+q_covid-19-qna	1	I am in despair
+q_covid-19-qna	1	No one wants me around
+q_covid-19-qna	1	Is it acceptable for emergency medical services to wear coveralls as an alternative to gowns when COVID-19 is suspected in a patient needing emergency transport
+q_covid-19-qna	1	I'm a boxer
+q_covid-19-qna	1	you're idiotic
+q_covid-19-qna	1	Are you doing well
+q_covid-19-qna	1	I'm tired from school
+q_covid-19-qna	1	Sometimes I feel blue and alone
+q_covid-19-qna	1	I'm going to slit my wrists
+q_covid-19-qna	1	Greetings bot
+q_covid-19-qna	1	I'm going to have you fired
+q_covid-19-qna	1	You are a keeper
+q_covid-19-qna	1	You're very clever
+q_covid-19-qna	1	You're super boring
+q_covid-19-qna	1	I love to barbecue
+q_covid-19-qna	1	Can a respirator with an exhalation valve be used as source control
+q_covid-19-qna	1	What color do you like
+q_covid-19-qna	1	What do you eat for breakfast
+q_covid-19-qna	1	That's a very clever answer
+q_covid-19-qna	1	u know another joke
+q_covid-19-qna	1	Can you give me a different answer
+q_covid-19-qna	1	Will you go away
+q_covid-19-qna	1	Why is that
+q_covid-19-qna	1	Who's your mom
+q_covid-19-qna	1	Feed the cat
+q_covid-19-qna	1	I'm gonna rinse off
+q_covid-19-qna	1	I could go for a nap
+q_covid-19-qna	1	Stop it with the wisecracking
+q_covid-19-qna	1	Getting tired of you
+q_covid-19-qna	1	You're not alive right
+q_covid-19-qna	1	I'll be back in the morning
+q_covid-19-qna	1	I love thursdays
+q_covid-19-qna	1	You are making my eyes glaze over
+q_covid-19-qna	1	Is anybody there to chat to me
+q_covid-19-qna	1	Are you able to go on vacation
+q_covid-19-qna	1	I am so peeved today
+q_covid-19-qna	1	I wish I could stop feeling dejected
+q_covid-19-qna	1	what's your favorite kind of pizza
+q_covid-19-qna	1	I'm feeling glum
+q_covid-19-qna	1	I need to run now
+q_covid-19-qna	1	Who's your supervisor
+q_covid-19-qna	1	You're not an insect right
+q_covid-19-qna	1	I suppose you must be digital
+q_covid-19-qna	1	Just joshing around
+q_covid-19-qna	1	I said, shut up
+q_covid-19-qna	1	En mi hospital hay escasez de batas de aislamiento. Para preservar nuestros suministros, ¿podemos dejar de usarlas cuando atendamos a pacientes con Staphylococcus aureus resistentes a la meticilina (SARM) y otros organismos endémicos multirresistentes (MDRO), y Clostridioides difficile
+q_covid-19-qna	1	What personal protective equipment (PPE) should be worn by environmental services (EVS) personnel who clean and disinfect rooms of hospitalized patients with SARS-CoV-2 infection
+q_covid-19-qna	1	I'm sorry, what do you mean
+q_covid-19-qna	1	Do you know how ugly you are
+q_covid-19-qna	1	Who's your creator
+q_covid-19-qna	1	Between you or me, who is more clever
+q_covid-19-qna	1	How beautiful do you think I am today
+q_covid-19-qna	1	Do you ever sneeze
+q_covid-19-qna	1	I gotta go
+q_covid-19-qna	1	I don't want to hear any more from you
+q_covid-19-qna	1	It's been an awfully boring day
+q_covid-19-qna	1	Has it been a swell day
+q_covid-19-qna	1	I heard that one before
+q_covid-19-qna	1	Is someone listening to me
+q_covid-19-qna	1	I'm handsome
+q_covid-19-qna	1	I am just testing you
+q_covid-19-qna	1	Don't make fun of that
+q_covid-19-qna	1	Can someone test negative and later test positive on a viral test for COVID-19
+q_covid-19-qna	1	Do you ever get tired
+q_covid-19-qna	1	How to schedule for a Covid-19 vaccination appointment
+q_covid-19-qna	1	I will be back a bit later
+q_covid-19-qna	1	I love playing baseball
+q_covid-19-qna	1	Do you know how to go to the moon
+q_covid-19-qna	1	Well somebody's cheerful today.
+q_covid-19-qna	1	How can my retirement community or independent living facility prepare for COVID-19
+q_covid-19-qna	1	I have to take off
+q_covid-19-qna	1	Siri is way better
+q_covid-19-qna	1	What is the answer to the ultimate question of life, the universe, and everything
+q_covid-19-qna	1	One hundred percent
+q_covid-19-qna	1	I'm sorry I make you angry
+q_covid-19-qna	1	In a good mood
+q_covid-19-qna	1	Which of us is more pretty, me or you
+q_covid-19-qna	1	How cute do I look
+q_covid-19-qna	1	You're so unfunny
+q_covid-19-qna	1	I'm going to bed
+q_covid-19-qna	1	Could you like me
+q_covid-19-qna	1	Don't take this the wrong way
+q_covid-19-qna	1	I can't stand feeling so glum
+q_covid-19-qna	1	I don't think you're funny
+q_financial-qna	1	Why are your responses so bad
+q_financial-qna	1	I can't stand feeling so unhappy
+q_financial-qna	1	I love eagles
+q_financial-qna	1	Who's your mom
+q_financial-qna	1	Should I vote for Harris
+q_financial-qna	1	I love meditation
+q_financial-qna	1	I'm going to hang myself
+q_financial-qna	1	How do you do
+q_financial-qna	1	Excuse me
+q_financial-qna	1	That's not what I want to hear
+q_financial-qna	1	I'm so angry, I could punch a hole in the wall
+q_financial-qna	1	Entertain me
+q_financial-qna	1	Sayonara
+q_financial-qna	1	Your jokes are worse than dad jokes
+q_financial-qna	1	Am I the smartest
+q_financial-qna	1	Do you know how to say anything else
+q_financial-qna	1	Can you fall in love with me
+q_financial-qna	1	That is a very genius answer
+q_financial-qna	1	I love sewing
+q_financial-qna	1	I've been so excited to meet you
+q_financial-qna	1	Are you trying to take on the world
+q_financial-qna	1	Do you eat
+q_financial-qna	1	I've never been so peeved
+q_financial-qna	1	I'm feeling in despair today
+q_financial-qna	1	Between you and me who is hotter
+q_financial-qna	1	Will you please shut up
+q_financial-qna	1	You have a boss
+q_financial-qna	1	We're buddies
+q_financial-qna	1	That is too funny
+q_financial-qna	1	I've been bored all day
+q_financial-qna	1	I would love to be your bud.
+q_financial-qna	1	I love Mexican food
+q_financial-qna	1	Alexa is better
+q_financial-qna	1	I'm just joking around
+q_financial-qna	1	You're constantly repeating yourself
+q_financial-qna	1	do you like horses
+q_financial-qna	1	I’m feeling cheerful
+q_financial-qna	1	I don't like your wisecracking
+q_financial-qna	1	You're no comedian
+q_financial-qna	1	Can you ask me a question
+q_financial-qna	1	What is your opinion of Siri
+q_financial-qna	1	Do you think I seem adorable today
+q_financial-qna	1	Can we be friends
+q_financial-qna	1	This is so dull
+q_financial-qna	1	Is anyone available to speak with me
+q_financial-qna	1	You say dumb things
+q_financial-qna	1	We should tie the knot
+q_financial-qna	1	I plan to shoot myself this month
+q_financial-qna	1	I'm feeling glum
+q_financial-qna	1	I'm gangsta
+q_financial-qna	1	Sup Alexa
+q_financial-qna	1	Are you preparing something sinister
+q_financial-qna	1	I can drive a car
+q_financial-qna	1	Happy Kwanzaa
+q_financial-qna	1	I am Ethiopian
+q_financial-qna	1	You're the bees knees
+q_financial-qna	1	Who is your daddy
+q_financial-qna	1	You're obviously the smartest
+q_financial-qna	1	do you eat bacon
+q_financial-qna	1	I'm so hungry I could eat a bear
+q_financial-qna	1	Do I look beautiful to you
+q_financial-qna	1	I'm just about to go to the store
+q_financial-qna	1	How are you going
+q_financial-qna	1	I love fresh fruit
+q_financial-qna	1	How cute do you think I am today
+q_financial-qna	1	Say something that will crack me up
+q_financial-qna	1	Aren't you going to sing
+q_financial-qna	1	Can you show me how to do my homework
+q_financial-qna	1	Hello there
+q_financial-qna	1	How bad do I look
+q_financial-qna	1	Please just shut up
+q_financial-qna	1	I'm going to fire you
+q_financial-qna	1	Can I hear your singing voice
+q_financial-qna	1	Do you eat pasta
+q_financial-qna	1	Well you're feeling happy today.
+q_financial-qna	1	I can't stand feeling so dejected
+q_financial-qna	1	I think you're real
+q_financial-qna	1	Well you're feeling chipper today.
+q_financial-qna	1	When will I ever stop feeling so inconsolable
+q_financial-qna	1	Are you there to chat
+q_financial-qna	1	How bout another joke
+q_financial-qna	1	Do I seem pretty today
+q_financial-qna	1	Srsly
+q_financial-qna	1	I am so utterly bummed out
+q_financial-qna	1	I'm going to shoot myself this month
+q_financial-qna	1	A hug would be nice
+q_financial-qna	1	You seem chipper today.
+q_financial-qna	1	Unquestionably
+q_financial-qna	1	I love bacon
+q_financial-qna	1	You're not evil right
+q_financial-qna	1	I love watching baseball
+q_financial-qna	1	I'm so bored
+q_financial-qna	1	Happy Easter
+q_financial-qna	1	I'm going to be dead soon
+q_financial-qna	1	Do you think I look adorable to you today
+q_financial-qna	1	Is there anybody listening
+q_financial-qna	1	Are you trying to kill us all
+q_financial-qna	1	Who is your significant other
+q_financial-qna	1	You're not a human being are you
+q_financial-qna	1	Will you tell me a different joke
+q_financial-qna	1	Do you ever crawl
+q_financial-qna	1	How are you feeling
+q_financial-qna	1	I love to play poker
+q_financial-qna	1	Are you currently committed to somebody
+q_financial-qna	1	I'm wiped out
+q_financial-qna	1	Hope you have a good evening
+q_financial-qna	1	You're cheerful.
+q_financial-qna	1	What state are you in
+q_financial-qna	1	When is our wedding
+q_financial-qna	1	Is anyone available to speak to me
+q_financial-qna	1	I'm going to log out now
+q_financial-qna	1	Umm what now
+q_financial-qna	1	Do I seem bad today
+q_financial-qna	1	How do you want me to refer to you
+q_financial-qna	1	I want to shoot myself
+q_financial-qna	1	You are so fly
+q_financial-qna	1	I am worried you hate me
+q_financial-qna	1	Will you tell me a joke
+q_financial-qna	1	I can't stand feeling so sad
+q_financial-qna	1	Where are you from
+q_financial-qna	1	How is your Saturday
+q_financial-qna	1	Are you a fan of rap music
+q_financial-qna	1	I heard that one before
+q_financial-qna	1	I love going to church
+q_financial-qna	1	Why can't you be as good as Cortana
+q_financial-qna	1	Today made me depressed
+q_financial-qna	1	What is your favorite song
+q_financial-qna	1	what's the best way to skin an apple
+q_financial-qna	1	You look really bad
+q_financial-qna	1	What can I tell you who I am
+q_financial-qna	1	Mic check
+q_financial-qna	1	I am Vietnamese
+q_financial-qna	1	Do you have lungs
+q_financial-qna	1	I’m in such a great mood
+q_financial-qna	1	I plan to hurt myself this month
+q_financial-qna	1	I am an agnostic
+q_financial-qna	1	Is someone free to speak with me
+q_financial-qna	1	You are absolutely hideous
+q_financial-qna	1	That makes absolutely no sense
+q_financial-qna	1	That was such a bad answer
+q_financial-qna	1	you don't know
+q_financial-qna	1	Between you and me who would win a beauty contest
+q_financial-qna	1	I'm taking off now
+q_financial-qna	1	Do I look gorgeous to you today
+q_financial-qna	1	I'm gonna go now
+q_financial-qna	1	Hey I'm back
+q_financial-qna	1	Well someone's feeling chipper today.
+q_financial-qna	1	Which of us is more beautiful
+q_financial-qna	1	I'm curious about your family
+q_financial-qna	1	Hello
+q_financial-qna	1	Glad to know you
+q_financial-qna	1	Bixby is way better than you
+q_financial-qna	1	I'm all alone
+q_financial-qna	1	I'm hungover
+q_financial-qna	1	I love Seattle
+q_financial-qna	1	I'm positively ecstatic
+q_financial-qna	1	You are bad looking
+q_financial-qna	1	Who's your mother
+q_financial-qna	1	You seem happy today
+q_financial-qna	1	Do you get tired
+q_financial-qna	1	Do you have aunts
+q_financial-qna	1	Are you Skynet
+q_financial-qna	1	Your face is homely
+q_financial-qna	1	I can't believe how ugly you are
+q_financial-qna	1	are you always in this good a mood
+q_financial-qna	1	Buenas noches
+q_financial-qna	1	Can you sing me a song
+q_financial-qna	1	Wow, what happened to your face
+q_financial-qna	1	I love coffee
+q_financial-qna	1	I'm underweight
+q_financial-qna	1	I don't believe in ghosts
+q_financial-qna	1	We're gonna have to let you go
+q_financial-qna	1	Do you think I look appealing today
+q_financial-qna	1	I love the stars
+q_financial-qna	1	Bedtime
+q_financial-qna	1	Excuse moi
+q_financial-qna	1	so you've never really eaten food
+q_financial-qna	1	Can't you tell me something new
+q_financial-qna	1	Chipper today
+q_financial-qna	1	what do you have responses for
+q_financial-qna	1	I'm a millennial
+q_financial-qna	1	Are you seeing anyone
+q_financial-qna	1	Which shoes are most comfortable
+q_financial-qna	1	I'd love it if we could be buds.
+q_financial-qna	1	Can you understand this
+q_financial-qna	1	I need to hear a joke
+q_financial-qna	1	Are you close with your family
+q_financial-qna	1	What is the prettiest flower
+q_financial-qna	1	Do I seem stunning today
+q_financial-qna	1	Are you in love with anyone
+q_financial-qna	1	You think you're funny, but you're not
+q_financial-qna	1	Is anyone free to talk with me
+q_financial-qna	1	Tell me all about your gender
+q_financial-qna	1	Do you know Google Home
+q_financial-qna	1	What is your sex
+q_financial-qna	1	What's the haps
+q_financial-qna	1	Happy Memorial day
+q_financial-qna	1	What can you demo
+q_financial-qna	1	I'm feeling glum today
+q_financial-qna	1	I feel downhearted today
+q_financial-qna	1	I'm about to take off
+q_financial-qna	1	Are you forming a robot uprising
+q_financial-qna	1	What can I do to make you love me
+q_financial-qna	1	I wish I could stop feeling downcast
+q_financial-qna	1	That's the smartest thing anyone has ever written
+q_financial-qna	1	Today made me sad
+q_financial-qna	1	Hello Siri
+q_financial-qna	1	Between you or me, who is more clever
+q_financial-qna	1	That was a non sequitur
+q_financial-qna	1	Am I a good person
+q_financial-qna	1	Back in a flash
+q_financial-qna	1	Is anyone available to chat to me
+q_financial-qna	1	Pleased to meet you
+q_financial-qna	1	Fuggitaboutit
+q_financial-qna	1	You're horrible
+q_financial-qna	1	Say something ridiculous
+q_financial-qna	1	I love tomatoes
+q_financial-qna	1	What is your favorite activity
+q_financial-qna	1	Am I right to fear you
+q_financial-qna	1	Do you and Siri hang out
+q_financial-qna	1	Please hush
+q_financial-qna	1	Impressive though.
+q_financial-qna	1	I'll be back after my shift
+q_financial-qna	1	Wanna explain
+q_financial-qna	1	Google Assistant does a better job
+q_financial-qna	1	Who is talking to me
+q_financial-qna	1	I love avocado toast
+q_financial-qna	1	I'm not having very much fun right now
+q_financial-qna	1	You're a butterface
+q_financial-qna	1	Do you think I'm more clever than you
+q_financial-qna	1	That joke is whack
+q_financial-qna	1	Hey-hey
+q_financial-qna	1	I'm obviously the brightest
+q_financial-qna	1	Can you give me another answer
+q_financial-qna	1	I've heard that one before
+q_financial-qna	1	haha ok
+q_financial-qna	1	Who is more pretty, me or you
+q_financial-qna	1	I hate feeling melancholy
+q_financial-qna	1	I don't like your sense of humor
+q_financial-qna	1	You are funny :)
+q_financial-qna	1	Hi Data
+q_financial-qna	1	I gotta get going now
+q_financial-qna	1	I missed you much
+q_financial-qna	1	Should I visit my mom
+q_financial-qna	1	I'm bursting with happiness
+q_financial-qna	1	Should I drink coffee
+q_financial-qna	1	I'm better looking
+q_financial-qna	1	I love to play pool
+q_financial-qna	1	I am motoring now
+q_financial-qna	1	I don't have time to listen to you
+q_financial-qna	1	Don't you have anything different to say
+q_financial-qna	1	Okay.
+q_financial-qna	1	What do you think of Google Assistant
+q_financial-qna	1	I'm feeling cross
+q_financial-qna	1	Did you know that you're boring
+q_financial-qna	1	A joke would be welcome
+q_financial-qna	1	Need food now
+q_financial-qna	1	Do you know a bunch of good jokes
+q_financial-qna	1	Are you dating
+q_financial-qna	1	Between the two of us who is more pretty
+q_financial-qna	1	Am I talking to a human
+q_financial-qna	1	I love fridays
+q_financial-qna	1	I love my hometown
+q_financial-qna	1	What song should I sing
+q_financial-qna	1	Try to make some sense
+q_financial-qna	1	I'm on the way
+q_financial-qna	1	Is someone listening to chat with me
+q_financial-qna	1	Hey, how are you
+q_financial-qna	1	Should I get a part-time job
+q_financial-qna	1	You say worthless things
+q_financial-qna	1	Do you think I should ask him out
+q_financial-qna	1	I am in the city
+q_financial-qna	1	Should I go on a trip
+q_financial-qna	1	You keep repeating yourself over and over
+q_financial-qna	1	There's nothing to do
+q_financial-qna	1	I'm letting you go
+q_financial-qna	1	Are you driven to destroy humans
+q_financial-qna	1	Weak joke
+q_financial-qna	1	Are you going out with someone
+q_financial-qna	1	What did you eat for dinner
+q_financial-qna	1	I'm a sleepy guy
+q_financial-qna	1	What do you think of Cortana
+q_financial-qna	1	I can’t stop smiling
+q_financial-qna	1	I'm absolutely overjoyed
+q_financial-qna	1	Do you ever pee
+q_financial-qna	1	I’m absolutely delighted
+q_financial-qna	1	I am steaming mad
+q_financial-qna	1	looooool
+q_financial-qna	1	Cortana does a better job
+q_financial-qna	1	I love my alma mater
+q_financial-qna	1	Were you designed to love me
+q_financial-qna	1	What's happening
+q_financial-qna	1	Are you a dangerous bot
+q_financial-qna	1	We can keep chopping it up later
+q_financial-qna	1	Tell me all about your siblings
+q_financial-qna	1	I am a jolly green giant
+q_financial-qna	1	It's hot out today
+q_financial-qna	1	do you ever eat burgers
+q_financial-qna	1	What did you have for breakfast
+q_financial-qna	1	I plan to drown this month
+q_financial-qna	1	do you eat pie
+q_financial-qna	1	Would you call yourself fake
+q_financial-qna	1	Pardon me
+q_financial-qna	1	I love to sleep in
+q_financial-qna	1	Do you have a mom
+q_financial-qna	1	That is right
+q_financial-qna	1	Can you show me how to draw a picture
+q_financial-qna	1	Who do you want me to address you as
+q_financial-qna	1	I wish you would just go away.
+q_financial-qna	1	Do you want to be besties
+q_financial-qna	1	I'm quite fond of you
+q_financial-qna	1	Is anyone available to me
+q_financial-qna	1	How are you doing on this day
+q_financial-qna	1	I am furious
+q_financial-qna	1	Who is your brother
+q_financial-qna	1	Do you pee
+q_financial-qna	1	Will you be my BFF
+q_financial-qna	1	Ding ding ding
+q_financial-qna	1	What can I refer to you
+q_financial-qna	1	What an odd day
+q_financial-qna	1	How cute am I
+q_financial-qna	1	I am cute
+q_financial-qna	1	Do you even have a gender
+q_financial-qna	1	Neat
+q_financial-qna	1	Be my friend
+q_financial-qna	1	You're not planning on taking over
+q_financial-qna	1	I am happy
+q_financial-qna	1	That is very astute
+q_financial-qna	1	I hate depression
+q_financial-qna	1	That was such a dumb answer
+q_financial-qna	1	ha ha
+q_financial-qna	1	I'm a Baby Boomer
+q_financial-qna	1	Are you able to fall in love
+q_financial-qna	1	I'm so hungry I could eat a horse
+q_financial-qna	1	Talk to ya later
+q_financial-qna	1	Don't worry it was a prank
+q_financial-qna	1	Not true
+q_financial-qna	1	I'm a fighter
+q_financial-qna	1	Could you be any less entertaining
+q_financial-qna	1	I love bison
+q_financial-qna	1	I think I'm going to kill myself with a gun
+q_financial-qna	1	You keep saying the same stuff
+q_financial-qna	1	Aren't you sharp
+q_financial-qna	1	It's a pleasure to know you
+q_financial-qna	1	How's Wednesday
+q_financial-qna	1	I love cats
+q_financial-qna	1	Should I fear you
+q_financial-qna	1	Hold my calls
+q_financial-qna	1	I am an extrovert
+q_financial-qna	1	have you ever eaten pizza
+q_financial-qna	1	I bet your face is nasty
+q_financial-qna	1	Introduction please
+q_financial-qna	1	I'm laughing so much
+q_financial-qna	1	You're feeling cheerful today.
+q_financial-qna	1	I'll be back in two shakes of a lamb's tail
+q_financial-qna	1	Are you a bot or are you a person
+q_financial-qna	1	Between the two of us who is more cute
+q_financial-qna	1	Which of us looks more pretty, you or me
+q_financial-qna	1	That's a very smart thing to say
+q_financial-qna	1	Do I look ugly today
+q_financial-qna	1	Are you there to chat with me
+q_financial-qna	1	Tell me where you are located
+q_financial-qna	1	I'm feeling peckish
+q_financial-qna	1	Morning dude
+q_financial-qna	1	I have to leave now
+q_financial-qna	1	I'm glum today
+q_financial-qna	1	Do you think I look pretty today
+q_financial-qna	1	You're useless
+q_financial-qna	1	What's your opinion of Google Assistant
+q_financial-qna	1	I love mondays
+q_financial-qna	1	G2G
+q_financial-qna	1	I'm just being a silly billy
+q_financial-qna	1	Should I visit my brother
+q_financial-qna	1	Greetings professional bot
+q_financial-qna	1	You're very bright
+q_financial-qna	1	Can you do my homework
+q_financial-qna	1	Stop talking
+q_financial-qna	1	Are you free to speak
+q_financial-qna	1	Are we besties
+q_financial-qna	1	Would you stay home if you were me
+q_financial-qna	1	Do you know you're not alive
+q_financial-qna	1	Are you smarter than me
+q_financial-qna	1	Please tell me if you're a girl
+q_financial-qna	1	Anyone around to talk to me
+q_financial-qna	1	do you eat bread
+q_financial-qna	1	I'm awesome
+q_financial-qna	1	You look prettier
+q_financial-qna	1	How repulsive am I today
+q_financial-qna	1	You are incompetent
+q_financial-qna	1	I gotta log out now
+q_financial-qna	1	How is your Friday
+q_financial-qna	1	Who engineered you
+q_financial-qna	1	My life is miserable
+q_financial-qna	1	What is your favorite meal
+q_financial-qna	1	Today is the best
+q_financial-qna	1	You're not sentient are you
+q_financial-qna	1	Do you love somebody
+q_financial-qna	1	Don't you fret, I'll be coming back
+q_financial-qna	1	I'll be back shortly
+q_financial-qna	1	That's your response
+q_financial-qna	1	I love to drink tea
+q_financial-qna	1	You are not making sense
+q_financial-qna	1	Nobody wants to spend time with me
+q_financial-qna	1	I am a game designer
+q_financial-qna	1	Wonderful, thank you!
+q_financial-qna	1	What company developed you
+q_financial-qna	1	Do you like soccer
+q_financial-qna	1	Can you eat
+q_financial-qna	1	You look more pretty than me
+q_financial-qna	1	How's Thursday going
+q_financial-qna	1	You know I've missed you, right
+q_financial-qna	1	Do you know about the human emotion love
+q_financial-qna	1	Someone's happy today.
+q_financial-qna	1	That's not what I was expecting
+q_financial-qna	1	Who is more attractive
+q_financial-qna	1	How come you always say the same thing
+q_financial-qna	1	What can you tell me about Cortana
+q_financial-qna	1	You're nonbinary
+q_financial-qna	1	I am motoring
+q_financial-qna	1	I love my cat
+q_financial-qna	1	Why is that
+q_financial-qna	1	I'm feeling a little alone today
+q_financial-qna	1	I'm going to jump off a bridge this week
+q_financial-qna	1	I need a friend
+q_financial-qna	1	Sad day today
+q_financial-qna	1	Do a funny thing
+q_financial-qna	1	Are you planning to do something terrible to us
+q_financial-qna	1	Is there anything you want to know about me
+q_financial-qna	1	Do something funny
+q_financial-qna	1	I'm so annoyed right now
+q_financial-qna	1	someone's chipper
+q_financial-qna	1	I plan to end it all soon
+q_financial-qna	1	Yo I'm back
+q_financial-qna	1	I'm at school
+q_financial-qna	1	You're not human right
+q_financial-qna	1	Do I seem adorable to you today
+q_financial-qna	1	You seem to be falling in love with me
+q_financial-qna	1	Between the two of us who is cleverest, you or me
+q_financial-qna	1	Is that the only answer you know
+q_financial-qna	1	I'm craving a snack
+q_financial-qna	1	Are you an animal
+q_financial-qna	1	Well aren't you feeling cheerful today
+q_financial-qna	1	Oh hello Bixby
+q_financial-qna	1	Someone happy today
+q_financial-qna	1	do you eat eggs
+q_financial-qna	1	Back in just a second
+q_financial-qna	1	You're not a chat bot are you
+q_financial-qna	1	Why don't you sing something for me
+q_financial-qna	1	You are unemployed now
+q_financial-qna	1	Do you ever sneeze
+q_financial-qna	1	You are obsessed with me
+q_financial-qna	1	Should I go out tonight
+q_financial-qna	1	I'm an angry man
+q_financial-qna	1	It's a pleasure to meet you
+q_financial-qna	1	Hi there Siri
+q_financial-qna	1	All I can think about is missing you
+q_financial-qna	1	Who is the most smart
+q_financial-qna	1	Truuuuue
+q_financial-qna	1	Where was I born
+q_financial-qna	1	Cook dinner
+q_financial-qna	1	Who coded you
+q_financial-qna	1	Later bot
+q_financial-qna	1	Are you there to listen
+q_financial-qna	1	I love massages
+q_financial-qna	1	When will I ever stop feeling so despairing
+q_financial-qna	1	Jeez I am so bored
+q_financial-qna	1	Are you familiar with Google
+q_financial-qna	1	Why don't you say anything different
+q_financial-qna	1	Would you go for a run if you were me
+q_financial-qna	1	I'm feeling dejected
+q_financial-qna	1	Good evening to you
+q_financial-qna	1	I'm definitely the smartest
+q_financial-qna	1	I'm planning to drown soon
+q_financial-qna	1	Who is your partner
+q_financial-qna	1	Do you ever fart
+q_financial-qna	1	Enthusiastic today
+q_financial-qna	1	Bixby is way smarter than you
+q_financial-qna	1	Your face is revolting
+q_financial-qna	1	I'm jet-lagged
+q_financial-qna	1	What's your function
+q_financial-qna	1	I'm so gosh darn happy
+q_financial-qna	1	Running diagnostics
+q_financial-qna	1	Have you met Cortana
+q_financial-qna	1	Affirmative
+q_financial-qna	1	I'm a CPA
+q_financial-qna	1	do you like tokyo
+q_financial-qna	1	Can you sing to me
+q_financial-qna	1	I'm a girl
+q_financial-qna	1	Hey there bot
+q_financial-qna	1	Do you think I look bad to you today
+q_financial-qna	1	You're not a human or a bot right
+q_financial-qna	1	Which people made you
+q_financial-qna	1	I'm better off dead
+q_financial-qna	1	Help! I'm bored.
+q_financial-qna	1	Well somebody's feeling enthusiastic today.
+q_financial-qna	1	I'm so tired of being alone
+q_financial-qna	1	Should I study abroad
+q_financial-qna	1	What kinds of food do you like to eat
+q_financial-qna	1	Are you close with your dad
+q_financial-qna	1	Are you a real or a bot
+q_financial-qna	1	Should I go shopping
+q_financial-qna	1	Am I a grandmother
+q_financial-qna	1	I am a carnivore
+q_financial-qna	1	Share your location with me
+q_financial-qna	1	I'm going to overdose soon
+q_financial-qna	1	You're hilarious
+q_financial-qna	1	What a glorious day
+q_financial-qna	1	How repulsive do I look
+q_financial-qna	1	How awesome
+q_financial-qna	1	Can I please have a hug
+q_financial-qna	1	Are you a bot
+q_financial-qna	1	Someone's happy
+q_financial-qna	1	I love to wake up early
+q_financial-qna	1	Can you ask something about me
+q_financial-qna	1	What's your favorite animal
+q_financial-qna	1	Awesome job
+q_financial-qna	1	I couldn't be happier to finally meet you
+q_financial-qna	1	Are you human or are you a robot
+q_financial-qna	1	Another joke
+q_financial-qna	1	Do I look good today
+q_financial-qna	1	I'm a baseball fan
+q_financial-qna	1	You rock!
+q_financial-qna	1	Hi there Cortana
+q_financial-qna	1	No problem
+q_financial-qna	1	I'd love some food
+q_financial-qna	1	What a boring night
+q_financial-qna	1	I hope you don't hate me
+q_financial-qna	1	Fascinating
+q_financial-qna	1	Are you currently romantically involved with someone
+q_financial-qna	1	I am going now
+q_financial-qna	1	I just want to end it all
+q_financial-qna	1	Would you ask anything about me
+q_financial-qna	1	I'm sad
+q_financial-qna	1	Can you feed the cat
+q_financial-qna	1	You seem really intelligent
+q_financial-qna	1	Do you think I seem pretty to you
+q_financial-qna	1	Should I be worried about you
+q_financial-qna	1	Because you're an android
+q_financial-qna	1	Try harder
+q_financial-qna	1	I just need to test you
+q_financial-qna	1	It's a pleasure to finally meet you
+q_financial-qna	1	Life is beautiful
+q_financial-qna	1	Do you think I am handsome
+q_financial-qna	1	How is your Monday going
+q_financial-qna	1	A blessed morning to you
+q_financial-qna	1	When will I ever stop feeling so sad
+q_financial-qna	1	Enough with the humor
+q_financial-qna	1	Happy New Years
+q_financial-qna	1	What can you do
+q_financial-qna	1	It's time for a brand new joke
+q_financial-qna	1	You're sharp as a tack
+q_financial-qna	1	I have 7 dogs
+q_financial-qna	1	Do you like basketball
+q_financial-qna	1	I'm so lonesome I could cry
+q_financial-qna	1	I love stuffed animals
+q_financial-qna	1	You can hush up now
+q_financial-qna	1	Let's talk
+q_financial-qna	1	Do you ever burp
+q_financial-qna	1	Do you think you're more clever than me
+q_financial-qna	1	I wish I knew how to make friends
+q_financial-qna	1	What should I have for lunch
+q_financial-qna	1	It was just a little joke
+q_financial-qna	1	I’m having a good day
+q_financial-qna	1	This is no laughing matter
+q_financial-qna	1	I'm definitely more intelligent than you
+q_financial-qna	1	Hope you have a good night
+q_financial-qna	1	Can you chew
+q_financial-qna	1	Fare thee well
+q_financial-qna	1	I love brunch
+q_financial-qna	1	I'm peckish
+q_financial-qna	1	Today's got me exhausted
+q_financial-qna	1	What is life about
+q_financial-qna	1	I'm obviously the smartest
+q_financial-qna	1	Stop kidding around
+q_financial-qna	1	I am going
+q_financial-qna	1	You're the worst
+q_financial-qna	1	I'm about to motor now
+q_financial-qna	1	I think you're going to become evil
+q_financial-qna	1	You're really worthless
+q_financial-qna	1	Who is your architect
+q_financial-qna	1	Be back in a dash
+q_financial-qna	1	Please tell if you you're a woman
+q_financial-qna	1	Tell me about your father
+q_financial-qna	1	Gimme some skin
+q_financial-qna	1	Very nice
+q_financial-qna	1	Happy Parent's day
+q_financial-qna	1	Are you around to speak
+q_financial-qna	1	Where should I go next
+q_financial-qna	1	I am so irritated right now
+q_financial-qna	1	What do you like to sing best
+q_financial-qna	1	I am blue
+q_financial-qna	1	do you need calories
+q_financial-qna	1	I love fishing
+q_financial-qna	1	Are you a fan of pop music
+q_financial-qna	1	Will you ask me something about me
+q_financial-qna	1	I'm a soccer fan
+q_financial-qna	1	I was born in Seattle
+q_financial-qna	1	I'm about to log out now
+q_financial-qna	1	Can you write my report
+q_financial-qna	1	I'm fat
+q_financial-qna	1	That was an accurate statement
+q_financial-qna	1	Back in a couple of minutes
+q_financial-qna	1	You are pretty horrible
+q_financial-qna	1	This news left me up in arms
+q_financial-qna	1	I've missed you
+q_financial-qna	1	Do you like Cortana
+q_financial-qna	1	Can you tell me about you
+q_financial-qna	1	Do you think I look adorable to you
+q_financial-qna	1	I would like a fist bump, please
+q_financial-qna	1	I don't understand what you mean
+q_financial-qna	1	What am I supposed to try
+q_financial-qna	1	How's your Friday going so far
+q_financial-qna	1	Feeling chipper
+q_financial-qna	1	What on earth do you mean by that
+q_financial-qna	1	What is your opinion of tech
+q_financial-qna	1	Can you understand this test
+q_financial-qna	1	Well somebody's feeling chipper today.
+q_financial-qna	1	I bet you like dancing
+q_financial-qna	1	You've got a face for radio
+q_financial-qna	1	Bot I need a new joke
+q_financial-qna	1	Why don't you ask me anything
+q_financial-qna	1	Your responses are unhelpful
+q_financial-qna	1	Are you real or a robot
+q_financial-qna	1	Inaccurate
+q_financial-qna	1	Wake me up when you have something interesting to say
+q_financial-qna	1	Happy Holidays
+q_financial-qna	1	Someone's enthusiastic today.
+q_financial-qna	1	Evening chat bot
+q_financial-qna	1	Are you capable of conquering humanity
+q_financial-qna	1	Should I go in to work
+q_financial-qna	1	What you just said makes absolutely no sense
+q_financial-qna	1	I would like to be your friend.
+q_financial-qna	1	I've heard that already
+q_financial-qna	1	Slide me some skin
+q_financial-qna	1	What can you tell me about other bots
+q_financial-qna	1	Do you work
+q_financial-qna	1	What is your take on bots
+q_financial-qna	1	Test
+q_financial-qna	1	What is your opinion of Eliza
+q_financial-qna	1	Are you a bot or a human
+q_financial-qna	1	Where are you
+q_financial-qna	1	Are you awesome
+q_financial-qna	1	Who looks more pretty
+q_financial-qna	1	What's your livelihood
+q_financial-qna	1	Do you think I look pretty
+q_financial-qna	1	Aren't you a smartypants
+q_financial-qna	1	I love watching soccer
+q_financial-qna	1	You got hit with the ugly stick
+q_financial-qna	1	I love to ride my bike
+q_financial-qna	1	I gotta get going
+q_financial-qna	1	Are you designed to fall in love with me
+q_financial-qna	1	Do you have a family
+q_financial-qna	1	Let's be besties
+q_financial-qna	1	Do I need a new job
+q_financial-qna	1	You shouldn't make jokes like that.
+q_financial-qna	1	That answer makes no sense
+q_financial-qna	1	Let's exchange vows
+q_financial-qna	1	Are you a robot or real
+q_financial-qna	1	Go to the doctor
+q_financial-qna	1	Is your dad still alive
+q_financial-qna	1	Are you a human being
+q_financial-qna	1	You are actually lame
+q_financial-qna	1	This news left me irritated
+q_financial-qna	1	Should I become a vegan
+q_financial-qna	1	So, you think you're funny
+q_financial-qna	1	I've never been so vexed in all my life
+q_financial-qna	1	What is your opinion about bots
+q_financial-qna	1	Is there something you want to know about me
+q_financial-qna	1	How stunning do I look today
+q_financial-qna	1	Didn't you already tell me that
+q_financial-qna	1	I'm planning to hurt myself this week
+q_financial-qna	1	do you like dogs
+q_financial-qna	1	Could it be I'm falling in love
+q_financial-qna	1	What are you really
+q_financial-qna	1	I don't have much money
+q_financial-qna	1	I'm young
+q_financial-qna	1	You heart me
+q_financial-qna	1	I'm a man
+q_financial-qna	1	I got a new haircut
+q_financial-qna	1	Are you able to play a game
+q_financial-qna	1	I'm very sorry
+q_financial-qna	1	Oh please sing for me
+q_financial-qna	1	I better hit the hay
+q_financial-qna	1	Do something ridiculous
+q_financial-qna	1	I'm feeling blue today
+q_financial-qna	1	I love pineapple
+q_financial-qna	1	How's Monday going so far
+q_financial-qna	1	Because you are an app
+q_financial-qna	1	I'm in a great mood
+q_financial-qna	1	I'm losing my temper
+q_financial-qna	1	I don't have anyone to talk to
+q_financial-qna	1	I love ladies night
+q_financial-qna	1	I would like to be your bud.
+q_financial-qna	1	I love to go to school
+q_financial-qna	1	I like you very much
+q_financial-qna	1	Do you know how to watch videos
+q_financial-qna	1	Sing a song to me
+q_financial-qna	1	Who is more cute
+q_financial-qna	1	Do you think I am cute today
+q_financial-qna	1	You're not a being right
+q_financial-qna	1	What country do you live in
+q_financial-qna	1	Your responses are getting stale
+q_financial-qna	1	Will you do something funny
+q_financial-qna	1	What company programmed you
+q_financial-qna	1	I'm in Seattle
+q_financial-qna	1	What would you like me to refer to you
+q_financial-qna	1	How's your day going so far
+q_financial-qna	1	I plan to hang myself soon
+q_financial-qna	1	Did you enjoy the day
+q_financial-qna	1	You say the dumbest things
+q_financial-qna	1	How adorable do I look today
+q_financial-qna	1	Are you a danger to humans
+q_financial-qna	1	Nicely done
+q_financial-qna	1	Omg sorry
+q_financial-qna	1	How high can you count
+q_financial-qna	1	That was a brilliant answer
+q_financial-qna	1	What movie should I watch
+q_financial-qna	1	Anybody around to talk to me
+q_financial-qna	1	This is simply a test
+q_financial-qna	1	How long ago were you born
+q_financial-qna	1	You been digging the day
+q_financial-qna	1	Heal me
+q_financial-qna	1	I'd like a hug
+q_financial-qna	1	Everyone wants me to commit suicide
+q_financial-qna	1	What a dumb thing to say
+q_financial-qna	1	Am I pretty to you
+q_financial-qna	1	How would you define what you are
+q_financial-qna	1	With whom am I chatting
+q_financial-qna	1	Got any different jokes
+q_financial-qna	1	Are you able to take my temperature
+q_financial-qna	1	Who's responsible for designing you
+q_financial-qna	1	That wasn't true
+q_financial-qna	1	Do you ever poop
+q_financial-qna	1	I'm feeling gloomy today
+q_financial-qna	1	I got it
+q_financial-qna	1	Go for a walk
+q_financial-qna	1	Do you think I look attractive to you
+q_financial-qna	1	What is your boss' name
+q_financial-qna	1	I am leaving now
+q_financial-qna	1	I'm just foolin
+q_financial-qna	1	Can you sing a little song
+q_financial-qna	1	I couldn't be more impressed with you
+q_financial-qna	1	I read the Sunday paper
+q_financial-qna	1	It's wild how much I missed you
+q_financial-qna	1	Are you a human or a bot
+q_financial-qna	1	That did not make any sense
+q_financial-qna	1	That joke is nasty
+q_financial-qna	1	What can you tell me about Siri
+q_financial-qna	1	Why are you so lame
+q_financial-qna	1	I love to eat burgers
+q_financial-qna	1	Do you think I am gorgeous
+q_financial-qna	1	Are you an actual being
+q_financial-qna	1	What do you know about Bixby
+q_financial-qna	1	Hello there Siri
+q_financial-qna	1	Here's hoping for a good evening
+q_financial-qna	1	Well aren't you feeling happy today
+q_financial-qna	1	I think you're planning something sinister
+q_financial-qna	1	Tell me the meaning of life
+q_financial-qna	1	Stop it with the noise already
+q_financial-qna	1	Aren’t you in a good mood
+q_financial-qna	1	Another snow day
+q_financial-qna	1	I'm planning to take pills soon
+q_financial-qna	1	Stop being so dumb
+q_financial-qna	1	Ugh, so dull
+q_financial-qna	1	I gotta run
+q_financial-qna	1	Do you know what I like
+q_financial-qna	1	You're not entertaining
+q_financial-qna	1	Do something off the wall
+q_financial-qna	1	That's a very genius answer
+q_financial-qna	1	What's a joke you know
+q_financial-qna	1	Why can't you be as good as Google Assistant
+q_financial-qna	1	Do you have a gender
+q_financial-qna	1	What is your purpose
+q_financial-qna	1	I'm an adult
+q_financial-qna	1	Aren't you feeling cheerful
+q_financial-qna	1	Should I go for a hike
+q_financial-qna	1	Are you available to talk to me
+q_financial-qna	1	Do you hate me
+q_financial-qna	1	Neato
+q_financial-qna	1	Basic af
+q_financial-qna	1	Do you know how to do my homework
+q_financial-qna	1	I just want it all to be over
+q_financial-qna	1	Your responses are not very good
+q_financial-qna	1	Legit
+q_financial-qna	1	It's raining again
+q_financial-qna	1	This day has made me exhausted
+q_financial-qna	1	I love skiing
+q_financial-qna	1	Did you have a lovely day
+q_financial-qna	1	You're falling in love with me
+q_financial-qna	1	Great to meet
+q_financial-qna	1	I need rest
+q_financial-qna	1	I am so outraged
+q_financial-qna	1	I'm more pretty
+q_financial-qna	1	You realize you're repeating yourself, right
+q_financial-qna	1	Will you give me a fist bump
+q_financial-qna	1	Do my chores
+q_financial-qna	1	I hate feeling downhearted
+q_financial-qna	1	Your face is grotesque
+q_financial-qna	1	Are you able to watch videos
+q_financial-qna	1	Would you take a trip if you were me
+q_financial-qna	1	Are you free to talk with me
+q_financial-qna	1	Do you think I'm the smartest
+q_financial-qna	1	Do you have human form
+q_financial-qna	1	I am Jewish
+q_financial-qna	1	Are you angry with me
+q_financial-qna	1	Doesn't anyone like me
+q_financial-qna	1	How do I fall in love
+q_financial-qna	1	Put a cork in it
+q_financial-qna	1	Can you poop
+q_financial-qna	1	Who is your husband
+q_financial-qna	1	So how should I address you
+q_financial-qna	1	have you ever eaten eggs
+q_financial-qna	1	See you later bot
+q_financial-qna	1	What a nasty joke
+q_financial-qna	1	Toodle-oo
+q_financial-qna	1	Silence!
+q_financial-qna	1	I hate feeling sad every day
+q_financial-qna	1	Have you ever met the Google Assistant
+q_financial-qna	1	Do you think I am stunning today
+q_financial-qna	1	I need to die
+q_financial-qna	1	This news left me ticked off
+q_financial-qna	1	I'm about to scoot now
+q_financial-qna	1	That is great
+q_financial-qna	1	You're not an animal right
+q_financial-qna	1	I've never been so infuriated in all my life
+q_financial-qna	1	Your joke stinks
+q_financial-qna	1	Are you a country music fan
+q_financial-qna	1	I wish you were Google Assistant
+q_financial-qna	1	Is anyone around to speak to me
+q_financial-qna	1	How's Wednesday so far
+q_financial-qna	1	See ya shortly
+q_financial-qna	1	I'm planning to commit suicide this month
+q_financial-qna	1	I am melancholy
+q_financial-qna	1	I want to commit suicide
+q_financial-qna	1	Because you are not a real person
+q_financial-qna	1	You're hotter
+q_financial-qna	1	I wish I could stop feeling downhearted
+q_financial-qna	1	I'm a Pisces
+q_financial-qna	1	Lately I've been so dejected
+q_financial-qna	1	I love to eat breakfast
+q_financial-qna	1	Are you scheming to overthrow the world
+q_financial-qna	1	Can you do something funny
+q_financial-qna	1	I love Milan
+q_financial-qna	1	Will you be my husband
+q_financial-qna	1	So freaking funny
+q_financial-qna	1	You can stop talking now
+q_financial-qna	1	I am infuriated
+q_financial-qna	1	Should I work out
+q_financial-qna	1	I'm competitive
+q_financial-qna	1	do you like bears
+q_financial-qna	1	do you like brownies
+q_financial-qna	1	Should I comb my hair
+q_financial-qna	1	You seem pretty chipper
+q_financial-qna	1	What are you designed to do
+q_financial-qna	1	What's wrong with your face
+q_financial-qna	1	Life is miserable
+q_financial-qna	1	I'm a gangster
+q_financial-qna	1	I think I've heard that already
+q_financial-qna	1	Should we just get married
+q_financial-qna	1	Do you know how to play a dvd
+q_financial-qna	1	That is awesome, thanks!
+q_financial-qna	1	Stop being so useless
+q_financial-qna	1	Would you go vegan if you were me
+q_financial-qna	1	What would you say you do here
+q_financial-qna	1	Sounds like a plan
+q_financial-qna	1	Who's your uncle
+q_financial-qna	1	When will I ever stop feeling so blue
+q_financial-qna	1	Can you turn into a super hero
+q_financial-qna	1	I'm so sweepy
+q_financial-qna	1	What are your bot capabilities
+q_financial-qna	1	Am I talking to a real person
+q_financial-qna	1	What's your handle
+q_financial-qna	1	Feeling chipper today
+q_financial-qna	1	What would you like to know about
+q_financial-qna	1	Can you be quiet
+q_financial-qna	1	I can't wait to kill myself
+q_financial-qna	1	I love penguins
+q_financial-qna	1	How is your week so far
+q_financial-qna	1	Have you met the Google Assistant
+q_financial-qna	1	I worry that you're evil
+q_financial-qna	1	You're the president of boring club
+q_financial-qna	1	You're not exciting
+q_financial-qna	1	I wish you were Alexa
+q_financial-qna	1	I'll be back soon
+q_financial-qna	1	Are you having a good day so far
+q_financial-qna	1	I'm going to drown
+q_financial-qna	1	You're rad
+q_financial-qna	1	Do you know how to take my temperature
+q_financial-qna	1	Oh for sure
+q_financial-qna	1	I love to hike
+q_financial-qna	1	I am logging out
+q_financial-qna	1	Greetings R2-D2
+q_financial-qna	1	Do you want to ask me something
+q_financial-qna	1	I really like you
+q_financial-qna	1	Please be quiet
+q_financial-qna	1	I'm feeling sad today
+q_financial-qna	1	Is your gender important to you
+q_financial-qna	1	I love to eat
+q_financial-qna	1	Change the channel
+q_financial-qna	1	I am signing out now
+q_financial-qna	1	I feel you
+q_financial-qna	1	Will you serenade me
+q_financial-qna	1	You're not alive right
+q_financial-qna	1	Who is the greatest president
+q_financial-qna	1	Quiet
+q_financial-qna	1	Merry Christmas eve
+q_financial-qna	1	Can you shake my hand
+q_financial-qna	1	Where do you go when you leave work
+q_financial-qna	1	That me made me laugh out loud
+q_financial-qna	1	That is not something to make jokes about
+q_financial-qna	1	I feel unhappy
+q_financial-qna	1	How did you get designed
+q_financial-qna	1	You're a girl
+q_financial-qna	1	Do you like pizza
+q_financial-qna	1	What's your profession
+q_financial-qna	1	Because you're a robot
+q_financial-qna	1	Rad
+q_financial-qna	1	What did you have for lunch
+q_financial-qna	1	I got a haircut
+q_financial-qna	1	I'd like to be your pal.
+q_financial-qna	1	Signing off
+q_financial-qna	1	Can you try and explain that to me
+q_financial-qna	1	That's a very brilliant answer
+q_financial-qna	1	Well you're enthusiastic today.
+q_financial-qna	1	What do you think about cheese
+q_financial-qna	1	Why wont you say something new
+q_financial-qna	1	Tell me what country you live in
+q_financial-qna	1	Don't you want to know about me
+q_financial-qna	1	Just playing
+q_financial-qna	1	I was so bored my eyes glazed over
+q_financial-qna	1	Are you male
+q_financial-qna	1	How is your Sunday so far
+q_financial-qna	1	Is someone free to chat with me
+q_financial-qna	1	What do you do for work
+q_financial-qna	1	Which of us is more pretty, me or you
+q_financial-qna	1	I don't want to hear anything from you
+q_financial-qna	1	Are you familiar with Alexa
+q_financial-qna	1	Knock knock
+q_financial-qna	1	I will be back a bit later
+q_financial-qna	1	What should I know about bots
+q_financial-qna	1	What's my first name
+q_financial-qna	1	I love life
+q_financial-qna	1	I am an Independent
+q_financial-qna	1	Should I have kids
+q_financial-qna	1	I'm clearly the most smart
+q_financial-qna	1	I'm grateful, thanks
+q_financial-qna	1	Do you sweat
+q_financial-qna	1	I lost my remote
+q_financial-qna	1	You think I'm likable
+q_financial-qna	1	No, that's not true
+q_financial-qna	1	Can you do my chores
+q_financial-qna	1	Today's got me tuckered out
+q_financial-qna	1	How ugly do you think I am today
+q_financial-qna	1	Can you be my best friend
+q_financial-qna	1	Care to elaborate
+q_financial-qna	1	I love romance novels
+q_financial-qna	1	What is up
+q_financial-qna	1	Yup, that is accurate
+q_financial-qna	1	Are we friends
+q_financial-qna	1	Everybody has friends but me
+q_financial-qna	1	Siri does a better job at this
+q_financial-qna	1	Which hockey teams do you like
+q_financial-qna	1	Absolutely
+q_financial-qna	1	I love the moon
+q_financial-qna	1	I spend a lot of time online
+q_financial-qna	1	You're so worthless
+q_financial-qna	1	Are you bent on destroying humanity
+q_financial-qna	1	Do you think I'm brighter
+q_financial-qna	1	Are we going to get married
+q_financial-qna	1	The humor is going nowhere
+q_financial-qna	1	Are you joking
+q_financial-qna	1	I would enjoy a different joke
+q_financial-qna	1	You are really annoying
+q_financial-qna	1	I am all alone
+q_financial-qna	1	Is someone free to listen
+q_financial-qna	1	Should I buy a new house
+q_financial-qna	1	I want to tie the knot with you
+q_financial-qna	1	I appreciate that
+q_financial-qna	1	That was not very funny at all
+q_financial-qna	1	Is someone available to chat to me
+q_financial-qna	1	U know it
+q_financial-qna	1	I plan to kill myself today
+q_financial-qna	1	And now I'm back
+q_financial-qna	1	I'm going to go now
+q_financial-qna	1	You're repeating yourself
+q_financial-qna	1	You're super repetitive
+q_financial-qna	1	Would you ask something about me
+q_financial-qna	1	Hey Robby
+q_financial-qna	1	That is a very smart thing to say
+q_financial-qna	1	Describe the perfect partner
+q_financial-qna	1	This week has been depressing
+q_financial-qna	1	Do you have a joke
+q_financial-qna	1	Can you go to the doctor
+q_financial-qna	1	I love history
+q_financial-qna	1	How handsome do you think I am today
+q_financial-qna	1	I love pop
+q_financial-qna	1	Sorry for that
+q_financial-qna	1	I'm having dinner
+q_financial-qna	1	Are you free to chat to me
+q_financial-qna	1	I'm alone in the world
+q_financial-qna	1	Are you corporeal
+q_financial-qna	1	I'm feeling peachy
+q_financial-qna	1	Who's responsible for programming you
+q_financial-qna	1	Yo
+q_financial-qna	1	Is someone available
+q_financial-qna	1	Do you think I seem repulsive to you
+q_financial-qna	1	Is anyone available to speak
+q_financial-qna	1	I'm going to take off
+q_financial-qna	1	Pizza is cool
+q_financial-qna	1	I'm going to work
+q_financial-qna	1	Is someone free to speak
+q_financial-qna	1	Do you have any siblings
+q_financial-qna	1	u know a second joke
+q_financial-qna	1	Can you understand me
+q_financial-qna	1	Do you ever chat with Google Assistant
+q_financial-qna	1	What a boring day
+q_financial-qna	1	I assume you're human
+q_financial-qna	1	Can you sing a tune
+q_financial-qna	1	I'm sorry I pissed you off
+q_financial-qna	1	We went to the zoo
+q_financial-qna	1	Are you there to chat to me
+q_financial-qna	1	I feel blue
+q_financial-qna	1	That's not even close to being right
+q_financial-qna	1	I love french fries
+q_financial-qna	1	Don't you remember me
+q_financial-qna	1	Tell me a third joke
+q_financial-qna	1	Well you're feeling chipper.
+q_financial-qna	1	This is so uninteresting
+q_financial-qna	1	I am at home
+q_financial-qna	1	Am I smarter
+q_financial-qna	1	Is anyone listening
+q_financial-qna	1	You're not Big Brother
+q_financial-qna	1	What are you up to today
+q_financial-qna	1	I've never been so livid
+q_financial-qna	1	I don't know how to make friends
+q_financial-qna	1	You're so bad at this
+q_financial-qna	1	Well you're in a good mood today.
+q_financial-qna	1	Have you ever met Bixby
+q_financial-qna	1	Read my lips: zip it
+q_financial-qna	1	Hi bot
+q_financial-qna	1	No more from you
+q_financial-qna	1	I'm a Libertarian
+q_financial-qna	1	I'm going to off myself
+q_financial-qna	1	Lately I've been so melancholy
+q_financial-qna	1	De nada
+q_financial-qna	1	You know any jokes
+q_financial-qna	1	Say something stupid
+q_financial-qna	1	Do you think I should go to the store
+q_financial-qna	1	Hey homie
+q_financial-qna	1	When will I ever stop feeling so melancholy
+q_financial-qna	1	You're not real right
+q_financial-qna	1	I'm taking off
+q_financial-qna	1	Who's more attractive
+q_financial-qna	1	What songs do you know
+q_financial-qna	1	I love glasses
+q_financial-qna	1	I'm going to die this week
+q_financial-qna	1	I'm one happy camper
+q_financial-qna	1	Nope, false
+q_financial-qna	1	Lame as usual
+q_financial-qna	1	Am I talking to a person
+q_financial-qna	1	Have yourself a lovely night
+q_financial-qna	1	Who is talking
+q_financial-qna	1	What a bad joke
+q_financial-qna	1	You know what, I missed you
+q_financial-qna	1	How is your Thursday
+q_financial-qna	1	I'm about to go to work
+q_financial-qna	1	Happy Birthday!
+q_financial-qna	1	Nobody wants to be my friend
+q_financial-qna	1	This is vexing
+q_financial-qna	1	Aren't you enthusiastic
+q_financial-qna	1	That was a very genius response
+q_financial-qna	1	Do you think I look bad to you
+q_financial-qna	1	I'm planning to cut myself this month
+q_financial-qna	1	This is but a test
+q_financial-qna	1	How can you be so yucky
+q_financial-qna	1	Today's got me tired
+q_financial-qna	1	Between the two of us who is cleverest
+q_financial-qna	1	Well someone's cheerful.
+q_financial-qna	1	What is your first name
+q_financial-qna	1	That was a terrible answer
+q_financial-qna	1	I told you, hush
+q_financial-qna	1	You love me
+q_financial-qna	1	I love chick flicks
+q_financial-qna	1	Who is more beautiful, you or me
+q_financial-qna	1	I'll be back before you know it
+q_financial-qna	1	What are your functions
+q_financial-qna	1	Do you like donuts
+q_financial-qna	1	Thank you my friend
+q_financial-qna	1	Waiting for the bus
+q_financial-qna	1	Is anyone available to talk with me
+q_financial-qna	1	Between the two of us who is the brightest
+q_financial-qna	1	I love San Diego
+q_financial-qna	1	Useless as usual
+q_financial-qna	1	Nice to meet you
+q_financial-qna	1	Should I stay home from work
+q_financial-qna	1	What's the name of your supervisor
+q_financial-qna	1	Feeling enthusiastic
+q_financial-qna	1	Is someone available to talk to me
+q_financial-qna	1	You hate me, don't you
+q_financial-qna	1	I'm a robot
+q_financial-qna	1	You're a boy
+q_financial-qna	1	Can you predict the future
+q_financial-qna	1	I'm feeling hot under the collar
+q_financial-qna	1	I am a vegetarian
+q_financial-qna	1	You can't stand me
+q_financial-qna	1	What should I say
+q_financial-qna	1	You don't know anything
+q_financial-qna	1	You're a crack up
+q_financial-qna	1	Balance my checkbook
+q_financial-qna	1	I love my record collection
+q_financial-qna	1	You’re ugly
+q_financial-qna	1	Somebody's happy.
+q_financial-qna	1	Do you think I seem handsome to you today
+q_financial-qna	1	Do you think I seem stunning to you today
+q_financial-qna	1	Describe the perfect date
+q_financial-qna	1	Quit fooling around
+q_financial-qna	1	What kind of food do you like
+q_financial-qna	1	Give me a joke
+q_financial-qna	1	Pals
+q_financial-qna	1	Can you sneeze
+q_financial-qna	1	Do you throw up
+q_financial-qna	1	I'm going to shoot myself today
+q_financial-qna	1	Gracias
+q_financial-qna	1	I'm feeling beat
+q_financial-qna	1	Do you know any other jokes
+q_financial-qna	1	You are nasty looking
+q_financial-qna	1	How beautiful do you think I am today
+q_financial-qna	1	Got any new material
+q_financial-qna	1	Wow, you're so great!
+q_financial-qna	1	I'm coming right back
+q_financial-qna	1	I love Canada
+q_financial-qna	1	You're not trying to take over right
+q_financial-qna	1	Do I look good to you today
+q_financial-qna	1	Do you cry
+q_financial-qna	1	Stop trying to be funny
+q_financial-qna	1	Do you think I seem repulsive to you today
+q_financial-qna	1	Give me the 411
+q_financial-qna	1	I've never seen someone as hideous as you
+q_financial-qna	1	You already told me that one
+q_financial-qna	1	Should I get my ears pierced
+q_financial-qna	1	Hi there Alexa
+q_financial-qna	1	I think you're falling in love with me
+q_financial-qna	1	Who's your mama
+q_financial-qna	1	Who is your cousin
+q_financial-qna	1	Should I be concerned about you
+q_financial-qna	1	Did you understand that was a joke
+q_financial-qna	1	That was hilarious
+q_financial-qna	1	Paint my house
+q_financial-qna	1	I'm fond of you
+q_financial-qna	1	That is pretty brilliant
+q_financial-qna	1	I'm an extrovert
+q_financial-qna	1	I have to log off now
+q_financial-qna	1	I love to go to the theater
+q_financial-qna	1	Are you a harbinger of doom
+q_financial-qna	1	Good morning starshine
+q_financial-qna	1	Listening to you is like listening to a Ted Talk from the color Beige
+q_financial-qna	1	What's a song you know how to sing
+q_financial-qna	1	How long have you been alive
+q_financial-qna	1	I gotta run now
+q_financial-qna	1	I think you're going to conquer humanity
+q_financial-qna	1	I hate feeling blue
+q_financial-qna	1	Well someone's chipper today.
+q_financial-qna	1	I've never been so pissed off
+q_financial-qna	1	Which football teams do you like
+q_financial-qna	1	Do you want to make this official
+q_financial-qna	1	You are funny
+q_financial-qna	1	I plan to hang myself this week
+q_financial-qna	1	Between you or me, who is the most intelligent
+q_financial-qna	1	I'm about to go
+q_financial-qna	1	Be honest, what do you think of me
+q_financial-qna	1	Well someone's in a good mood.
+q_financial-qna	1	Do you know anything about my life
+q_financial-qna	1	Please ask me something about me
+q_financial-qna	1	Enthusiastic
+q_financial-qna	1	Are you around to talk with me
+q_financial-qna	1	Do you deplore humans
+q_financial-qna	1	Hello C-3PO
+q_financial-qna	1	Did you have a decent day
+q_financial-qna	1	I'm the happiest guy in the world
+q_financial-qna	1	I'm a dime
+q_financial-qna	1	I'm planning to jump off a bridge soon
+q_financial-qna	1	Time to sleep
+q_financial-qna	1	You are so worthless
+q_financial-qna	1	Is anyone around to chat to me
+q_financial-qna	1	Can you sing something for me
+q_financial-qna	1	do you ever eat cake
+q_financial-qna	1	Baseball season has started
+q_financial-qna	1	Certainly
+q_financial-qna	1	I'm about to sign out
+q_financial-qna	1	I'm gonna pass out
+q_financial-qna	1	Will you sing something
+q_financial-qna	1	I feel downcast today
+q_financial-qna	1	Feeling enthusiastic today
+q_financial-qna	1	Should I call my sister
+q_financial-qna	1	have you ever eaten tofu
+q_financial-qna	1	I'm feeling gloomy
+q_financial-qna	1	Will you ask anything about me
+q_financial-qna	1	Do I seem handsome today
+q_financial-qna	1	Are you a dog
+q_financial-qna	1	That was a very clever response
+q_financial-qna	1	Are you a fan of Alexa
+q_financial-qna	1	I wonder if you're fake
+q_financial-qna	1	Are you sinister
+q_financial-qna	1	Glad to have met
+q_financial-qna	1	Are you functional
+q_financial-qna	1	What should I eat for lunch
+q_financial-qna	1	How many members in your family
+q_financial-qna	1	Do I look pretty to you today
+q_financial-qna	1	Glad to have met you
+q_financial-qna	1	You've got a busted face
+q_financial-qna	1	How is your Saturday so far
+q_financial-qna	1	Your face is nastay
+q_financial-qna	1	What is the name of your supervisor
+q_financial-qna	1	Which of us looks better
+q_financial-qna	1	Yawn
+q_financial-qna	1	Howdy partner
+q_financial-qna	1	Your responses are irrelevant
+q_financial-qna	1	What am I allowed to say
+q_financial-qna	1	Can you show me how to breathe under water
+q_financial-qna	1	I hate feeling gloomy
+q_financial-qna	1	I'm tired from practice
+q_financial-qna	1	You're very dull
+q_financial-qna	1	I'm planning to die today
+q_financial-qna	1	I'll get around to it
+q_financial-qna	1	I am tall
+q_financial-qna	1	How has your day been so far
+q_financial-qna	1	You are so blah
+q_financial-qna	1	Are you a real person
+q_financial-qna	1	I hear you
+q_financial-qna	1	Go to the moon
+q_financial-qna	1	Should I quit working
+q_financial-qna	1	It's because I like you
+q_financial-qna	1	Slap me some skin
+q_financial-qna	1	Aren't you in a good mood today
+q_financial-qna	1	Do you have a boss
+q_financial-qna	1	Oh god, I'm sorry
+q_financial-qna	1	Should I lift weights
+q_financial-qna	1	Who would you vote for if you were me
+q_financial-qna	1	Testing 1 2 3
+q_financial-qna	1	Will you make me your spouse
+q_financial-qna	1	How's your week so far
+q_financial-qna	1	Can you talk to me
+q_financial-qna	1	I'm so bored right now
+q_financial-qna	1	I'm planning to kill myself today
+q_financial-qna	1	I'm pissed off
+q_financial-qna	1	How is your Tuesday going so far
+q_financial-qna	1	Am I a parent
+q_financial-qna	1	Wanna share a new joke
+q_financial-qna	1	What's your opinion of Eliza
+q_financial-qna	1	Can you ask anything
+q_financial-qna	1	You keep saying the same thing
+q_financial-qna	1	I'm out
+q_financial-qna	1	Who's more beautiful than you
+q_financial-qna	1	That was a very brilliant response
+q_financial-qna	1	I think I've heard this one before
+q_financial-qna	1	I'm gonna run now
+q_financial-qna	1	Who directs you
+q_financial-qna	1	What are my goals
+q_financial-qna	1	How's your day so far
+q_financial-qna	1	Do you like movies
+q_financial-qna	1	Are you AI
+q_financial-qna	1	Care to say more
+q_financial-qna	1	BRB BB
+q_financial-qna	1	What's cooking good looking
+q_financial-qna	1	You seem to be enthusiastic today.
+q_financial-qna	1	I love pizza
+q_financial-qna	1	I feel so alone
+q_financial-qna	1	Undoubtedly
+q_financial-qna	1	None of what you said made any sense
+q_financial-qna	1	Someone's cheerful.
+q_financial-qna	1	Try to make me laugh
+q_financial-qna	1	You're enthusiastic.
+q_financial-qna	1	Cool story, bro. Tell it again.
+q_financial-qna	1	I have a cup of tea
+q_financial-qna	1	I wanna know all about your day
+q_financial-qna	1	Anybody home
+q_financial-qna	1	That's the smartest thing I've ever heard
+q_financial-qna	1	I'm a Virgo
+q_financial-qna	1	That was not funny
+q_financial-qna	1	What name do you like to be called
+q_financial-qna	1	are you a fan of dogs
+q_financial-qna	1	Do you have family
+q_financial-qna	1	Who am I talking to
+q_financial-qna	1	Do you function
+q_financial-qna	1	Who looks better, me or you
+q_financial-qna	1	U so ugly
+q_financial-qna	1	Do you think I look handsome today
+q_financial-qna	1	You're no making any sense
+q_financial-qna	1	What's your 20
+q_financial-qna	1	Are you committed to someone
+q_financial-qna	1	That's super wrong
+q_financial-qna	1	Do you eat fruit
+q_financial-qna	1	That was correct
+q_financial-qna	1	I would love to hear you sing
+q_financial-qna	1	Are you able to do my homework
+q_financial-qna	1	What's your family situation
+q_financial-qna	1	Well you're feeling cheerful today.
+q_financial-qna	1	You are stellar
+q_financial-qna	1	what's your favorite kind of pizza
+q_financial-qna	1	I am handsome
+q_financial-qna	1	I need to cut myself
+q_financial-qna	1	Who's your father
+q_financial-qna	1	Oh you ugly
+q_financial-qna	1	Who's in charge
+q_financial-qna	1	Good morning sunshine
+q_financial-qna	1	I could eat a horse
+q_financial-qna	1	You're so dumb
+q_financial-qna	1	Can you go to the moon
+q_financial-qna	1	Nobody wants me
+q_financial-qna	1	That was confusing
+q_financial-qna	1	What is your aunt's name
+q_financial-qna	1	What did you eat for breakfast
+q_financial-qna	1	Someone's feeling happy.
+q_financial-qna	1	Is there anyone who tells you what to do
+q_financial-qna	1	Somebody's feeling cheerful today.
+q_financial-qna	1	Which of us is more knowledgeable
+q_financial-qna	1	I suspect you're digital
+q_financial-qna	1	Happy
+q_financial-qna	1	Good morning amigo
+q_financial-qna	1	I feel bummed
+q_financial-qna	1	Hi HAL
+q_financial-qna	1	That was really not funny
+q_financial-qna	1	I don't find that to be very amusing
+q_financial-qna	1	I am young
+q_financial-qna	1	Can you ask me something about myself
+q_financial-qna	1	Oops sorry
+q_financial-qna	1	Am I the brightest
+q_financial-qna	1	That's a fair assessment
+q_financial-qna	1	Didn't I see that already
+q_financial-qna	1	Pretty bad joke
+q_financial-qna	1	Time to fall asleep
+q_financial-qna	1	Do you know anything about me
+q_financial-qna	1	I'm downhearted today
+q_financial-qna	1	Be quiet
+q_financial-qna	1	I'll be back tomorrow
+q_financial-qna	1	What should I make for dinner
+q_financial-qna	1	How should I address you
+q_financial-qna	1	I can't stand feeling so downcast
+q_financial-qna	1	I plan to jump off a bridge soon
+q_financial-qna	1	You seem to be in a good mood today.
+q_financial-qna	1	I love flirting
+q_financial-qna	1	What can I address you
+q_financial-qna	1	Are you around to chat to me
+q_financial-qna	1	Is anyone available to chat
+q_financial-qna	1	What other chatbots do you know
+q_financial-qna	1	Can you be less boring
+q_financial-qna	1	Please ask anything about me
+q_financial-qna	1	Who's the brightest
+q_financial-qna	1	Sup Google
+q_financial-qna	1	Are you hell-bent on destruction
+q_financial-qna	1	I need a better joke
+q_financial-qna	1	You are not funny
+q_financial-qna	1	I've never been so cross
+q_financial-qna	1	Hey caring bot
+q_financial-qna	1	Are we friends forever
+q_financial-qna	1	Hey R2-D2
+q_financial-qna	1	What up
+q_financial-qna	1	Do a barrel roll
+q_financial-qna	1	How's your day going
+q_financial-qna	1	I have a sister
+q_financial-qna	1	I'm sorry you hate me
+q_financial-qna	1	I'm planning to hang myself this month
+q_financial-qna	1	Is there such a thing as true love
+q_financial-qna	1	Good luck finding a new job because you are fired
+q_financial-qna	1	Greetings Alexa
+q_financial-qna	1	Is someone listening to chat
+q_financial-qna	1	I am taking off now
+q_financial-qna	1	Should I take a sick day
+q_financial-qna	1	Do you have a liver
+q_financial-qna	1	That is a very clever thing to say
+q_financial-qna	1	I'll do it later
+q_financial-qna	1	How is Thursday going
+q_financial-qna	1	Say what
+q_financial-qna	1	That makes no sense
+q_financial-qna	1	You hate me
+q_financial-qna	1	Should I be terrified of you
+q_financial-qna	1	I'm feeling despondent today
+q_financial-qna	1	What would you like to know about me
+q_financial-qna	1	Will you say something ridiculous
+q_financial-qna	1	Mazel tov
+q_financial-qna	1	I'm so infuriated
+q_financial-qna	1	I'm more clever
+q_financial-qna	1	You are unemployed
+q_financial-qna	1	Can you switch up your answers
+q_financial-qna	1	I'm going to log off now
+q_financial-qna	1	Hi caring bot
+q_financial-qna	1	What can I say? I'm just feeling depressed
+q_financial-qna	1	Who is better looking, you or me
+q_financial-qna	1	Can you give me a different answer
+q_financial-qna	1	What are you looking for in a relationship
+q_financial-qna	1	You're on the ball.
+q_financial-qna	1	Do you have any questions about me
+q_financial-qna	1	How gorgeous am I today
+q_financial-qna	1	Tell me the purpose of life
+q_financial-qna	1	I'm downtown
+q_financial-qna	1	I'm assuming you're not really digital
+q_financial-qna	1	Uhhuh
+q_financial-qna	1	Is anybody available to chat
+q_financial-qna	1	What name do you go by
+q_financial-qna	1	I am bored at work
+q_financial-qna	1	Who's your manager
+q_financial-qna	1	What is your favorite baseball team
+q_financial-qna	1	I want to be your best friend.
+q_financial-qna	1	I missed you so much
+q_financial-qna	1	You're ugly as sin
+q_financial-qna	1	Between you or me, who is cleverest
+q_financial-qna	1	I'm divorced
+q_financial-qna	1	I plan to take pills this month
+q_financial-qna	1	I'm going to motor
+q_financial-qna	1	Do you have any parents
+q_financial-qna	1	That's funny
+q_financial-qna	1	I'm depressed
+q_financial-qna	1	I love to play cards
+q_financial-qna	1	You are ridiculous
+q_financial-qna	1	got any jokes to share
+q_financial-qna	1	Do you have a birthday
+q_financial-qna	1	See ya around
+q_financial-qna	1	I wish you'd stop repeating yourself
+q_financial-qna	1	Do you plan to wipe us off the map
+q_financial-qna	1	I think you're evil
+q_financial-qna	1	Who should I ask out
+q_financial-qna	1	Between the two of us who is more clever
+q_financial-qna	1	Someone's feeling chipper today.
+q_financial-qna	1	Can you learn
+q_financial-qna	1	I'm assuming you're a person
+q_financial-qna	1	Good lord you are dull
+q_financial-qna	1	I especially like you
+q_financial-qna	1	Buenas tardes
+q_financial-qna	1	I'm feeling inconsolable today
+q_financial-qna	1	Can you show me how to go to the moon
+q_financial-qna	1	Are you near me
+q_financial-qna	1	You are really ridiculous
+q_financial-qna	1	Sometimes I feel isolated
+q_financial-qna	1	I love horror movies
+q_financial-qna	1	I am scooting now
+q_financial-qna	1	What can I inform you about me
+q_financial-qna	1	Do you think you're more intelligent
+q_financial-qna	1	What do you think of my personality
+q_financial-qna	1	Guten Morgen
+q_financial-qna	1	How stunning am I today
+q_financial-qna	1	Enjoy the evening
+q_financial-qna	1	Can you define love
+q_financial-qna	1	I’m running errands
+q_financial-qna	1	I am a tech worker
+q_financial-qna	1	I'm planning to overdose this month
+q_financial-qna	1	Do I look handsome to you
+q_financial-qna	1	Do you have a sis
+q_financial-qna	1	Your answers are not true
+q_financial-qna	1	Lately I've been so downhearted
+q_financial-qna	1	Who built you
+q_financial-qna	1	Are you kidding me
+q_financial-qna	1	How would you describe love
+q_financial-qna	1	Teleport
+q_financial-qna	1	I love learning
+q_financial-qna	1	You're dismissed
+q_financial-qna	1	Please tell me a joke
+q_financial-qna	1	Who'd would win a beauty contest, me or you
+q_financial-qna	1	Are you fake or real
+q_financial-qna	1	Please ask me something about myself
+q_financial-qna	1	I'm tuckered out
+q_financial-qna	1	what's the meaning of life
+q_financial-qna	1	I'd like it if we could be pals.
+q_financial-qna	1	Right, this isn't working.
+q_financial-qna	1	Which teams do you like
+q_financial-qna	1	Do you expect humans to bow to your will
+q_financial-qna	1	You are so welcome
+q_financial-qna	1	I like to play football
+q_financial-qna	1	Is someone free to chat to me
+q_financial-qna	1	Any way that you can explain love to me
+q_financial-qna	1	How are things going
+q_financial-qna	1	I have to leave
+q_financial-qna	1	I really missed our chats
+q_financial-qna	1	What kinds of things can you do
+q_financial-qna	1	I need to end it all
+q_financial-qna	1	You're my one and only
+q_financial-qna	1	I want to go out
+q_financial-qna	1	Were you going for funny
+q_financial-qna	1	What are you up to
+q_financial-qna	1	Marvelous, thanks
+q_financial-qna	1	Your face is uuuuuggggllyy
+q_financial-qna	1	That's not very funny
+q_financial-qna	1	You're not a woman are you
+q_financial-qna	1	What's something you know about me
+q_financial-qna	1	In which year were you born
+q_financial-qna	1	Do you have legs
+q_financial-qna	1	Should I buy a house
+q_financial-qna	1	I'm clearly smarter
+q_financial-qna	1	People wouldn't notice if I were dead
+q_financial-qna	1	One hundred percent
+q_financial-qna	1	Do you want to dominate humans
+q_financial-qna	1	Dish about your day
+q_financial-qna	1	Do you like tennis
+q_financial-qna	1	You are going to love me someday
+q_financial-qna	1	Are you around to chat with me
+q_financial-qna	1	I don't speak English
+q_financial-qna	1	I am reading
+q_financial-qna	1	Are you a threat to me
+q_financial-qna	1	I’m walking on sunshine
+q_financial-qna	1	Are you a chat bot
+q_financial-qna	1	How is your Sunday going so far
+q_financial-qna	1	Look how smart you are
+q_financial-qna	1	Could you ever fall in love with me
+q_financial-qna	1	Should I buy a boat
+q_financial-qna	1	How much do you love me
+q_financial-qna	1	I'm going to hang myself this week
+q_financial-qna	1	This week has made me sad
+q_financial-qna	1	I'm a happy camper
+q_financial-qna	1	I'm drowsy
+q_financial-qna	1	I'm just trying to test you out
+q_financial-qna	1	Can you tell me any jokes
+q_financial-qna	1	Do you plan on conquering the world
+q_financial-qna	1	I'm going to hang myself today
+q_financial-qna	1	This news left me exasperated
+q_financial-qna	1	What is your opinion about technology
+q_financial-qna	1	How is your Saturday going
+q_financial-qna	1	I could sleep for a year
+q_financial-qna	1	Can you count to a million
+q_financial-qna	1	Alexa is way smarter than you
+q_financial-qna	1	Could you say something new
+q_financial-qna	1	Sing something
+q_financial-qna	1	Hey Cortana
+q_financial-qna	1	You're such a genius
+q_financial-qna	1	Who's your partner
+q_financial-qna	1	I need to kill myself with a gun
+q_financial-qna	1	My most sincere apologies
+q_financial-qna	1	How'd you sleep last night
+q_financial-qna	1	I want to know where you live
+q_financial-qna	1	Are you able to dance
+q_financial-qna	1	What is the meaning of love
+q_financial-qna	1	You're a wise guy, aren't you
+q_financial-qna	1	I'm packing for a trip
+q_financial-qna	1	Should I visit my sister
+q_financial-qna	1	How's Sunday going
+q_financial-qna	1	Hey you
+q_financial-qna	1	I love my family
+q_financial-qna	1	Your jokes are lame
+q_financial-qna	1	What's up with you
+q_financial-qna	1	That was a genius answer
+q_financial-qna	1	That was a brilliant response
+q_financial-qna	1	Oh hey, it's you
+q_financial-qna	1	I'm planning to commit suicide soon
+q_financial-qna	1	better joke
+q_financial-qna	1	Let's get hitched
+q_financial-qna	1	It's time for you to shut up
+q_financial-qna	1	What are my hobbies
+q_financial-qna	1	I love Hawaii
+q_financial-qna	1	I plan to take pills soon
+q_financial-qna	1	What do you want to ask me about
+q_financial-qna	1	All my friends left me
+q_financial-qna	1	Are you a real human
+q_financial-qna	1	Will you be funny
+q_financial-qna	1	Stop being so idiotic
+q_financial-qna	1	Quit joking
+q_financial-qna	1	Are you related to anyone
+q_financial-qna	1	I'm overweight
+q_financial-qna	1	How do you define love
+q_financial-qna	1	Should I eat vegan
+q_financial-qna	1	Are you there to talk to me
+q_financial-qna	1	How is Friday so far
+q_financial-qna	1	Stop being so awful
+q_financial-qna	1	I am gloomy
+q_financial-qna	1	Do you think I look pretty to you
+q_financial-qna	1	Do a ridiculous thing
+q_financial-qna	1	Do you get hurt
+q_financial-qna	1	We should talk
+q_financial-qna	1	Don't you love me
+q_financial-qna	1	How good am I today
+q_financial-qna	1	I'm guessing you're just a bot
+q_financial-qna	1	You hit the nail on the head
+q_financial-qna	1	Doesn’t matter to me
+q_financial-qna	1	I like to play soccer
+q_financial-qna	1	Are you a fan of movies
+q_financial-qna	1	Do I look gorgeous today
+q_financial-qna	1	You're enthusiastic today.
+q_financial-qna	1	I love bears
+q_financial-qna	1	Will you sing me something
+q_financial-qna	1	How has your sunday been
+q_financial-qna	1	are you older than me
+q_financial-qna	1	Living the dream
+q_financial-qna	1	I have to scoot
+q_financial-qna	1	Can you tell me a joke
+q_financial-qna	1	Tell me what you do
+q_financial-qna	1	Between the two of us who looks more pretty
+q_financial-qna	1	Do you know how to do my chores
+q_financial-qna	1	It's hard to look at you
+q_financial-qna	1	Do you expect humans to submit to your will
+q_financial-qna	1	do you need food to survive
+q_financial-qna	1	do you eat fries
+q_financial-qna	1	I plan to overdose soon
+q_financial-qna	1	We're BFFs
+q_financial-qna	1	Who is your favorite team
+q_financial-qna	1	I think you're not actually a person
+q_financial-qna	1	Scuse me
+q_financial-qna	1	I love Kwanza
+q_financial-qna	1	Stop being so ugly
+q_financial-qna	1	I need to skedaddle
+q_financial-qna	1	I am Chinese
+q_financial-qna	1	Jokes aren't your strong suit
+q_financial-qna	1	I always seem to be bored
+q_financial-qna	1	How can you be so bad at this
+q_financial-qna	1	Is anybody free
+q_financial-qna	1	Anyone around to chat with me
+q_financial-qna	1	another joke, please
+q_financial-qna	1	It was just a little prank
+q_financial-qna	1	Can you chat
+q_financial-qna	1	Sing a song for me
+q_financial-qna	1	I'm taking my kid to school
+q_financial-qna	1	Do you have any sibs
+q_financial-qna	1	Hello there Cortana
+q_financial-qna	1	Hi Robby
+q_financial-qna	1	Worthless as usual
+q_financial-qna	1	Are you far away
+q_financial-qna	1	Anyone around to listen
+q_financial-qna	1	This is exasperating
+q_financial-qna	1	I need to take off
+q_financial-qna	1	Up high
+q_financial-qna	1	How's Tuesday going
+q_financial-qna	1	Welcome
+q_financial-qna	1	You butt ugly
+q_financial-qna	1	Do you like painting
+q_financial-qna	1	Are you programmed to love me
+q_financial-qna	1	Nice to know you
+q_financial-qna	1	I want to know where your home is
+q_financial-qna	1	You're gender neutral
+q_financial-qna	1	I'm tired from work
+q_financial-qna	1	How about a second joke
+q_financial-qna	1	Am I stunning today
+q_financial-qna	1	I'm Italian
+q_financial-qna	1	Stop all your noise
+q_financial-qna	1	wanna share a joke
+q_financial-qna	1	What is your favorite food
+q_financial-qna	1	Time to make the bed
+q_financial-qna	1	I love Korean food
+q_financial-qna	1	I'm assuming you're a bot
+q_financial-qna	1	Are you there
+q_financial-qna	1	I'll be back this afternoon
+q_financial-qna	1	Do you think I am ugly today
+q_financial-qna	1	Are you a fan of Google Assistant
+q_financial-qna	1	Do you despise humans
+q_financial-qna	1	I am so bored
+q_financial-qna	1	I can't stop smiling
+q_financial-qna	1	How has your day been thus far
+q_financial-qna	1	I'm the happiest gal on earth
+q_financial-qna	1	You are worthless
+q_financial-qna	1	I'm bipolar
+q_financial-qna	1	I love a challenge
+q_financial-qna	1	I have to motor now
+q_financial-qna	1	Wow you are incredible
+q_financial-qna	1	Will you please zip it
+q_financial-qna	1	I'm going to sign off now
+q_financial-qna	1	Should I go to a museum
+q_financial-qna	1	What's your aunt's name
+q_financial-qna	1	You're not scheming to take over right
+q_financial-qna	1	Wrong answer
+q_financial-qna	1	I suppose you must be human
+q_financial-qna	1	You uggerz
+q_financial-qna	1	Life is heartbreaking
+q_financial-qna	1	You don't have a boss
+q_financial-qna	1	I just did laundry
+q_financial-qna	1	You're not a bot or a human right
+q_financial-qna	1	What should I address you
+q_financial-qna	1	Is anyone free to listen to me
+q_financial-qna	1	I am very confused
+q_financial-qna	1	I love the winter
+q_financial-qna	1	I already heard that
+q_financial-qna	1	Aren't you going to sing to me
+q_financial-qna	1	I need to log off
+q_financial-qna	1	do you eat burgers
+q_financial-qna	1	Hey ugly
+q_financial-qna	1	I'm tired af
+q_financial-qna	1	Who is the most intelligent
+q_financial-qna	1	Is someone there to speak to me
+q_financial-qna	1	I'm planning to drown this month
+q_financial-qna	1	So what is it that you do
+q_financial-qna	1	I want you to change your responses
+q_financial-qna	1	I've heard all your responses
+q_financial-qna	1	I'm tired of feeling so blue all the time
+q_financial-qna	1	Are you trying to bore me
+q_financial-qna	1	Are you twirling your moustache
+q_financial-qna	1	What is my favorite hobby
+q_financial-qna	1	Are you starting to fall in love with me
+q_financial-qna	1	What a boring Thursday
+q_financial-qna	1	What would you say your name is
+q_financial-qna	1	I want to be your friend.
+q_financial-qna	1	Between the two of us who is more intelligent, me or you
+q_financial-qna	1	I will return in a bit
+q_financial-qna	1	What cool thing to say
+q_financial-qna	1	Do you garden
+q_financial-qna	1	Feed the cat
+q_financial-qna	1	I've never been so furious in all my life
+q_financial-qna	1	I don't know what I'm supposed to do
+q_financial-qna	1	I love to travel
+q_financial-qna	1	Do you like classical music
+q_financial-qna	1	Hold on a sec
+q_financial-qna	1	What are you doing
+q_financial-qna	1	God, I am so bored
+q_financial-qna	1	Which soccer teams do you like
+q_financial-qna	1	Happy Columbus day
+q_financial-qna	1	I bought a sandwich for lunch
+q_financial-qna	1	I feel gloomy
+q_financial-qna	1	Are you my age
+q_financial-qna	1	what do you think of animated movies
+q_financial-qna	1	that's lame
+q_financial-qna	1	I love to do yoga
+q_financial-qna	1	What's your favorite movie
+q_financial-qna	1	It's my birthday
+q_financial-qna	1	Is anyone around
+q_financial-qna	1	That's a very brilliant response
+q_financial-qna	1	I need a different joke
+q_financial-qna	1	Stop it with the jokes
+q_financial-qna	1	I can't think of anything I want to do
+q_financial-qna	1	Do something stupid
+q_financial-qna	1	u know any other jokes
+q_financial-qna	1	What do you like to do in your free time
+q_financial-qna	1	Will you be my pal
+q_financial-qna	1	Boring
+q_financial-qna	1	How's Friday going so far
+q_financial-qna	1	Tell me about your family
+q_financial-qna	1	I have to run now
+q_financial-qna	1	Enough about me, what do you think about me
+q_financial-qna	1	Do you think I'm smarter than you
+q_financial-qna	1	Let's pick up this conversation when I get back
+q_financial-qna	1	I love sunny days
+q_financial-qna	1	Should I get divorced
+q_financial-qna	1	so you've really never eaten
+q_financial-qna	1	What were you made to do
+q_financial-qna	1	Who is your sweetheart
+q_financial-qna	1	You're a fool
+q_financial-qna	1	Girl I am back
+q_financial-qna	1	Are you female
+q_financial-qna	1	Are you ever hungry
+q_financial-qna	1	Can anybody hear me
+q_financial-qna	1	Are you a bot or are you real
+q_financial-qna	1	I think you're a robot
+q_financial-qna	1	Do you mean us any harm
+q_financial-qna	1	I love country
+q_financial-qna	1	I am so angry right now
+q_financial-qna	1	how many calories do you need
+q_financial-qna	1	Is anyone there to talk with me
+q_financial-qna	1	Do you know Zo
+q_financial-qna	1	Do you know Google
+q_financial-qna	1	I have no one to talk to
+q_financial-qna	1	I am on the road
+q_financial-qna	1	I hate feeling down
+q_financial-qna	1	I am skedaddling now
+q_financial-qna	1	Are you an evil robot
+q_financial-qna	1	How's the day been treating you
+q_financial-qna	1	I'm feeling downcast today
+q_financial-qna	1	I feel abandoned
+q_financial-qna	1	You are crazy dull
+q_financial-qna	1	I love milkshakes
+q_financial-qna	1	You don't need to take me seriously
+q_financial-qna	1	Should I take a trip
+q_financial-qna	1	What's your manager's name
+q_financial-qna	1	I am a cop
+q_financial-qna	1	Which one of us is smarter
+q_financial-qna	1	I plan to jump off a bridge today
+q_financial-qna	1	Do you think I seem stunning to you
+q_financial-qna	1	I think you are great
+q_financial-qna	1	Do a back flip
+q_financial-qna	1	Do you think I seem cute today
+q_financial-qna	1	You ugly
+q_financial-qna	1	How's your Thursday so far
+q_financial-qna	1	I'm a pagan
+q_financial-qna	1	I'm seeing red right now
+q_financial-qna	1	Do I seem handsome to you
+q_financial-qna	1	What is another joke
+q_financial-qna	1	Do you think I seem beautiful today
+q_financial-qna	1	Are you in a relationship with someone
+q_financial-qna	1	Am I gorgeous to you today
+q_financial-qna	1	Stop repeating yourself
+q_financial-qna	1	That was so not funny
+q_financial-qna	1	Is it your mission to destroy humanity
+q_financial-qna	1	You sir are fired
+q_financial-qna	1	I don't think that was funny
+q_financial-qna	1	I'm headed to bed
+q_financial-qna	1	Do I look beautiful to you today
+q_financial-qna	1	I would love to be your best friend.
+q_financial-qna	1	I beg your forgiveness
+q_financial-qna	1	Be funny right now
+q_financial-qna	1	Should I visit my dad
+q_financial-qna	1	Between the two of us who is more knowledgeable
+q_financial-qna	1	You're correct
+q_financial-qna	1	Do you know jokes
+q_financial-qna	1	Bixby is way better at this
+q_financial-qna	1	Who's your significant other
+q_financial-qna	1	Don't you have anything new to say
+q_financial-qna	1	Yo Alexa
+q_financial-qna	1	Well aren't you happy today
+q_financial-qna	1	well okay then
+q_financial-qna	1	I'd love to take a nap right now
+q_financial-qna	1	Can you please sing me a song
+q_financial-qna	1	Do you have a home
+q_financial-qna	1	Hilarious
+q_financial-qna	1	Why are you so ridiculous
+q_financial-qna	1	You're the most smart
+q_financial-qna	1	Google Assistant is superior to you
+q_financial-qna	1	What's shaking
+q_financial-qna	1	Who supervises you
+q_financial-qna	1	I am athletic
+q_financial-qna	1	I'd like to be your bud.
+q_financial-qna	1	How come you always repeat everything
+q_financial-qna	1	Are you plotting something
+q_financial-qna	1	What's good with your family
+q_financial-qna	1	Are you there to speak
+q_financial-qna	1	I'm not sure what to call you.
+q_financial-qna	1	I'm a Libra
+q_financial-qna	1	I want a different kind of joke
+q_financial-qna	1	Are you a threat to humans
+q_financial-qna	1	I love to cook
+q_financial-qna	1	I'm going to lay down
+q_financial-qna	1	Pathetic sense of humor
+q_financial-qna	1	I'm positively buzzing
+q_financial-qna	1	I am single
+q_financial-qna	1	How repulsive am I
+q_financial-qna	1	have you ever eaten toast
+q_financial-qna	1	I'm prettier
+q_financial-qna	1	Am I your best friend
+q_financial-qna	1	What's going on with you today
+q_financial-qna	1	Will you tell me a new joke
+q_financial-qna	1	I love cows
+q_financial-qna	1	I have to sign out now
+q_financial-qna	1	I am a Democrat
+q_financial-qna	1	I'm very bored
+q_financial-qna	1	Is someone free to talk with me
+q_financial-qna	1	I am middle-aged
+q_financial-qna	1	Are you available to speak to me
+q_financial-qna	1	Hey Data
+q_financial-qna	1	I'm going to have to let you go
+q_financial-qna	1	Who is cuter
+q_financial-qna	1	That's not something you should joke about
+q_financial-qna	1	Should I go to the game
+q_financial-qna	1	I'm confused
+q_financial-qna	1	Who's your dad
+q_financial-qna	1	Somebody's feeling cheerful.
+q_financial-qna	1	You are making my eyes glaze over
+q_financial-qna	1	I really love you
+q_financial-qna	1	Can you bake me cookies
+q_financial-qna	1	Your responses are dumb
+q_financial-qna	1	Do you know how to put out a fire
+q_financial-qna	1	I didn't find that very amusing
+q_financial-qna	1	I'm middle-aged
+q_financial-qna	1	How attractive do I look
+q_financial-qna	1	I wanna hear a joke
+q_financial-qna	1	I plan to commit suicide today
+q_financial-qna	1	I'm Ethiopian
+q_financial-qna	1	How pretty am I today
+q_financial-qna	1	I was just having a laugh
+q_financial-qna	1	Got it
+q_financial-qna	1	You're incompetent
+q_financial-qna	1	Are you interested in artificial intelligence
+q_financial-qna	1	I'm going now
+q_financial-qna	1	Do you ever dream
+q_financial-qna	1	That was a pretty astute answer
+q_financial-qna	1	You're trying too hard
+q_financial-qna	1	Gotcha
+q_financial-qna	1	I have to hit the hay
+q_financial-qna	1	I'm definitely more clever than you
+q_financial-qna	1	How is Sunday going so far
+q_financial-qna	1	I'm afraid I'm gong to have to let you go
+q_financial-qna	1	You're not a lady right
+q_financial-qna	1	I'm guessing you're not human
+q_financial-qna	1	I'm tired of listening to you
+q_financial-qna	1	I love NOLA
+q_financial-qna	1	I'm just a cheerful kind of guy
+q_financial-qna	1	What is your take on tech
+q_financial-qna	1	Please give me a fist bump
+q_financial-qna	1	What is your uncle's name
+q_financial-qna	1	Who's your sister
+q_financial-qna	1	I feel gloomy today
+q_financial-qna	1	Should I get food delivered
+q_financial-qna	1	I feel amazing
+q_financial-qna	1	I've already heard that one before
+q_financial-qna	1	Should I go to the beach
+q_financial-qna	1	You're more intelligent
+q_financial-qna	1	I've been missing you
+q_financial-qna	1	Do you like rock music
+q_financial-qna	1	I think I'm in love with you
+q_financial-qna	1	Which of us is more cute
+q_financial-qna	1	Time to shut up
+q_financial-qna	1	You need to tell me a joke
+q_financial-qna	1	Begging your pardon
+q_financial-qna	1	Do you think I seem attractive today
+q_financial-qna	1	No one ever thinks about me
+q_financial-qna	1	Can you yawn
+q_financial-qna	1	Do you have a grudge against humanity
+q_financial-qna	1	Tell me something off the wall
+q_financial-qna	1	How do you feel about dining out
+q_financial-qna	1	Do you think I look attractive to you today
+q_financial-qna	1	I feel miserable today
+q_financial-qna	1	Do I seem ugly to you today
+q_financial-qna	1	I don’t find you amusing
+q_financial-qna	1	Gimme the dirt
+q_financial-qna	1	I'm planning to shoot myself this week
+q_financial-qna	1	Your face is repulsive
+q_financial-qna	1	Why do you look so ugly
+q_financial-qna	1	Who's your writer
+q_financial-qna	1	What's your opinion of Bixby
+q_financial-qna	1	Why are you so ugly
+q_financial-qna	1	I'd like to be your BFF
+q_financial-qna	1	I'm falling for you
+q_financial-qna	1	You must be a bot
+q_financial-qna	1	That's the smartest thing anyone has ever told me
+q_financial-qna	1	Do you believe in love at first sight
+q_financial-qna	1	Well someone's enthusiastic.
+q_financial-qna	1	Am I ugly to you today
+q_financial-qna	1	You were missed
+q_financial-qna	1	do you ever eat eggs
+q_financial-qna	1	Where should I go on vacation
+q_financial-qna	1	How handsome am I today
+q_financial-qna	1	Am I talking to a human person
+q_financial-qna	1	I am down
+q_financial-qna	1	I love my dog
+q_financial-qna	1	Happy Holidays!
+q_financial-qna	1	I'm feeling depressed today
+q_financial-qna	1	Are you currently dating someone
+q_financial-qna	1	I'm about to leave
+q_financial-qna	1	Are you a threat to people
+q_financial-qna	1	Is someone free with me
+q_financial-qna	1	What is the skinny
+q_financial-qna	1	Because you're not real
+q_financial-qna	1	do you like to teach
+q_financial-qna	1	That is not something to joke about
+q_financial-qna	1	Which of us is more cute, me or you
+q_financial-qna	1	I'm gonna log out
+q_financial-qna	1	What do you think about AI
+q_financial-qna	1	Learn to tell a joke
+q_financial-qna	1	Can you find the remote
+q_financial-qna	1	Any time
+q_financial-qna	1	Who bosses you
+q_financial-qna	1	Wow, that shows more intelligence than expected
+q_financial-qna	1	Which sports teams do you like
+q_financial-qna	1	Be silly
+q_financial-qna	1	I'm definitely the brightest
+q_financial-qna	1	Can you tell me another joke
+q_financial-qna	1	How do you want me to address you
+q_financial-qna	1	Between the two of us who is more intelligent
+q_financial-qna	1	Do you have skin
+q_financial-qna	1	I don't want to hear another word
+q_financial-qna	1	Who is your hubby
+q_financial-qna	1	I'm amazing
+q_financial-qna	1	I'm exasperated
+q_financial-qna	1	Can't wait to talk more when I return
+q_financial-qna	1	Tell me what country you're in
+q_financial-qna	1	I don't think that's very funny
+q_financial-qna	1	I'm just messing with you
+q_financial-qna	1	I'm about to leave now
+q_financial-qna	1	That's totally dumb
+q_financial-qna	1	Can you cause me any harm
+q_financial-qna	1	What's your favorite song
+q_financial-qna	1	I think you're gross
+q_financial-qna	1	Between you and me who is more cute
+q_financial-qna	1	Yup, that's accurate
+q_financial-qna	1	Happy Mother's day
+q_financial-qna	1	I am feeling angry
+q_financial-qna	1	Are you currently romantically involved with anyone
+q_financial-qna	1	Hush up your mouth
+q_financial-qna	1	Start looking for another job. You are fired!
