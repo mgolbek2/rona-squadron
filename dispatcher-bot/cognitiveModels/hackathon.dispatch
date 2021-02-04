@@ -1,0 +1,60 @@
+{
+  "authoringRegion": "westus",
+  "hierarchical": true,
+  "useAllTrainingData": true,
+  "dontReviseUtterance": false,
+  "copyLuisData": true,
+  "normalizeDiacritics": true,
+  "services": [
+    {
+      "intentName": "l_Weather",
+      "appId": "002727b5-68cd-4012-8820-631c4a43f7bb",
+      "authoringKey": "5720d366dcee4af681b5038cd0676470",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "Weather",
+      "id": "1"
+    },
+    {
+      "intentName": "l_HomeAutomation",
+      "appId": "66bc3af8-7329-40f4-93bb-d87d961ec42f",
+      "authoringKey": "5720d366dcee4af681b5038cd0676470",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "Home-Automation",
+      "id": "2"
+    },
+    {
+      "intentName": "q_covid-19-qna",
+      "includePrompts": true,
+      "kbId": "e55954b7-ed82-42ce-8300-4504a25b74ba",
+      "subscriptionKey": "09bf0788fe964bfcbaefa2b6fc418739",
+      "type": "qna",
+      "name": "covid-19-kb",
+      "id": "3"
+    },
+    {
+      "intentName": "q_financial-qna",
+      "includePrompts": true,
+      "kbId": "60a87d3e-53e8-4289-9f39-ab9d32585e37",
+      "subscriptionKey": "09bf0788fe964bfcbaefa2b6fc418739",
+      "type": "qna",
+      "name": "financial-and-support-services-faq",
+      "id": "4"
+    }
+  ],
+  "serviceIds": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "appId": "ed3595a1-f536-401d-b124-5f8fe26b74d3",
+  "authoringKey": "5720d366dcee4af681b5038cd0676470",
+  "version": "Dispatch",
+  "region": "westus",
+  "type": "dispatch",
+  "name": "hackathon"
+}
