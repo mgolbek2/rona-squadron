@@ -14,8 +14,7 @@ const HomePage = ({navigation}) => {
 
       const navigate = (url, title) => {
         setStateForKey("botUrl", url);
-        setStateForKey("chatTitle", title);
-        navigation.navigate('ChatPage');
+        navigation.navigate('ChatBot');
       }
 
     const servicesMap = {

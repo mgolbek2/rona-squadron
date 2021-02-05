@@ -1,5 +1,4 @@
 import React from 'react';
-import { View } from 'react-native';
 import 'react-native-gesture-handler';
 import { Provider, getStateForKey } from "react-native-redux"
 import { NavigationContainer } from '@react-navigation/native';
@@ -7,7 +6,7 @@ import { createStackNavigator } from '@react-navigation/stack';
 
 import LoginPage from './components/loginPage'
 import HomePage from './components/homePage'
-import ChatPage from './components/chatPage'
+import ChatBot from './components/chatBot'
 
 const App: () => React$Node = () => {
 
@@ -41,7 +40,7 @@ const App: () => React$Node = () => {
                         headerTitleStyle: HeaderTitleStyle,
                         headerTitleContainerStyle: HeaderTitleContainerStyle
                     }}/>
-                    <Stack.Screen name="ChatPage" component={ChatPage} options={{
+                    <Stack.Screen name="ChatBot" component={ChatPage} options={{
                         title: 'Chat',
                         headerTitleStyle: HeaderTitleStyle,
                         headerTitleContainerStyle: HeaderTitleContainerStyle
