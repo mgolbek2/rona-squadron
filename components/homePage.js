@@ -77,7 +77,7 @@ const HomePage = ({navigation}) => {
             {
                 "serviceName": "CDC Guidlines",
                 "url": "https://www.cdc.gov/coronavirus/2019-ncov/php/risk-assessment.html",
-                "botUrl": "https://crudy-hackathon-qna-service.azurewebsites.net/qnamaker/knowledgebases/",
+                "botUrl": "https://crudy-hackathon-qna-service.azurewebsites.net/qnamaker/knowledgebases/knowledgebases/e55954b7-ed82-42ce-8300-4504a25b74ba/generateAnswer",
                 "phone": "800-CDC-INFO",
                 "sdoh_flag": "covid",
                 "chatTitle": "Covid Bot",
