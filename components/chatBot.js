@@ -25,15 +25,44 @@ const ChatPage = ({}) => {
                     }
                 })
             let json = await response.json();
+            return json;
+        } catch (error) {
+            console.error(error);
+        }
+    }
+
+    let json = getToken();
+
+    const sendMessageToBot = async (message) => {
+        try {
+            let response = await fetch(
+                'https://directline.botframework.com/v3/directline/conversations/' + json.conversationId + '/activities',
+                {
+                    method: 'POST',
+                    headers: {
+                        Accept: 'application/json',
+                        'Content-Type': 'application/json',
+                        Authorization: 'Bearer ' + json.token
+                    },
+                    body: JSON.stringify({
+                        "locale": "en-EN",
+                        "type": "message",
+                        "from": {
+                            "id": "user1"
+                        },
+                        "text": message
+                    })
+                })
+            let json = await response.json();
             console.log(json);
-            return json.token;
+            return json;
         } catch (error) {
             console.error(error);
         }
     }
 
     const sendMessage = async (message) => {
-        const token = await getToken();
+        await sendMessageToBot(message);
         try {
             let response = await fetch(
                 botUrl,
