@@ -40,7 +40,7 @@ const App: () => React$Node = () => {
                         headerTitleStyle: HeaderTitleStyle,
                         headerTitleContainerStyle: HeaderTitleContainerStyle
                     }}/>
-                    <Stack.Screen name="ChatBot" component={ChatPage} options={{
+                    <Stack.Screen name="ChatBot" component={ChatBot} options={{
                         title: 'Chat',
                         headerTitleStyle: HeaderTitleStyle,
                         headerTitleContainerStyle: HeaderTitleContainerStyle

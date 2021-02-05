@@ -9,17 +9,7 @@ const ChatPage = ({}) => {
     let botUrl = getStateForKey("botUrl");
 
     useEffect(() => {
-        setMessages([
-            {
-                _id: 1,
-                text: 'What would you like to ask me?',
-                createdAt: new Date(),
-                user: {
-                    _id: 2,
-                    name: 'Sheldon'
-                },
-            },
-        ])
+        setMessages([])
     }, [])
 
     const getToken = async () => {
@@ -36,7 +26,7 @@ const ChatPage = ({}) => {
                 })
             let json = await response.json();
             console.log(json);
-            return json;
+            return json.token;
         } catch (error) {
             console.error(error);
         }
