@@ -25,6 +25,18 @@ class DispatchBot extends ActivityHandler {
             host: process.env.CovidQnAEndpointHostName
         });
 
+        const qnaFoodMaker = new QnAMaker({
+            knowledgeBaseId: process.env.FoodQnAKnowledgebaseId,
+            endpointKey: process.env.FoodQnAEndpointKey,
+            host: process.env.FoodQnAEndpointHostName
+        });
+
+        const qnaHousingMaker = new QnAMaker({
+            knowledgeBaseId: process.env.HousingQnAKnowledgebaseId,
+            endpointKey: process.env.HousingQnAEndpointKey,
+            host: process.env.HousingQnAEndpointHostName
+        });
+
         const qnaFinancialMaker = new QnAMaker({
             knowledgeBaseId: process.env.FinancialQnAKnowledgebaseId,
             endpointKey: process.env.FinancialQnAEndpointKey,
@@ -33,6 +45,8 @@ class DispatchBot extends ActivityHandler {
 
         this.dispatchRecognizer = dispatchRecognizer;
         this.qnaCovidMaker = qnaCovidMaker;
+        this.qnaFoodMaker = qnaFoodMaker;
+        this.qnaHousingMaker = qnaHousingMaker;
         this.qnaFinancialMaker = qnaFinancialMaker;
 
         this.onMessage(async (context, next) => {
@@ -74,6 +88,12 @@ class DispatchBot extends ActivityHandler {
             break;
         case 'q_covid-19-qna':
             await this.processCovidQnA(context);
+            break;
+        case 'q_food-qna':
+            await this.processFoodQnA(context);
+            break;
+        case 'q_housing-qna':
+            await this.processHousingQnA(context);
             break;
         case 'q_financial-qna':
             await this.processFinancialQnA(context);
@@ -124,6 +144,30 @@ class DispatchBot extends ActivityHandler {
             await context.sendActivity(`${ results[0].answer }`);
         } else {
             await context.sendActivity('Sorry, could not find an answer in the Covid Q and A system.');
+        }
+    }
+
+    async processFoodQnA(context) {
+        console.log('processFoodQnA');
+
+        const results = await this.qnaFoodMaker.getAnswers(context);
+
+        if (results.length > 0) {
+            await context.sendActivity(`${ results[0].answer }`);
+        } else {
+            await context.sendActivity('Sorry, could not find an answer in the Food Q and A system.');
+        }
+    }
+
+    async processHousingQnA(context) {
+        console.log('processHousingQnA');
+
+        const results = await this.qnaHousingMaker.getAnswers(context);
+
+        if (results.length > 0) {
+            await context.sendActivity(`${ results[0].answer }`);
+        } else {
+            await context.sendActivity('Sorry, could not find an answer in the Housing Q and A system.');
         }
     }
 
