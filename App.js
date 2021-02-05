@@ -7,6 +7,7 @@ import { createStackNavigator } from '@react-navigation/stack';
 import LoginPage from './components/loginPage'
 import HomePage from './components/homePage'
 import ChatBot from './components/chatBot'
+import ChatPage from './components/chatPage'
 
 const App: () => React$Node = () => {
 
@@ -39,7 +40,7 @@ const App: () => React$Node = () => {
                         headerTitleStyle: HeaderTitleStyle,
                         headerTitleContainerStyle: HeaderTitleContainerStyle
                     }}/>
-                    <Stack.Screen name="ChatBot" component={ChatBot} options={{
+                    <Stack.Screen name="ChatPage" component={ChatPage} options={{
                         title: 'Chat',
                         headerTitleStyle: HeaderTitleStyle,
                         headerTitleContainerStyle: HeaderTitleContainerStyle

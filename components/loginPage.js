@@ -35,6 +35,7 @@ const LoginPage = ({navigation}) => {
                 />
                 <View style={[styles.passView]}>
                     <TextInput
+                      secureTextEntry={true}
                       placeholder='Password'
                       style={styles.loginTextInput}
                       onChangeText={() => {}}
