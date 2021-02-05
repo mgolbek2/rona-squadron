@@ -25,6 +25,7 @@ const HomePage = ({navigation}) => {
               "botUrl": "https://crudy-hackathon-qna-service.azurewebsites.net/qnamaker/knowledgebases/3e2836c1-05b2-4332-80d1-32b394732701/generateAnswer",
               "phone": "858-695-9655",
               "sdoh_flag": "food_insecurity",
+              "chatTitle": "Food Bot",
               "img": {uri: '/Users/megangolbek/Documents/GitHub/ronaSquadron/images/RMP.jpg'}
           },
        ],
@@ -35,6 +36,7 @@ const HomePage = ({navigation}) => {
             "botUrl": "",
             "phone": "619-284-9281",
             "sdoh_flag": "transportation",
+            "chatTitle": "Transportation Bot",
             "img": {uri: '/Users/megangolbek/Documents/GitHub/ronaSquadron/images/Elderlogo.png'}
         },
       ],
@@ -45,6 +47,7 @@ const HomePage = ({navigation}) => {
             "botUrl": "https://crudy-hackathon-qna-service.azurewebsites.net/qnamaker/knowledgebases/60a87d3e-53e8-4289-9f39-ab9d32585e37/generateAnswer",
             "phone": "619-515-6712",
             "sdoh_flag": "financial_strain",
+            "chatTitle": "Financial Bot",
             "img": {uri: '/Users/megangolbek/Documents/GitHub/ronaSquadron/images/Seal_of_San_Diego_County,_California.png'}
         },
       ],
@@ -55,16 +58,18 @@ const HomePage = ({navigation}) => {
             "botUrl": "https://crudy-hackathon-qna-service.azurewebsites.net/qnamaker/knowledgebases/13ed552c-5d7f-49af-b96f-67d3ae60ef82/generateAnswer",
             "phone": "858-694-4807",
             "sdoh_flag": "housing_insecurity",
+            "chatTitle": "Housing Bot",
             "img": {uri: '/Users/megangolbek/Documents/GitHub/ronaSquadron/images/05-31-16-home-nav-rental-assistance.png'}
         },
       ],
       "loneliness": [
         {
             "serviceName": "Community Action Partnership",
-            "url": "https://www.cdc.gov/coronavirus/2019-ncov/php/risk-assessment.html",
-            "botUrl": "https://crudy-hackathon-qna-service.azurewebsites.net/qnamaker/knowledgebases/e55954b7-ed82-42ce-8300-4504a25b74ba/generateAnswer",
+            "url": "",
+            "botUrl": "https://crudy-hackathon-qna-service.azurewebsites.net/qnamaker/knowledgebases/",
             "phone": "619-228-2840",
             "sdoh_flag": "loneliness",
+            "chatTitle": "Loneliness Bot",
             "img": {uri: '/Users/megangolbek/Documents/GitHub/ronaSquadron/images/logo.png'}
         }
       ]
@@ -87,7 +92,7 @@ const HomePage = ({navigation}) => {
                                          <Text style={{color: 'blue', fontSize: 15, textDecorationLine: 'underline'}} onPress={() => Linking.openURL(services[j].url)}>URL</Text>
                                      </View>
                                      <View style={{marginLeft: 'auto'}}>
-                                         <TouchableOpacity style={[styles.chatButton]} onPress={() => navigate(services[j].botUrl)}>
+                                         <TouchableOpacity style={[styles.chatButton]} onPress={() => navigate(services[j].botUrl, services[j].chatTitle)}>
                                              <Text style={buttons.customBtnText}>chat</Text>
                                          </TouchableOpacity>
                                      </View>
