@@ -61,8 +61,8 @@ const HomePage = ({navigation}) => {
       "loneliness": [
         {
             "serviceName": "Community Action Partnership",
-            "url": "",
-            "botUrl": "https://crudy-hackathon-qna-service.azurewebsites.net/qnamaker/knowledgebases/",
+            "url": "https://www.cdc.gov/coronavirus/2019-ncov/php/risk-assessment.html",
+            "botUrl": "https://crudy-hackathon-qna-service.azurewebsites.net/qnamaker/knowledgebases/e55954b7-ed82-42ce-8300-4504a25b74ba/generateAnswer",
             "phone": "619-228-2840",
             "sdoh_flag": "loneliness",
             "img": {uri: '/Users/megangolbek/Documents/GitHub/ronaSquadron/images/logo.png'}
