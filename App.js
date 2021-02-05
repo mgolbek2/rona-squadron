@@ -10,7 +10,6 @@ import ChatBot from './components/chatBot'
 
 const App: () => React$Node = () => {
 
-    let chatTitle = getStateForKey("chatTitle") ? getStateForKey("chatTitle") : '';
     const Stack = createStackNavigator();
     const HeaderTitleStyle = {
         fontSize: 30,
@@ -22,7 +21,7 @@ const App: () => React$Node = () => {
     const HomeButtonStyle = {
         marginRight: 20
     };
-    const myInitialState = {userName: '', botUrl: '', chatTitle: ''}
+    const myInitialState = {userName: '', botUrl: ''}
 
     return (
       <Provider

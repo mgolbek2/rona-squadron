@@ -1,10 +1,11 @@
 import React, { useState, useCallback, useEffect }  from 'react'
 import { StyleSheet, Text, View, SafeAreaView } from 'react-native';
-import { GiftedChat } from 'react-native-gifted-chat'
+import { GiftedChat, Bubble } from 'react-native-gifted-chat'
 import { getStateForKey } from "react-native-redux"
+import * as _ from 'lodash'
 
 const ChatPage = ({}) => {
-    let num = 2;
+    let num = 0;
     const [messages, setMessages] = useState([]);
     let botUrl = getStateForKey("botUrl");
     let json;
@@ -68,63 +69,54 @@ const ChatPage = ({}) => {
             let response = await fetch(
                 'https://directline.botframework.com/v3/directline/conversations/' + this.json.conversationId + '/activities',
                 {
-                    method: 'POST',
+                    method: 'GET',
                     headers: {
-                        Accept: 'application/json',
-                        'Content-Type': 'application/json',
                         Authorization: 'Bearer ' + this.json.token
-                    },
-                    body: JSON.stringify({
-                        "locale": "en-EN",
-                        "type": "message",
-                        "from": {
-                            "id": "user1"
-                        },
-                        "text": message
-                    })
+                    }
                 })
             let json = await response.json();
-            return json;
+            return json.activities;
         } catch (error) {
             console.error(error);
         }
+    }
+
+    const formatMessage = (message) => {
+        let userId = 1;
+        if (message.from.id == 'humana-hackathon-cov-bot-id') {
+            userId = 2;
+        }
+        let formattedMessage = {
+            '_id': this.num,
+            text: message.text,
+            createdAt: new Date(message.timestamp),
+            user: {
+                '_id': userId
+            }
+        }
+         this.num++;
+         return formattedMessage;
+    }
+
+    const formatConversation = (conversation) => {
+        conversation = _.drop(conversation);
+        this.num = 0;
+        return _.sortBy(conversation.map((message) => formatMessage(message)), (message) => {message.timestamp}).reverse();
     }
 
     const sendMessage = async (message) => {
         await getToken();
         await sendMessageToBot(message);
-        try {
-            let response = await fetch(
-                botUrl,
-                {
-                    method: 'POST',
-                    headers: {
-                        Accept: 'application/json',
-                        'Content-Type': 'application/json',
-                        Authorization: 'EndpointKey 80c6c7a7-7d43-41e3-b5a4-82219feb47aa'
-                    },
-                    body: JSON.stringify({
-                        question: message
-                    })
-                })
-            let json = await response.json();
-            return json.answers[0].answer;
-        } catch (error) {
-            console.error(error);
-        }
+        let conversation = await getMessages();
+        let formattedConversation = formatConversation(conversation);
+        setMessages(previousMessages => GiftedChat.append([], formattedConversation))
     }
 
     const onSend = useCallback((messages = []) => {
-        setResponse(messages[0].text);
         setMessages(previousMessages => GiftedChat.append(previousMessages, messages))
+        sendMessage(messages[0].text)
     }, [])
 
-    const setResponse = async (message) => {
-        let responseMsg = await sendMessage(message);
-        let msgs = [{_id: num, createdAt: new Date(), "text": responseMsg, "user": {"_id": 2, name: 'Sheldon'}}]
-        num++;
-        setMessages(previousMessages => GiftedChat.append(previousMessages, msgs))
-    }
 
     return (
         <GiftedChat
@@ -133,6 +125,21 @@ const ChatPage = ({}) => {
             user={{
                 _id: 1
             }}
+            renderBubble={props => {
+                return (
+                  <Bubble
+                    {...props}
+                    wrapperStyle={{
+                      left: {
+                        backgroundColor: '#fff',
+                      },
+                      right: {
+                          backgroundColor: '#4a7729',
+                        },
+                    }}
+                  />
+                );
+              }}
         />
     )
 }
