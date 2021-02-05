@@ -14,7 +14,7 @@ const LoginPage = ({navigation}) => {
     },
     'Fred': {
         'name': 'Fred',
-        'sdoh_flags': ['financial_strain', 'housing_insecurity', 'transportation']
+        'sdoh_flags': ['financial_strain', 'housing_insecurity', 'transportation', 'covid']
     }
    }
 

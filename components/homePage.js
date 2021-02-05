@@ -65,14 +65,25 @@ const HomePage = ({navigation}) => {
       "loneliness": [
         {
             "serviceName": "Community Action Partnership",
-            "url": "",
+            "url": "https://www.sandiegocounty.gov/hhsa/programs/sd/community_action_partnership/",
             "botUrl": "https://crudy-hackathon-qna-service.azurewebsites.net/qnamaker/knowledgebases/",
             "phone": "619-228-2840",
             "sdoh_flag": "loneliness",
             "chatTitle": "Loneliness Bot",
             "img": {uri: '/Users/megangolbek/Documents/GitHub/ronaSquadron/images/logo.png'}
         }
-      ]
+      ],
+        "covid": [
+            {
+                "serviceName": "CDC Guidlines",
+                "url": "https://www.cdc.gov/coronavirus/2019-ncov/php/risk-assessment.html",
+                "botUrl": "https://crudy-hackathon-qna-service.azurewebsites.net/qnamaker/knowledgebases/",
+                "phone": "800-CDC-INFO",
+                "sdoh_flag": "covid",
+                "chatTitle": "Covid Bot",
+                "img": {uri: '/Users/megangolbek/Documents/GitHub/ronaSquadron/images/download.jpeg'}
+            }
+        ]
     }
 
           for (let i = 0; i < flags.length; i++) {
