@@ -10,11 +10,11 @@ const LoginPage = ({navigation}) => {
    const users = {
     'Megan': {
         'name': 'Megan',
-        'sdoh_flags': ['food_insecurity', 'loneliness']
+        'sdoh_flags': ['food_insecurity', 'loneliness', 'covid']
     },
     'Fred': {
         'name': 'Fred',
-        'sdoh_flags': ['financial_strain', 'housing_insecurity', 'transportation', 'covid']
+        'sdoh_flags': ['financial_strain', 'housing_insecurity', 'transportation']
     }
    }
 
