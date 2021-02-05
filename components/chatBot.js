@@ -7,12 +7,16 @@ const ChatPage = ({}) => {
     let num = 2;
     const [messages, setMessages] = useState([]);
     let botUrl = getStateForKey("botUrl");
+    let json;
 
     useEffect(() => {
         setMessages([])
     }, [])
 
     const getToken = async () => {
+        if (this.json) {
+            return;
+        }
         try {
             let response = await fetch(
                 'https://directline.botframework.com/v3/directline/conversations',
@@ -25,24 +29,23 @@ const ChatPage = ({}) => {
                     }
                 })
             let json = await response.json();
-            return json;
+            this.json = json;
+            return;
         } catch (error) {
             console.error(error);
         }
     }
 
-    let json = getToken();
-
     const sendMessageToBot = async (message) => {
         try {
             let response = await fetch(
-                'https://directline.botframework.com/v3/directline/conversations/' + json.conversationId + '/activities',
+                'https://directline.botframework.com/v3/directline/conversations/' + this.json.conversationId + '/activities',
                 {
                     method: 'POST',
                     headers: {
                         Accept: 'application/json',
                         'Content-Type': 'application/json',
-                        Authorization: 'Bearer ' + json.token
+                        Authorization: 'Bearer ' + this.json.token
                     },
                     body: JSON.stringify({
                         "locale": "en-EN",
@@ -54,7 +57,33 @@ const ChatPage = ({}) => {
                     })
                 })
             let json = await response.json();
-            console.log(json);
+            return json;
+        } catch (error) {
+            console.error(error);
+        }
+    }
+
+    const getMessages = async () => {
+        try {
+            let response = await fetch(
+                'https://directline.botframework.com/v3/directline/conversations/' + this.json.conversationId + '/activities',
+                {
+                    method: 'POST',
+                    headers: {
+                        Accept: 'application/json',
+                        'Content-Type': 'application/json',
+                        Authorization: 'Bearer ' + this.json.token
+                    },
+                    body: JSON.stringify({
+                        "locale": "en-EN",
+                        "type": "message",
+                        "from": {
+                            "id": "user1"
+                        },
+                        "text": message
+                    })
+                })
+            let json = await response.json();
             return json;
         } catch (error) {
             console.error(error);
@@ -62,6 +91,7 @@ const ChatPage = ({}) => {
     }
 
     const sendMessage = async (message) => {
+        await getToken();
         await sendMessageToBot(message);
         try {
             let response = await fetch(
