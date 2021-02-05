@@ -3,10 +3,10 @@ import { StyleSheet, Text, View, SafeAreaView } from 'react-native';
 import { GiftedChat } from 'react-native-gifted-chat'
 import { getStateForKey } from "react-native-redux"
 
-const CDCPage = ({}) => {
+const ChatPage = ({}) => {
     let num = 2;
     const [messages, setMessages] = useState([]);
-    let username = getStateForKey("userName")
+    let botUrl = getStateForKey("botUrl");
 
   useEffect(() => {
     setMessages([
@@ -25,13 +25,13 @@ const CDCPage = ({}) => {
   const sendMessage = async (message) => {
       try {
         let response = await fetch(
-            'https://crudy-qna-bot-test.azurewebsites.net/qnamaker/knowledgebases/ac25df48-b53e-4f27-803b-22d26bb58a43/generateAnswer',
+            botUrl,
             {
                  method: 'POST',
                  headers: {
                    Accept: 'application/json',
                    'Content-Type': 'application/json',
-                   Authorization: 'EndpointKey a7f4d387-2ae8-45b0-9c49-ab2c5e4a99cd'
+                   Authorization: 'EndpointKey 80c6c7a7-7d43-41e3-b5a4-82219feb47aa'
                  },
                  body: JSON.stringify({
                    question: message
@@ -46,13 +46,11 @@ const CDCPage = ({}) => {
 
   const onSend = useCallback((messages = []) => {
     setResponse(messages[0].text);
-    console.log(messages);
     setMessages(previousMessages => GiftedChat.append(previousMessages, messages))
   }, [])
 
   const setResponse = async (message) => {
       let responseMsg = await sendMessage(message);
-      console.log(responseMsg);
       let msgs = [{_id: num, createdAt: new Date(), "text": responseMsg, "user": {"_id": 2, name: 'Sheldon'}}]
       num++;
       setMessages(previousMessages => GiftedChat.append(previousMessages, msgs))
@@ -63,14 +61,13 @@ const CDCPage = ({}) => {
       messages={messages}
       onSend={messages => onSend(messages)}
       user={{
-        _id: 1,
-        name: username
+        _id: 1
       }}
     />
   )
 }
 
-export default CDCPage;
+export default ChatPage;
 
 const styles = StyleSheet.create({
     scene: {

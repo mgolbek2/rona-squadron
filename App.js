@@ -1,15 +1,17 @@
 import React from 'react';
 import { View } from 'react-native';
 import 'react-native-gesture-handler';
-import { Provider } from "react-native-redux"
+import { Provider, getStateForKey } from "react-native-redux"
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 
-import TabContainer from './components/tabContainer'
 import LoginPage from './components/loginPage'
+import HomePage from './components/homePage'
+import ChatPage from './components/chatPage'
 
 const App: () => React$Node = () => {
 
+    let chatTitle = getStateForKey("chatTitle") ? getStateForKey("chatTitle") : '';
     const Stack = createStackNavigator();
     const HeaderTitleStyle = {
         fontSize: 30,
@@ -21,7 +23,7 @@ const App: () => React$Node = () => {
     const HomeButtonStyle = {
         marginRight: 20
     };
-    const myInitialState = {userName: ''}
+    const myInitialState = {userName: '', botUrl: '', chatTitle: ''}
 
     return (
       <Provider
@@ -29,13 +31,18 @@ const App: () => React$Node = () => {
       >
             <NavigationContainer>
                 <Stack.Navigator>
-                    <Stack.Screen name = "Login" component={LoginPage} options={({ navigation }) => ({
-                        title: '\'Rona Squadron',
+                    <Stack.Screen name = "LoginPage" component={LoginPage} options={({ navigation }) => ({
+                        title: 'Login',
                         headerTitleStyle: HeaderTitleStyle,
                         headerTitleContainerStyle: HeaderTitleContainerStyle,
                     })}/>
-                    <Stack.Screen name="TabContainer" component={TabContainer} options={{
-                        title: '\'Rona Squadron',
+                    <Stack.Screen name="HomePage" component={HomePage} options={{
+                        title: 'Resources',
+                        headerTitleStyle: HeaderTitleStyle,
+                        headerTitleContainerStyle: HeaderTitleContainerStyle
+                    }}/>
+                    <Stack.Screen name="ChatPage" component={ChatPage} options={{
+                        title: 'Chat',
                         headerTitleStyle: HeaderTitleStyle,
                         headerTitleContainerStyle: HeaderTitleContainerStyle
                     }}/>

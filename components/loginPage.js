@@ -21,7 +21,8 @@ const LoginPage = ({navigation}) => {
 
   const login = () => {
     setStateForKey("user", users[value])
-    navigation.navigate('TabContainer');
+    console.log('here1');
+    navigation.navigate('HomePage');
   }
 
     return (
