@@ -14,7 +14,8 @@ const HomePage = ({navigation}) => {
 
       const navigate = (url, title) => {
         setStateForKey("botUrl", url);
-        navigation.navigate('ChatBot');
+//        navigation.navigate('ChatBot');
+        navigation.navigate('ChatPage');
       }
 
     const servicesMap = {
@@ -100,7 +101,7 @@ const HomePage = ({navigation}) => {
                                  <View style={[styles.contactContainer]}>
                                      <View style={[styles.infoContainer]}>
                                          <Text style={{fontSize: 15}}>Phone: {services[j].phone}</Text>
-                                         <Text style={{color: 'blue', fontSize: 15, textDecorationLine: 'underline'}} onPress={() => Linking.openURL(services[j].url)}>URL</Text>
+                                         <Text style={{color: 'blue', fontSize: 15, textDecorationLine: 'underline'}} onPress={() => Linking.openURL(services[j].url)}>Link</Text>
                                      </View>
                                      <View style={{marginLeft: 'auto'}}>
                                          <TouchableOpacity style={[styles.chatButton]} onPress={() => navigate(services[j].botUrl, services[j].chatTitle)}>

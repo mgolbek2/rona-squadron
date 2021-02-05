@@ -1,6 +1,6 @@
 import React, { useState, useCallback, useEffect }  from 'react'
 import { StyleSheet, Text, View, SafeAreaView } from 'react-native';
-import { GiftedChat } from 'react-native-gifted-chat'
+import { GiftedChat, Bubble } from 'react-native-gifted-chat'
 import { getStateForKey } from "react-native-redux"
 
 const ChatPage = ({}) => {
@@ -9,17 +9,7 @@ const ChatPage = ({}) => {
     let botUrl = getStateForKey("botUrl");
 
   useEffect(() => {
-    setMessages([
-      {
-        _id: 1,
-        text: 'What would you like to ask me?',
-        createdAt: new Date(),
-        user: {
-          _id: 2,
-          name: 'Sheldon'
-        },
-      },
-    ])
+    setMessages([])
   }, [])
 
   const sendMessage = async (message) => {
@@ -63,6 +53,21 @@ const ChatPage = ({}) => {
       user={{
         _id: 1
       }}
+      renderBubble={props => {
+                      return (
+                        <Bubble
+                          {...props}
+                          wrapperStyle={{
+                            left: {
+                              backgroundColor: '#fff',
+                            },
+                            right: {
+                                backgroundColor: '#4a7729',
+                              },
+                          }}
+                        />
+                      );
+                    }}
     />
   )
 }
